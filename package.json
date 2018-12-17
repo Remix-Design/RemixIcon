@@ -1,0 +1,20 @@
+{
+  "name": "remixicon",
+  "version": "1.0.0",
+  "description": "Remix Icon is a set of neutral system symbols carefully crafted for designers and developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Remix-Design/remixicon.git"
+  },
+  "keywords": ["remix-icon"],
+  "author": "wendygaoyuan <wendygaoyuan@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remix-Design/remixicon/issues"
+  },
+  "homepage": "https://github.com/Remix-Design/remixicon#readme"
+}
