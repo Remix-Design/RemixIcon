@@ -1447,11 +1447,6 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M4 16h16V5H4v11zm9 2v2h4v2H7v-2h4v-2H2.992A.998.998 0 0 1 2 16.993V4.007C2 3.451 2.455 3 2.992 3h18.016c.548 0 .992.449.992 1.007v12.986c0 .556-.455 1.007-.992 1.007H13z"/>
     </g>
-</symbol><symbol viewBox="0 0 24 24" id="remixicon-contact-fill">
-    <g>
-        <path fill="none" d="M0 0h24v24H0z"/>
-        <path d="M2 22a8 8 0 1 1 16 0H2zm8-9c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm10 4h4v2h-4v-2zm-3-5h7v2h-7v-2zm2-5h5v2h-5V7z"/>
-    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-contacts-book-2-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -1471,6 +1466,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M3 2h16.005C20.107 2 21 2.898 21 3.99v16.02c0 1.099-.893 1.99-1.995 1.99H3V2zm4 2H5v16h2V4zm2 16h10V4H9v16zm2-4a3 3 0 0 1 6 0h-6zm3-4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm8-6h2v4h-2V6zm0 6h2v4h-2v-4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-contacts-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M2 22a8 8 0 1 1 16 0H2zm8-9c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm10 4h4v2h-4v-2zm-3-5h7v2h-7v-2zm2-5h5v2h-5V7z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-contacts-line">
     <g>
@@ -3114,15 +3114,9 @@
         <path d="M20 5H4v14l9.292-9.294a1 1 0 0 1 1.414 0L20 15.01V5zM2 3.993A1 1 0 0 1 2.992 3h18.016c.548 0 .992.445.992.993v16.014a1 1 0 0 1-.992.993H2.992A.993.993 0 0 1 2 20.007V3.993zM8 11a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-image-line">
-    <defs>
-        <rect id="a" width="20" height="18" x="2" y="3" rx="1"/>
-    </defs>
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <mask id="b" fill="#fff">
-            <use href="#a"/>
-        </mask>
-        <path d="M4.828 21l-.02.02-.021-.02H2.992A.993.993 0 0 1 2 20.007V3.993A1 1 0 0 1 2.992 3h18.016c.548 0 .992.445.992.993v16.014a1 1 0 0 1-.992.993H4.828zM20 15V5H4v14L14 9l1.414 1.414L20 15zm0 2.828l-6-6L6.828 19H20v-1.172zM8 11a2 2 0 1 1 0-4 2 2 0 0 1 0 4z" mask="url(#b)"/>
+        <path d="M4.828 21l-.02.02-.021-.02H2.992A.993.993 0 0 1 2 20.007V3.993A1 1 0 0 1 2.992 3h18.016c.548 0 .992.445.992.993v16.014a1 1 0 0 1-.992.993H4.828zM20 15V5H4v14L14 9l6 6zm0 2.828l-6-6L6.828 19H20v-1.172zM8 11a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-inbox-archive-fill">
     <g>
@@ -4002,8 +3996,7 @@
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-parking-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <path d="M13 3H6v18h4v-6h3c3.31 0 6-2.69 6-6s-2.69-6-6-6zm.2 8H10V7h3.2c1.1 0 2 .9 2 2s-.9 2-2 2z"/>
-        <path d="M6 3h7a6 6 0 1 1 0 12h-3v6H6V3zm4 4v4h3a2 2 0 1 0 0-4h-3z"/>
+        <path fill-rule="nonzero" d="M6 3h7a6 6 0 1 1 0 12h-3v6H6V3zm4 4v4h3a2 2 0 1 0 0-4h-3z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-parking-line">
     <g>
@@ -5058,7 +5051,7 @@
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-shopping-cart-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <path d="M4 16V4H2V2h3a1 1 0 0 1 1 1v12h12.438l2-8H8V5h13.72a1 1 0 0 1 .97 1.243l-2.5 10a1 1 0 0 1-.97.757H5a1 1 0 0 1-1-1zm2 7a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm12 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM5 9h15l-.938 8H5V9z"/>
+        <path d="M6 9h13.938l.5-2H8V5h13.72a1 1 0 0 1 .97 1.243l-2.5 10a1 1 0 0 1-.97.757H5a1 1 0 0 1-1-1V4H2V2h3a1 1 0 0 1 1 1v6zm0 14a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm12 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-shopping-cart-line">
     <g>
@@ -5143,7 +5136,7 @@
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-skip-back-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <path stroke="#000" stroke-width="2" d="M8.803 12L18 18.131V5.87L8.803 12zM18 18.131L8.803 12 18 5.869V18.13z"/>
+        <path d="M8 11.333l10.223-6.815a.5.5 0 0 1 .777.416v14.132a.5.5 0 0 1-.777.416L8 12.667V19a1 1 0 0 1-2 0V5a1 1 0 1 1 2 0v6.333zm9 4.93V7.737L10.606 12 17 16.263z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-skip-back-mini-fill">
     <g>
@@ -5153,7 +5146,7 @@
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-skip-back-mini-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <path stroke="#000" stroke-width="2" d="M7 7v10V7zm9 .93v8.14L10.234 12 16 7.93zM10.234 12L16 16.07V7.93L10.234 12z"/>
+        <path d="M7 6a1 1 0 0 1 1 1v10a1 1 0 0 1-2 0V7a1 1 0 0 1 1-1zm8 8.14V9.86L11.968 12 15 14.14zm-5.921-1.732a.5.5 0 0 1 0-.816l7.133-5.036a.5.5 0 0 1 .788.409v10.07a.5.5 0 0 1-.788.409l-7.133-5.036z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-skip-forward-fill">
     <g>
