@@ -143,7 +143,7 @@
     "window-2-line": ["browser", "program", "web", "窗口", "浏览器", "程序", "网站"],
     "window-2-fill": ["browser", "program", "web", "窗口", "浏览器", "程序", "网站"],
     "stack-line": ["layers", "层", "叠加"],
-    "stack-fill": ["layers", "层", "叠加"],
+    "stack-fill": ["layers", "层", "叠加"]
   },
   "Communication": {
     "chat-1-line": ["message", "reply", "comment", "消息", "聊天", "回复", "评论"],
@@ -285,7 +285,7 @@
     "shape-line": ["border", "形状", "描边", "边框"],
     "shape-fill": ["border", "形状", "描边", "边框"],
     "shape-2-line": ["border", "形状", "描边", "边框"],
-    "shape-2-fill": ["border", "形状", "描边", "边框"],
+    "shape-2-fill": ["border", "形状", "描边", "边框"]
   },
   "Development": {
     "bug-line": ["虫子"],
@@ -367,7 +367,7 @@
     "keyboard-box-line": ["input", "键盘", "输入"],
     "keyboard-box-fill": ["input", "键盘", "输入"],
     "mouse-line": ["鼠标"],
-    "mouse-fill": ["鼠标"],
+    "mouse-fill": ["鼠标"]
   },
   "Document": {
     "file-line": ["new", "文件", "文档", "新建"],
@@ -519,7 +519,7 @@
     "folder-unknow-line": ["directory", "file", "文件夹", "目录", "文档", "未知"],
     "folder-unknow-fill": ["directory", "file", "文件夹", "目录", "文档", "未知"],
     "folder-user-line": ["directory", "file", "文件夹", "目录", "文档", "用户"],
-    "folder-user-fill": ["directory", "file", "文件夹", "目录", "文档", "用户"],
+    "folder-user-fill": ["directory", "file", "文件夹", "目录", "文档", "用户"]
   },
   "Editor": {
     "bold": ["加粗"],
@@ -546,7 +546,7 @@
     "link-unlink": ["去除链接"],
     "separator": ["分割线"],
     "space": ["空格"],
-    "code-view": ["代码视图"],
+    "code-view": ["代码视图"]
   },
   "Finance": {
     "wallet-line": ["钱包", "卡包"],
@@ -626,7 +626,7 @@
     "money-pound-circle-line": ["currency", "payment", "货币", "钱", "支付", "英镑"],
     "money-pound-circle-fill": ["currency", "payment", "货币", "钱", "支付", "英镑"],
     "bit-coin-line": ["currency", "payment", "货币", "钱", "比特币"],
-    "bit-coin-fill": ["currency", "payment", "货币", "钱", "比特币"],
+    "bit-coin-fill": ["currency", "payment", "货币", "钱", "比特币"]
   },
   "Map": {
     "map-pin-line": ["location", "navigation", "地图", "坐标", "定位", "导航", "位置"],
@@ -762,7 +762,7 @@
     "oil-line": ["汽油", "机油"],
     "oil-fill": ["汽油", "机油"],
     "direction-line": ["right", "方向", "右转"],
-    "direction-fill": ["right", "方向", "右转"],
+    "direction-fill": ["right", "方向", "右转"]
   },
   "Media": {
     "image-line": ["picture", "photo", "图片", "照片"],
@@ -918,7 +918,7 @@
     "sound-module-line": ["sliders", "controls", "settings", "均衡器", "控制器", "设置"],
     "sound-module-fill": ["sliders", "controls", "settings", "均衡器", "控制器", "设置"],
     "rhythm-line": ["节奏", "韵律"],
-    "rhythm-fill": ["节奏", "韵律"],
+    "rhythm-fill": ["节奏", "韵律"]
   },
   "System": {
     "apps-line": ["应用"],
@@ -1166,7 +1166,7 @@
     "thumb-down-line": ["dislike", "bad", "不喜欢", "不好"],
     "thumb-down-fill": ["dislike", "bad", "不喜欢", "不好"],
     "thumb-up-line": ["like", "good", "喜欢", "好"],
-    "thumb-up-fill": ["like", "good", "喜欢", "好"],
+    "thumb-up-fill": ["like", "good", "喜欢", "好"]
   },
   "User": {
     "user-line": ["用户"],
@@ -1226,6 +1226,6 @@
     "women-line": ["女人", "女性"],
     "women-fill": ["女人", "女性"],
     "open-arm-line": ["张开双臂"],
-    "open-arm-fill": ["张开双臂"],
+    "open-arm-fill": ["张开双臂"]
   }
 }
