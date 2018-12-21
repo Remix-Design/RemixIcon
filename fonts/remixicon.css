@@ -1,11 +1,11 @@
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1545109721426'); /* IE9*/
-  src: url('remixicon.eot?t=1545109721426#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1545109721426") format("woff2"),
-  url("remixicon.woff?t=1545109721426") format("woff"),
-  url('remixicon.ttf?t=1545109721426') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1545109721426#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1545362713467'); /* IE9*/
+  src: url('remixicon.eot?t=1545362713467#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1545362713467") format("woff2"),
+  url("remixicon.woff?t=1545362713467") format("woff"),
+  url('remixicon.ttf?t=1545362713467') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1545362713467#remixicon') format('svg'); /* iOS 4.1- */
 }
 
 [class^="remixicon-"], [class*=" remixicon-"] {
