@@ -269,7 +269,7 @@
     "grid-line": ["table", "网格", "表格"],
     "grid-fill": ["table", "网格", "表格"],
     "drag-move-line": ["arrow", "拖拽", "移动", "箭头"],
-    "grag-move-fill": ["arrow", "拖拽", "移动", "箭头"],
+    "drag-move-fill": ["arrow", "拖拽", "移动", "箭头"],
     "drag-move-2-line": ["arrow", "拖拽", "移动", "箭头"],
     "drag-move-2-fill": ["arrow", "拖拽", "移动", "箭头"],
     "focus-line": ["aim", "target", "焦点", "聚焦", "目标", "靶心"],
