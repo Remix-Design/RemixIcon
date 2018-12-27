@@ -1,5 +1,5 @@
 <p align="left">
-    <a href="https://remixicon.com/"><img src="http://pk6meb1tz.bkt.clouddn.com/github-logo.svg" alt="remixicon" width=280 height=64></a>
+    <a href="https://remixicon.com/"><img src="http://pk6meb1tz.bkt.clouddn.com/github-logo.svg" alt="remixicon" width=380 height=64></a>
     <p align="left">Remix Icon is a set of open source neutral style system symbols for designers and developers. Unlike a patchwork icon library, More than 1200 icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free to use for both personal and commercial.</p>
     <p>View the full set of Remix Icons at <a href="https://remixicon.com">remixicon.com</a>.</p>
 </p>
@@ -32,13 +32,13 @@ import 'remixicon/fonts/remixicon.css'
 > import CSS to your main.js
 
 #### CDN
-Copy the following code and add it to the <head> tag of your html document.
+Or copy the following code and add it to the &lt;head&gt; tag of your html document.
 ```
 <link href="https://remixicon.com/fonts/remixicon.css" rel="stylesheet">
 ```
 
 #### Use
-Add icon with class name, class name rule: remixixon-${name}-${style}
+Add icon with class name, class name rule: remixixon-{name}-{style}
 ```
 <i class="remixicon-admin-line"></i>
 <i class="remixicon-admin-fill"></i>
@@ -58,7 +58,7 @@ Download [`remixicon.symbol.svg`](http://remixicon.com/fonts/remixicon.symbol.sv
 
 ```html
 <svg class='remix'>
-  <use xlink:href="remixicon.symbol.svg#remixicon-admin-fill"></use>
+  <use xlink:href="path/remixicon.symbol.svg#remixicon-admin-fill"></use>
 </svg>
 ```
 
