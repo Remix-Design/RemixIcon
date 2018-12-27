@@ -38,7 +38,7 @@ Or copy the following code and add it to the &lt;head&gt; tag of your html docum
 ```
 
 #### Use
-Add icon with class name, class name rule: remixixon-{name}-{style}
+Add icon with class name, class name rule: remixicon-{name}-{style}
 ```
 <i class="remixicon-admin-line"></i>
 <i class="remixicon-admin-fill"></i>
