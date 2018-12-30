@@ -68,8 +68,6 @@ Download [`remixicon.symbol.svg`](http://remixicon.com/fonts/remixicon.symbol.sv
 > **Note:** In order to ensure the quality of each icon, we currently do not accept third-party drawn icons. If you want to contribute an icon to Remix Icon, you can create an issue with a screenshot or add a link to your SVG.
 
 ### Icon Request
-> Firstly, thank you for your request to help us improve our icon library.
-
 If there is no suitable icon for your usage scenario, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a title of Icon request: <Icon name> and fill the issue template.
 
 ## License
