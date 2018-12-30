@@ -64,6 +64,13 @@ Download [`remixicon.symbol.svg`](http://remixicon.com/fonts/remixicon.symbol.sv
 
 > **Note:** `remixicon-admin-fill` after the `#` in the above example can be replaced with any valid icon name of Remix Icon. You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
 
+## Contributing
+> **Note:** In order to ensure the quality of each icon, we currently do not accept third-party drawn icons. If you want to contribute an icon to Remix Icon, you can create an issue with a screenshot or add a link to your SVG.
+
+### Icon Request
+> Firstly, thank you for your request to help us improve our icon library.
+
+If there is no suitable icon for your usage scenario, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a title of Icon request: <Icon name> and fill the issue template.
 
 ## License
 Remix Icon is licensed under the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License). Feel free to use and re-share these icons in you products. We would be very grateful if you mention "Remix Icon" in your product introduction, but it's not required. The only thing we ask is that you can't re-sell these icons.
