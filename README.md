@@ -1,5 +1,8 @@
 <p align="left">
     <a href="https://remixicon.com/"><img src="http://pk6meb1tz.bkt.clouddn.com/github-logo.svg" alt="remixicon" width=380 height=64></a>
+
+    <p>English | <a href="./README_CN.md">简体中文</a></p>
+
     <p align="left">Remix Icon is a set of open source neutral style system symbols for designers and developers. Unlike a patchwork icon library, More than 1200 icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free to use for both personal and commercial.</p>
     <a href="https://remixicon.com/"><img src="http://pk6meb1tz.bkt.clouddn.com/preview2.svg" alt="remixicon" width=900></a>
     <p>View the full set of Remix Icons at <a href="https://remixicon.com">remixicon.com</a>.</p>
