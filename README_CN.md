@@ -45,8 +45,8 @@ import 'remixicon/fonts/remixicon.css'
 引入Remix Icon图标库后，就可以在web项目中使用了，只要在使用图标的时候将图标名称作为类名就可以了。类名规则：remixicon-{name}-{style}
 
 ```html
-    <i class="remixicon-admin-line"></i>
-    <i class="remixicon-admin-fill"></i>
+<i class="remixicon-admin-line"></i>
+<i class="remixicon-admin-fill"></i>
 ```
 
 > **Note:** 您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill`代表面型风格。

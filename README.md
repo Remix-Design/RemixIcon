@@ -17,7 +17,9 @@ Just click the icons you want from [remixicon.com](https://remixicon.com), and t
 
 Preparing an SVG for use on the web is a simple process and no more complicated that exporting a JPEG or PNG. Such as:
 
-    <img height="32" width="32" src="img/admin-fill.svg" />
+```html
+<img height="32" width="32" src="img/admin-fill.svg" />
+```
 
 ### Webfont Usage
 
@@ -25,9 +27,9 @@ Preparing an SVG for use on the web is a simple process and no more complicated 
 
 > **Note:** If you'd like to use Remix Icon with a CDN, you can skip this installation step.
 
-    npm install remixicon --save
+npm install remixicon --save
 
-    import 'remixicon/fonts/remixicon.css'
+import 'remixicon/fonts/remixicon.css'
 
 > import CSS to your main.js
 
@@ -35,14 +37,18 @@ Preparing an SVG for use on the web is a simple process and no more complicated 
 
 Or copy the following code and add it to the &lt;head> tag of your html document.
 
-    <link href="https://remixicon.com/fonts/remixicon.css" rel="stylesheet">
+```html
+<link href="https://remixicon.com/fonts/remixicon.css" rel="stylesheet">
+```
 
 #### Use
 
 Add icon with class name, class name rule: remixicon-{name}-{style}
 
-    <i class="remixicon-admin-line"></i>
-    <i class="remixicon-admin-fill"></i>
+```html
+<i class="remixicon-admin-line"></i>
+<i class="remixicon-admin-fill"></i>
+```
 
 > **Note:** You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
 
