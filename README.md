@@ -15,7 +15,7 @@ Just click the icons you want from [remixicon.com](https://remixicon.com), and t
 
 > We recommend that designers download icons from our website when needed instead of managing all of them in a local folder. The website's search engine allows you to quickly locate the icon you are looking for and the icons in the website are continuously updating.
 
-Preparing an SVG for use on the web is a simple process and no more complicated that exporting a JPEG or PNG. Such as:
+Using SVG on the web is as simple as JPEG or PNG. Such as:
 
 ```html
 <img height="32" width="32" src="img/admin-fill.svg" />
@@ -27,9 +27,13 @@ Preparing an SVG for use on the web is a simple process and no more complicated 
 
 > **Note:** If you'd like to use Remix Icon with a CDN, you can skip this installation step.
 
+```
 npm install remixicon --save
+```
 
+```
 import 'remixicon/fonts/remixicon.css'
+```
 
 > import CSS to your main.js
 
