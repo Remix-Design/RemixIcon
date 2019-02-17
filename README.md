@@ -1,4 +1,4 @@
-[![logo](http://cdn.remixicon.com/logo.svg)](https://remixicon.com)
+[![logo](http://cdn.remixicon.com/logo-github.svg)](https://remixicon.com)
 
 English | [简体中文](./README_CN.md)
 
