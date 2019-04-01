@@ -1,20 +1,23 @@
 {
-  "name": "remixicon",
-  "version": "1.1.1",
-  "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Remix-Design/remixicon.git"
-  },
-  "keywords": ["remix-icon"],
-  "contributors": ["wendygaoyuan <wendygaoyuan@163.com>","JimmyCheung <jimmy@remixdesign.cn>"],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Remix-Design/remixicon/issues"
-  },
-  "homepage": "https://github.com/Remix-Design/remixicon#readme"
+    "name": "remixicon",
+    "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
+    "demo": "https://remixicon.com",
+    "keywords": [
+        "remixicon",
+        "remix",
+        "icon",
+        "icon library",
+        "icon pack"
+    ],
+    "version": "1.1.1",
+    "license": "Apache 2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Remix-Design/remixicon.git"
+    },
+    "bugs": "https://github.com/Remix-Design/remixicon/issues",
+    "contributors": {
+        "developer": "Wendy Gao <wendygaoyuan@163.com>",
+        "designer": "Jimmy Cheung <jimmy@remixdesign.cn>"
+    }
 }
