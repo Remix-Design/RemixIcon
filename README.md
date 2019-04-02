@@ -84,6 +84,10 @@ Download [`remixicon.symbol.svg`](http://remixicon.com/fonts/remixicon.symbol.sv
 
 If there is no suitable icon for your usage scenario, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a title of Icon request: <Icon name> and fill the issue template.
 
+### Icon Search Keywords
+
+We use `[tags.json](https://github.com/Remix-Design/remixicon/blob/master/tags.json)` file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automation method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues) or pulling requests to make the seach engine better.
+
 ## License
 
 Remix Icon is licensed under the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License). Feel free to use and re-share these icons in you products. We would be very grateful if you mention "Remix Icon" in your product introduction, but it's not required. The only thing we ask is that you can't re-sell these icons.
