@@ -46,7 +46,7 @@ import 'remixicon/fonts/remixicon.css'
 Or copy the following code and add it to the &lt;head> tag of your html document.
 
 ```html
-<link href="https://remixicon.com/fonts/remixicon.css" rel="stylesheet">
+<link href="http://cdn.remixicon.com/releases/v1.1.1/remixicon.css" rel="stylesheet">
 ```
 
 #### Use
@@ -90,7 +90,7 @@ If there is no suitable icon for your usage scenario, you can create an [issue](
 
 ### Icon Search Keywords
 
-We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automation method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues) or pulling requests to make the seach engine better.
+We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automation method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues) or pulling requests to make the seach engine better. If you are not famlilar with github, you can also email us directly `jimmy@remixdesign.cn`.
 
 ## License
 
