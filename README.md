@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![gitter](https://img.shields.io/gitter/room/:user/:repo.svg?labelColor=4A4A4A&color=d73666&style=flat-square)](https://gitter.im/remixicon/community)
+[![donate](https://img.shields.io/badge/-Donate-4664DA.svg?style=flat-square)](https://remixicon.com/#donate)
 
 English | [简体中文](./README_CN.md)
 
