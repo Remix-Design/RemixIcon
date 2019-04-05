@@ -1,3 +1,8 @@
+/*
+We manage search keywords of our website by tags.json file. This file is not used in production environments.
+Feel free to create issue or pull request to help us improve the search feature. You can also email us <jimmy@remixdesign.cn> to share your idea.
+*/
+
 {
   "Buildings": {
     "home": ["home","house","房子","家","主页"],
