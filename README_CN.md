@@ -85,4 +85,4 @@ import 'remixicon/fonts/remixicon.css'
 目前我们的[图标官网](https://remixicon.com)是通过[`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json)文件来管理搜索关键词的，比如我们为图标添加了中文关键词，所以我们也可以通过中文对图标进行搜索和定位；但是由于关键词不是很健全，用户经常无法通过某个特定关键词搜索到已有图标。但是，目前我们还没有一个很好的自动化策略来穷举每一个图标的关键词，只能通过人肉添加的方式来进行完善，希望用户可以通过提[issue](https://github.com/Remix-Design/remixicon/issues) 或者pull request的方式来帮我们一块完善维护`tags.json`，让搜索功能变得更加好用，如果你对GitHub不是很熟悉，不知道如何操作，也可以直接给我们发邮件 `jimmy@remixdesign.cn` 来帮助我们。
 
 ## 协议许可
-Remix Icon 使用的是 [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License)开源协议。请放行使用和分享本图标库，您可以查看协议详情来了解详细的开源策略。如果您能在您的产品介绍中署名 Remix Icon，我们将会非常感激，但这并不是必须的。唯一需要注意的是，您不能二次销售本图标库中的图标，否则我们会进行追究。
+Remix Icon 使用的是 [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License)开源协议。请放心使用和分享本图标库，您可以查看协议详情来了解详细的开源策略。如果您能在您的产品介绍中署名 Remix Icon，我们将会非常感激，但这并不是必须的。唯一需要注意的是，您不能二次销售本图标库中的图标，否则我们会进行追究。
