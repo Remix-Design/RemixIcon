@@ -166,8 +166,17 @@ Feel free to create issue or pull request to help us improve the search feature.
     "bug": ["虫子"],
     "bug-2": ["虫子"],
     "code": ["代码","编程"],
+    "code-s": ["代码","编程"],
+    "code-s-slash": ["代码","编程"],
+    "code-box": ["代码","编程"],
     "terminal-box": ["code","command line","终端","代码","命令行"],
-    "terminal": ["code","command line","终端","代码","命令行"]
+    "terminal": ["code","command line","终端","代码","命令行"],
+    "terminal-window": ["code","command line","终端","代码","命令行"],
+    "parentheses": ["code","math","小括号"],
+    "brackets": ["code","math","中括号"],
+    "braces": ["code","math","大括号","花括号"],
+    "command": ["apple key","花键","苹果键"],
+    "cursor": ["mouse","指针","鼠标"]
   },
   "Device": {
     "tv": ["电视"],
@@ -313,7 +322,11 @@ Feel free to create issue or pull request to help us improve the search feature.
     "link-unlink": ["去除链接"],
     "separator": ["分割线"],
     "space": ["空格"],
-    "code-view": ["代码视图"]
+    "code-view": ["代码视图"],
+    "double-quotes-l": ["left","quotaion marks","双引号"],
+    "double-quotes-r": ["right","quotaion marks","双引号"],
+    "single-quotes-l": ["left","quotaion marks","单引号"],
+    "single-quotes-r": ["right","quotaion marks","单引号"]
   },
   "Finance": {
     "wallet": ["钱包","卡包"],
@@ -489,7 +502,10 @@ Feel free to create issue or pull request to help us improve the search feature.
     "hotel-bed": ["酒店","床"],
     "navigation": ["gps","导航"],
     "oil": ["汽油","机油"],
-    "direction": ["right","方向","右转"]
+    "direction": ["right","方向","右转"],
+    "patreon": ["donate","money","捐赠","打赏"],
+    "remixicon": ["remix icon","图标"],
+    "discord": ["game","chat"]
   },
   "Media": {
     "image": ["picture","photo","图片","照片"],
@@ -657,6 +673,7 @@ Feel free to create issue or pull request to help us improve the search feature.
     "shield-cross": ["safety","protect","盾牌","卫士","安全","防御"],
     "shield-flash": ["safety","protect","盾牌","卫士","安全","防御"],
     "shield-star": ["safety","protect","盾牌","卫士","安全","防御"],
+    "shield-user": ["safety","protect","user protected","guarantor","盾牌","卫士","安全","防御","用户"],
     "delete-back": ["backspace","删除","退格"],
     "delete-back-2": ["backspace","删除","退格"],
     "delete-bin": ["trash","remove","ash-bin","garbage","dustbin","删除","垃圾桶"],
@@ -695,6 +712,7 @@ Feel free to create issue or pull request to help us improve the search feature.
     "time": ["clock","时间","时钟","钟表"],
     "timer": ["chronograph","stopwatch","秒表","计时器"],
     "timer-2": ["chronograph","stopwatch","秒表","计时器"],
+    "timer-flash": ["chronograph","stopwatch","秒表","计时器","闪电"],
     "alarm": ["闹钟"],
     "qr-code": ["二维码"],
     "qr-scan": ["二维码","扫描"],
@@ -708,7 +726,10 @@ Feel free to create issue or pull request to help us improve the search feature.
     "base-station": ["wifi","signal tower","router","cast","基站","信号塔","路由器","广播","流量"],
     "barcode": ["scan","扫码","条形码","条码"],
     "barcode-box": ["scan","扫码","条形码","条码"],
-    "toggle": ["switch","开关","触发器"]
+    "toggle": ["switch","开关","触发器"],
+    "filter": ["filtration","筛选","过滤"],
+    "filter-2": ["filtration","筛选","过滤"],
+    "filter-3": ["filtration","筛选","过滤"]
   },
   "User": {
     "user": ["用户"],
@@ -742,6 +763,7 @@ Feel free to create issue or pull request to help us improve the search feature.
     "men": ["男人","男性"],
     "women": ["女人","女性"],
     "open-arm": ["张开双臂"],
-    "parent": ["patriarch","父母","亲子","家长"]
+    "parent": ["patriarch","父母","亲子","家长"],
+    "robot": ["mechanic","机器人"]
   }
 }
