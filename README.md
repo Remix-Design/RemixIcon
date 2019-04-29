@@ -7,7 +7,7 @@
 
 English | [简体中文](./README_CN.md)
 
-Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 1400+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
+Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 1500+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
@@ -45,11 +45,11 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="http://cdn.remixicon.com/releases/v1.1.2/remixicon.css" rel="stylesheet">
+<link href="http://cdn.remixicon.com/releases/v1.2.0/remixicon.css" rel="stylesheet">
 ```
 
 #### Download Manually
-Download [`remixicon.css`](http://cdn.remixicon.com/releases/v1.1.2/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
+Download [`remixicon.css`](http://cdn.remixicon.com/releases/v1.2.0/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
 Add icon with class name, class name rule: remixicon-{name}-{style}
@@ -63,7 +63,7 @@ Add icon with class name, class name rule: remixicon-{name}-{style}
 
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](http://cdn.remixicon.com/releases/v1.1.2/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Download [`remixicon.symbol.svg`](http://cdn.remixicon.com/releases/v1.2.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
