@@ -1,12 +1,12 @@
 <!--
- Remix Icon v1.2.0
+ Remix Icon v1.2.1
  https://remixicon.com
  https://github.com/Remix-Design/RemixIcon
 
  Copyright RemixIcon.com
  Released under the Apache License Version 2.0
 
- Date: 2019-4-29
+ Date: 2019-5-23
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="display:none;"><symbol viewBox="0 0 24 24" id="remixicon-4k-fill">
     <g>
@@ -222,6 +222,26 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M19 13H5v7h14v-7zm0-2a7 7 0 0 0-14 0h14zM6.382 3.968A8.962 8.962 0 0 1 12 2c2.125 0 4.078.736 5.618 1.968l1.453-1.453 1.414 1.414-1.453 1.453A8.962 8.962 0 0 1 21 11v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V11c0-2.125.736-4.078 1.968-5.618L3.515 3.93l1.414-1.414 1.453 1.453zM9 9a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm6 0a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-anticlockwise-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 4h2a5 5 0 0 1 5 5v4h-2V9a3 3 0 0 0-3-3h-2v3L9 5l5-4v3zm1 7v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-anticlockwise-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M13.414 6l1.829 1.828-1.415 1.415L9.586 5 13.828.757l1.415 1.415L13.414 4H16a5 5 0 0 1 5 5v4h-2V9a3 3 0 0 0-3-3h-2.586zM15 11v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1zm-2 1H5v8h8v-8z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-anticlockwise-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M6 10h3l-4 5-4-5h3V8a5 5 0 0 1 5-5h4v2H9a3 3 0 0 0-3 3v2zm5-1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-anticlockwise-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M11 9h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1zm1 2v8h8v-8h-8zm-6-.414l1.828-1.829 1.415 1.415L5 14.414.757 10.172l1.415-1.415L4 10.586V8a5 5 0 0 1 5-5h4v2H9a3 3 0 0 0-3 3v2.586z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-apple-fill">
     <g>
@@ -532,6 +552,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M20 12a8 8 0 1 0-3.562 6.657l1.11 1.664A9.953 9.953 0 0 1 12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10v1.5a3.5 3.5 0 0 1-6.396 1.966A5 5 0 1 1 15 8H17v5.5a1.5 1.5 0 0 0 3 0V12zm-8-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-attachment-2">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14.828 7.757l-5.656 5.657a1 1 0 1 0 1.414 1.414l5.657-5.656A3 3 0 1 0 12 4.929l-5.657 5.657a5 5 0 1 0 7.071 7.07L19.071 12l1.414 1.414-5.657 5.657a7 7 0 1 1-9.9-9.9l5.658-5.656a5 5 0 0 1 7.07 7.07L12 16.244A3 3 0 1 1 7.757 12l5.657-5.657 1.414 1.414z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-attachment-fill">
     <g>
@@ -1507,6 +1532,26 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M7 4V2h10v2h3.007c.548 0 .993.445.993.993v16.014a.994.994 0 0 1-.993.993H3.993A.994.994 0 0 1 3 21.007V4.993C3 4.445 3.445 4 3.993 4H7zm0 2H5v14h14V6h-2v2H7V6zm2-2v2h6V4H9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-clockwise-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M10 4V1l5 4-5 4V6H8a3 3 0 0 0-3 3v4H3V9a5 5 0 0 1 5-5h2zm-1 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H10a1 1 0 0 1-1-1V11z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-clockwise-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M10.586 4L8.757 2.172 10.172.757 14.414 5l-4.242 4.243-1.415-1.415L10.586 6H8a3 3 0 0 0-3 3v4H3V9a5 5 0 0 1 5-5h2.586zM9 11a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H10a1 1 0 0 1-1-1V11zm2 1v8h8v-8h-8z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-clockwise-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M20 10h3l-4 5-4-5h3V8a3 3 0 0 0-3-3h-4V3h4a5 5 0 0 1 5 5v2zm-7-1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1h10z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-clockwise-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M20 10.586l1.828-1.829 1.415 1.415L19 14.414l-4.243-4.242 1.415-1.415L18 10.586V8a3 3 0 0 0-3-3h-4V3h4a5 5 0 0 1 5 5v2.586zM13 9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1h10zm-1 2H4v8h8v-8z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-close-circle-fill">
     <g>
@@ -2494,6 +2539,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M14 19h5V5H5v14h7v-5h-2v-2h2v-1.654c0-1.337.14-1.822.4-2.311A2.726 2.726 0 0 1 13.536 6.9c.382-.205.857-.328 1.687-.381.329-.021.755.005 1.278.08v1.9H16c-.917 0-1.296.043-1.522.164a.727.727 0 0 0-.314.314c-.12.226-.164.45-.164 1.368V12h2.5l-.5 2h-2v5zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-facebook-circle-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 2C6.477 2 2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.879V14.89h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.989C18.343 21.129 22 16.99 22 12c0-5.523-4.477-10-10-10z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-facebook-circle-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M13 19.938A8.001 8.001 0 0 0 12 4a8 8 0 0 0-1 15.938V14H9v-2h2v-1.654c0-1.337.14-1.822.4-2.311A2.726 2.726 0 0 1 12.536 6.9c.382-.205.857-.328 1.687-.381.329-.021.755.005 1.278.08v1.9H15c-.917 0-1.296.043-1.522.164a.727.727 0 0 0-.314.314c-.12.226-.164.45-.164 1.368V12h2.5l-.5 2h-2v5.938zM12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-facebook-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -3329,6 +3384,11 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM8.523 7.109l8.368 8.368a6.04 6.04 0 0 1-1.414 1.414L7.109 8.523A6.04 6.04 0 0 1 8.523 7.11z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-format-clear">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12.651 14.065L11.605 20H9.574l1.35-7.661-7.41-7.41L4.93 3.515 20.485 19.07l-1.414 1.414-6.42-6.42zm-.878-6.535l.27-1.53h-1.8l-2-2H20v2h-5.927L13.5 9.257 11.773 7.53z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-fullscreen-exit-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -3358,6 +3418,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M3 3h8v8H3V3zm0 10h8v8H3v-8zM13 3h8v8h-8V3zm0 10h8v8h-8v-8zm2-8v4h4V5h-4zm0 10v4h4v-4h-4zM5 5v4h4V5H5zm0 10v4h4v-4H5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-functions">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M5 18l7.68-6L5 6V4h14v2H8.263L16 12l-7.737 6H19v2H5v-2z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-funds-box-fill">
     <g>
@@ -3398,6 +3463,76 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M14 19h1v2H2v-2h1V4a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v8h2a2 2 0 0 1 2 2v4a1 1 0 0 0 2 0v-7h-2a1 1 0 0 1-1-1V6.414l-1.657-1.657 1.414-1.414 4.95 4.95A.997.997 0 0 1 22 9v9a3 3 0 0 1-6 0v-4h-2v5zm-9 0h7v-6H5v6zM5 5v6h7V5H5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-branch-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-branch-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M7.105 15.21A3.001 3.001 0 1 1 5 15.17V8.83a3.001 3.001 0 1 1 2 0V12c.836-.628 1.874-1 3-1h4a3.001 3.001 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5.001 5.001 0 0 1 14 13h-4a3.001 3.001 0 0 0-2.895 2.21zM6 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2zM6 5a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm12 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-commit-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15.874 13a4.002 4.002 0 0 1-7.748 0H3v-2h5.126a4.002 4.002 0 0 1 7.748 0H21v2h-5.126z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-commit-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15.874 13a4.002 4.002 0 0 1-7.748 0H3v-2h5.126a4.002 4.002 0 0 1 7.748 0H21v2h-5.126zM12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-merge-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M7.105 8.79A3.001 3.001 0 0 0 10 11h4a5.001 5.001 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3.001 3.001 0 0 0 14 13h-4a4.978 4.978 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0V8.83a3.001 3.001 0 1 1 2.105-.04z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-merge-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M7.105 8.79A3.001 3.001 0 0 0 10 11h4a5.001 5.001 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3.001 3.001 0 0 0 14 13h-4a4.978 4.978 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0V8.83a3.001 3.001 0 1 1 2.105-.04zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm12 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-pull-request-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15 5h2a2 2 0 0 1 2 2v8.17a3.001 3.001 0 1 1-2 0V7h-2v3l-4.5-4L15 2v3zM5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0V8.83z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-pull-request-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15 5h2a2 2 0 0 1 2 2v8.17a3.001 3.001 0 1 1-2 0V7h-2v3l-4.5-4L15 2v3zM5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0V8.83zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm12 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-repository-commits-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M14 17v6h-2v-6H9l4-5 4 5h-3zm2 2h3v-3h-.8L13 9.5 7.647 16H6.5a1.5 1.5 0 0 0 0 3H10v2H6.5A3.5 3.5 0 0 1 3 17.5V5a3 3 0 0 1 3-3h14a1 1 0 0 1 1 1v17a1 1 0 0 1-1 1h-4v-2zM7 5v2h2V5H7zm0 3v2h2V8H7z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-repository-commits-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M18 16v-2h1V4H6v10.035A3.53 3.53 0 0 1 6.5 14H8v2H6.5a1.5 1.5 0 0 0 0 3H10v2H6.5A3.5 3.5 0 0 1 3 17.5V5a3 3 0 0 1 3-3h14a1 1 0 0 1 1 1v17a1 1 0 0 1-1 1h-4v-2h3v-3h-1zM7 5h2v2H7V5zm0 3h2v2H7V8zm7 9v6h-2v-6H9l4-5 4 5h-3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-repository-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M13 21v2.5l-3-2-3 2V21h-.5A3.5 3.5 0 0 1 3 17.5V5a3 3 0 0 1 3-3h14a1 1 0 0 1 1 1v17a1 1 0 0 1-1 1h-7zm-6-2v-2h6v2h6v-3H6.5a1.5 1.5 0 0 0 0 3H7zM7 5v2h2V5H7zm0 3v2h2V8H7zm0 3v2h2v-2H7z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-repository-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M13 21v2.5l-3-2-3 2V21h-.5A3.5 3.5 0 0 1 3 17.5V5a3 3 0 0 1 3-3h14a1 1 0 0 1 1 1v17a1 1 0 0 1-1 1h-7zm0-2h6v-3H6.5a1.5 1.5 0 0 0 0 3H7v-2h6v2zm6-5V4H6v10.035A3.53 3.53 0 0 1 6.5 14H19zM7 5h2v2H7V5zm0 3h2v2H7V8zm0 3h2v2H7v-2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-repository-private-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M18 8h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h2V7a6 6 0 1 1 12 0v1zm-2 0V7a4 4 0 1 0-8 0v1h8zm-9 3v2h2v-2H7zm0 3v2h2v-2H7zm0 3v2h2v-2H7z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-git-repository-private-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M6 10v10h13V10H6zm12-2h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h2V7a6 6 0 1 1 12 0v1zm-2 0V7a4 4 0 1 0-8 0v1h8zm-9 3h2v2H7v-2zm0 3h2v2H7v-2zm0 3h2v2H7v-2z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-github-fill">
     <g>
@@ -3558,6 +3693,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M4 5v14h16V5H4zM3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm4.5 8.25h2V9H11v6H9.5v-2.25h-2V15H6V9h1.5v2.25zm7-.75v3H16a.5.5 0 0 0 .5-.5v-2a.5.5 0 0 0-.5-.5h-1.5zM13 9h3a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-3V9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-heading">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17 11V4h2v17h-2v-8H7v8H5V4h2v7z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-headphone-fill">
     <g>
@@ -3934,6 +4074,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M11.27 12.216L15 6l8 15H2L9 8l2.27 4.216zm1.12 2.022L14.987 19h4.68l-4.77-8.942-2.507 4.18zM5.348 19h7.304L9 12.219 5.348 19zM5.5 8a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-layout-column-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M12 5v14h7V5h-7zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-layout-column-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M11 5H5v14h6V5zm2 0v14h6V5h-6zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-layout-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -3943,6 +4093,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M5 8h14V5H5v3zm9 11v-9H5v9h9zm2 0h3v-9h-3v9zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-layout-row-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M19 12H5v7h14v-7zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-layout-row-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M19 11V5H5v6h14zm0 2H5v6h14v-6zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-lightbulb-fill">
     <g>
@@ -3978,6 +4138,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M22 10.69c0 1.787-.687 3.4-2.123 4.974-2.1 2.414-6.788 5.363-7.864 5.812-1.074.451-.911-.287-.874-.537l.137-.85c.034-.262.068-.65-.032-.9-.112-.277-.556-.424-.881-.492C5.558 18.059 2 14.7 2 10.69c0-4.475 4.487-8.118 10-8.118 5.512 0 10 3.643 10 8.118zm-3.6 3.625c1.113-1.22 1.6-2.361 1.6-3.625 0-3.268-3.51-6.118-8-6.118s-8 2.85-8 6.118c0 2.905 2.728 5.507 6.626 6.024l.147.026c1.078.226 1.884.614 2.329 1.708l.036.096c1.806-1.176 4.174-2.98 5.261-4.229zm-.262-4a.526.526 0 0 1 0 1.05h-1.463v.938h1.462a.525.525 0 1 1 0 1.049H16.15a.526.526 0 0 1-.522-.524V8.852c0-.287.235-.525.525-.525h1.988a.525.525 0 0 1-.003 1.05h-1.462v.938h1.462zm-3.213 2.513a.524.524 0 0 1-.526.522.515.515 0 0 1-.425-.208l-2.036-2.764v2.45a.525.525 0 0 1-1.047 0V8.852a.522.522 0 0 1 .52-.523c.162 0 .312.086.412.211l2.052 2.775V8.852c0-.287.235-.525.525-.525.287 0 .525.238.525.525v3.976zm-4.784 0a.527.527 0 0 1-.526.524.526.526 0 0 1-.523-.524V8.852c0-.287.236-.525.525-.525.289 0 .524.238.524.525v3.976zm-2.055.524H6.097a.528.528 0 0 1-.525-.524V8.852a.527.527 0 0 1 1.05 0v3.45h1.464a.525.525 0 0 1 0 1.05z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-link-m">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17.657 14.828l-1.414-1.414L17.657 12A4 4 0 1 0 12 6.343l-1.414 1.414-1.414-1.414 1.414-1.414a6 6 0 0 1 8.485 8.485l-1.414 1.414zm-2.829 2.829l-1.414 1.414a6 6 0 1 1-8.485-8.485l1.414-1.414 1.414 1.414L6.343 12A4 4 0 1 0 12 17.657l1.414-1.414 1.414 1.414zm0-9.9l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-link-unlink-m">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17.657 14.828l-1.414-1.414L17.657 12A4 4 0 1 0 12 6.343l-1.414 1.414-1.414-1.414 1.414-1.414a6 6 0 0 1 8.485 8.485l-1.414 1.414zm-2.829 2.829l-1.414 1.414a6 6 0 1 1-8.485-8.485l1.414-1.414 1.414 1.414L6.343 12A4 4 0 1 0 12 17.657l1.414-1.414 1.414 1.414zm0-9.9l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07zM5.775 2.293l1.932-.518L8.742 5.64l-1.931.518-1.036-3.864zm9.483 16.068l1.931-.518 1.036 3.864-1.932.518-1.035-3.864zM2.293 5.775l3.864 1.036-.518 1.931-3.864-1.035.518-1.932zm16.068 9.483l3.864 1.035-.518 1.932-3.864-1.036.518-1.931z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-link-unlink">
     <g>
@@ -4019,6 +4189,11 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M13.06 8.11l1.415 1.415a7 7 0 0 1 0 9.9l-.354.353a7 7 0 0 1-9.9-9.9l1.415 1.415a5 5 0 1 0 7.071 7.071l.354-.354a5 5 0 0 0 0-7.07l-1.415-1.415 1.415-1.414zm6.718 6.011l-1.414-1.414a5 5 0 1 0-7.071-7.071l-.354.354a5 5 0 0 0 0 7.07l1.415 1.415-1.415 1.414-1.414-1.414a7 7 0 0 1 0-9.9l.354-.353a7 7 0 0 1 9.9 9.9z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-list-check-2">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M11 4h10v2H11V4zm0 4h6v2h-6V8zm0 6h10v2H11v-2zm0 4h6v2h-6v-2zM3 4h6v6H3V4zm2 2v2h2V6H5zm-2 8h6v6H3v-6zm2 2v2h2v-2H5z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-list-check">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -4043,6 +4218,56 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M8 4h13v2H8V4zM4.5 6.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 6.9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zM8 11h13v2H8v-2zm0 7h13v2H8v-2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 2a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0V3a1 1 0 0 1 1-1zm0 15a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0v-3a1 1 0 0 1 1-1zm10-5a1 1 0 0 1-1 1h-3a1 1 0 0 1 0-2h3a1 1 0 0 1 1 1zM7 12a1 1 0 0 1-1 1H3a1 1 0 0 1 0-2h3a1 1 0 0 1 1 1zm12.071 7.071a1 1 0 0 1-1.414 0l-2.121-2.121a1 1 0 0 1 1.414-1.414l2.121 2.12a1 1 0 0 1 0 1.415zM8.464 8.464a1 1 0 0 1-1.414 0L4.93 6.344a1 1 0 0 1 1.414-1.415L8.464 7.05a1 1 0 0 1 0 1.414zM4.93 19.071a1 1 0 0 1 0-1.414l2.121-2.121a1 1 0 1 1 1.414 1.414l-2.12 2.121a1 1 0 0 1-1.415 0zM15.536 8.464a1 1 0 0 1 0-1.414l2.12-2.121a1 1 0 0 1 1.415 1.414L16.95 8.464a1 1 0 0 1-1.414 0z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 2a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0V3a1 1 0 0 1 1-1zm0 15a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0v-3a1 1 0 0 1 1-1zm10-5a1 1 0 0 1-1 1h-3a1 1 0 0 1 0-2h3a1 1 0 0 1 1 1zM7 12a1 1 0 0 1-1 1H3a1 1 0 0 1 0-2h3a1 1 0 0 1 1 1zm12.071 7.071a1 1 0 0 1-1.414 0l-2.121-2.121a1 1 0 0 1 1.414-1.414l2.121 2.12a1 1 0 0 1 0 1.415zM8.464 8.464a1 1 0 0 1-1.414 0L4.93 6.344a1 1 0 0 1 1.414-1.415L8.464 7.05a1 1 0 0 1 0 1.414zM4.93 19.071a1 1 0 0 1 0-1.414l2.121-2.121a1 1 0 1 1 1.414 1.414l-2.12 2.121a1 1 0 0 1-1.415 0zM15.536 8.464a1 1 0 0 1 0-1.414l2.12-2.121a1 1 0 0 1 1.415 1.414L16.95 8.464a1 1 0 0 1-1.414 0z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-3-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M3.055 13H5.07a7.002 7.002 0 0 0 13.858 0h2.016a9.001 9.001 0 0 1-17.89 0zm0-2a9.001 9.001 0 0 1 17.89 0H18.93a7.002 7.002 0 0 0-13.858 0H3.055z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-3-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M3.055 13H5.07a7.002 7.002 0 0 0 13.858 0h2.016a9.001 9.001 0 0 1-17.89 0zm0-2a9.001 9.001 0 0 1 17.89 0H18.93a7.002 7.002 0 0 0-13.858 0H3.055z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-4-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18.364 5.636L16.95 7.05A7 7 0 1 0 19 12h2a9 9 0 1 1-2.636-6.364z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-4-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18.364 5.636L16.95 7.05A7 7 0 1 0 19 12h2a9 9 0 1 1-2.636-6.364z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-5-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 3a9 9 0 0 1 9 9h-2a7 7 0 0 0-7-7V3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-5-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 3a9 9 0 0 1 9 9h-2a7 7 0 0 0-7-7V3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 2a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0V3a1 1 0 0 1 1-1zm0 15a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0v-3a1 1 0 0 1 1-1zm8.66-10a1 1 0 0 1-.366 1.366l-2.598 1.5a1 1 0 1 1-1-1.732l2.598-1.5A1 1 0 0 1 20.66 7zM7.67 14.5a1 1 0 0 1-.366 1.366l-2.598 1.5a1 1 0 1 1-1-1.732l2.598-1.5a1 1 0 0 1 1.366.366zM20.66 17a1 1 0 0 1-1.366.366l-2.598-1.5a1 1 0 0 1 1-1.732l2.598 1.5A1 1 0 0 1 20.66 17zM7.67 9.5a1 1 0 0 1-1.366.366l-2.598-1.5a1 1 0 1 1 1-1.732l2.598 1.5A1 1 0 0 1 7.67 9.5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-loader-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 2a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0V3a1 1 0 0 1 1-1zm0 15a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0v-3a1 1 0 0 1 1-1zm8.66-10a1 1 0 0 1-.366 1.366l-2.598 1.5a1 1 0 1 1-1-1.732l2.598-1.5A1 1 0 0 1 20.66 7zM7.67 14.5a1 1 0 0 1-.366 1.366l-2.598 1.5a1 1 0 1 1-1-1.732l2.598-1.5a1 1 0 0 1 1.366.366zM20.66 17a1 1 0 0 1-1.366.366l-2.598-1.5a1 1 0 0 1 1-1.732l2.598 1.5A1 1 0 0 1 20.66 17zM7.67 9.5a1 1 0 0 1-1.366.366l-2.598-1.5a1 1 0 1 1 1-1.732l2.598 1.5A1 1 0 0 1 7.67 9.5z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-lock-2-fill">
     <g>
@@ -4403,6 +4628,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm1 2v14h16V5H4zm3 10.5H5v-7h2l2 2 2-2h2v7h-2v-4l-2 2-2-2v4zm11-3h2l-3 3-3-3h2v-4h2v4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-markup-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm5.051-3.796l-.862-3.447a1 1 0 0 0-.97-.757H8.781a1 1 0 0 0-.97.757l-.862 3.447A7.967 7.967 0 0 0 12 20a7.967 7.967 0 0 0 5.051-1.796zM10 12h4v-1.5l-1.038-3.635a1 1 0 0 0-1.924 0L10 10.5V12z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-markup-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M10 10.5l1.038-3.635a1 1 0 0 1 1.924 0L14 10.5V12h.72a1 1 0 0 1 .97.757l1.361 5.447a8 8 0 1 0-10.102 0l1.362-5.447A1 1 0 0 1 9.28 12H10v-1.5zm2 9.5a7.952 7.952 0 0 0 3.265-.694L13.938 14h-3.876l-1.327 5.306A7.95 7.95 0 0 0 12 20zm0 2C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-medium-fill">
     <g>
@@ -4804,6 +5039,11 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M9.07 7L6 11.606V20h12V7H9.07zM8 5h11a1 1 0 0 1 1 1v15a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V11l4-6zm5-4h5a1 1 0 0 1 1 1v2h-7V2a1 1 0 0 1 1-1zM8 12h2v6H8v-6z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-omega">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M14 20v-2.157c1.863-1.192 3.5-3.875 3.5-6.959 0-3.073-2-6.029-5.5-6.029s-5.5 2.956-5.5 6.03c0 3.083 1.637 5.766 3.5 6.958V20H3v-2h4.76C5.666 16.505 4 13.989 4 10.884 4 6.247 7.5 3 12 3s8 3.247 8 7.884c0 3.105-1.666 5.621-3.76 7.116H21v2h-7z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-open-arm-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -4854,6 +5094,11 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm2-10h2v4h-2v-4zm-6 0h2v4H8v-4z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-page-separator">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17 21v-4H7v4H5v-5a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v5h-2zM7 3v4h10V3h2v5a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3h2zM2 9l4 3-4 3V9zm20 0v6l-4-3 4-3z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-pages-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -4903,6 +5148,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M5.764 8l-.295-.73a1 1 0 0 1 .553-1.302l9.272-3.746a1 1 0 0 1 1.301.552l5.62 13.908a1 1 0 0 1-.553 1.302L12.39 21.73a1 1 0 0 1-1.302-.553L11 20.96V21H7a1 1 0 0 1-1-1v-.27l-3.35-1.353a1 1 0 0 1-.552-1.302L5.764 8zM8 19h2.209L8 13.533V19zm-2-6.244l-1.673 4.141L6 17.608v-4.852zm1.698-5.309l4.87 12.054 7.418-2.997-4.87-12.053-7.418 2.996zm2.978 2.033a1 1 0 1 1-.749-1.855 1 1 0 0 1 .75 1.855z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-paragraph">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 6v15h-2v-5a6 6 0 1 1 0-12h10v2h-3v15h-2V6h-3zm-2 0a4 4 0 1 0 0 8V6z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-parent-fill">
     <g>
@@ -5523,6 +5773,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 14v5.5L1.5 11 12 2.5V8c5.523 0 10 4.477 10 10 0 .273-.01.543-.032.81A8.999 8.999 0 0 0 14 14h-2zm-2 1.308V12h4c1.42 0 2.791.271 4.057.773A7.982 7.982 0 0 0 12 10h-2V6.692L4.679 11 10 15.308z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-reserved-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M13 15v4h3v2H8v-2h3v-4H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-7zM8 8v2h8V8H8z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-reserved-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M13 15v4h3v2H8v-2h3v-4H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-7zm-8-2h14V5H5v8zm3-5h8v2H8V8z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-restart-fill">
     <g>
@@ -6359,6 +6619,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M14.5 3A1.5 1.5 0 0 1 16 4.5v5a1.5 1.5 0 0 1-3 0v-5A1.5 1.5 0 0 1 14.5 3zm-10 10H6v1.5A1.5 1.5 0 1 1 4.5 13zm8.5 5h1.5a1.5 1.5 0 1 1-1.5 1.5V18zm1.5-5h5a1.5 1.5 0 0 1 0 3h-5a1.5 1.5 0 0 1 0-3zm5-5a1.5 1.5 0 0 1 0 3H18V9.5A1.5 1.5 0 0 1 19.5 8zm-15 0h5a1.5 1.5 0 0 1 0 3h-5a1.5 1.5 0 0 1 0-3zm5-5A1.5 1.5 0 0 1 11 4.5V6H9.5a1.5 1.5 0 0 1 0-3zm0 10a1.5 1.5 0 0 1 1.5 1.5v5a1.5 1.5 0 0 1-3 0v-5A1.5 1.5 0 0 1 9.5 13z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-slice-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M13.768 12.232l2.121 2.122c-4.596 4.596-10.253 6.01-13.788 5.303L17.657 4.1l2.121 2.12-6.01 6.011z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-slice-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M15.69 12.918l1.769 1.768c-6.01 6.01-10.96 6.01-15.203 4.596L17.812 3.726l3.536 3.535-5.657 5.657zm-2.828 0l5.657-5.657-.707-.707L6.314 18.052c2.732.107 5.358-.907 8.267-3.416l-1.719-1.718z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-slideshow-2-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -6644,6 +6914,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M21 11.646V21a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-9.354A3.985 3.985 0 0 1 2 9V3a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v6c0 1.014-.378 1.94-1 2.646zm-2 1.228a4.007 4.007 0 0 1-4-1.228A3.99 3.99 0 0 1 12 13a3.99 3.99 0 0 1-3-1.354 3.99 3.99 0 0 1-4 1.228V20h14v-7.126zM14 9a1 1 0 0 1 2 0 2 2 0 1 0 4 0V4H4v5a2 2 0 1 0 4 0 1 1 0 1 1 2 0 2 2 0 1 0 4 0z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-strikethrough-2">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M13 9h-2V6H5V4h14v2h-6v3zm0 6v5h-2v-5h2zM3 11h18v2H3v-2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-strikethrough">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17.154 14c.23.516.346 1.09.346 1.72 0 1.342-.524 2.392-1.571 3.147C14.88 19.622 13.433 20 11.586 20c-1.64 0-3.263-.381-4.87-1.144V16.6c1.52.877 3.075 1.316 4.666 1.316 2.551 0 3.83-.732 3.839-2.197a2.21 2.21 0 0 0-.648-1.603l-.12-.117H3v-2h18v2h-3.846zm-4.078-3H7.629a4.086 4.086 0 0 1-.481-.522C6.716 9.92 6.5 9.246 6.5 8.452c0-1.236.466-2.287 1.397-3.153C8.83 4.433 10.271 4 12.222 4c1.471 0 2.879.328 4.222.984v2.152c-1.2-.687-2.515-1.03-3.946-1.03-2.48 0-3.719.782-3.719 2.346 0 .42.218.786.654 1.099.436.313.974.562 1.613.75.62.18 1.297.414 2.03.699z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-subscript-2">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -6733,6 +7013,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M14.515 5l2.606-2.607a1 1 0 0 1 1.415 0l4.242 4.243a1 1 0 0 1 0 1.414L19 11.828V21a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-9.172L1.222 8.05a1 1 0 0 1 0-1.414l4.242-4.243a1 1 0 0 1 1.415 0L9.485 5h5.03zm.828 2H8.657L6.172 4.515 3.343 7.343 7 11v9h10v-9l3.657-3.657-2.829-2.828L15.343 7z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-table-2">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M13 10v4h6v-4h-6zm-2 0H5v4h6v-4zm2 9h6v-3h-6v3zm-2 0v-3H5v3h6zm2-14v3h6V5h-6zm-2 0H5v3h6V5zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-table-fill">
     <g>
@@ -6834,10 +7119,25 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M20 9V5H4v4h16zm0 2H4v8h16v-8zM3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm2 9h3v5H5v-5zm0-6h2v2H5V6zm4 0h2v2H9V6z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-text-direction-l">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M11 5v10H9v-4a4 4 0 1 1 0-8h8v2h-2v10h-2V5h-2zM9 5a2 2 0 1 0 0 4V5zm8 12v-2.5l4 3.5-4 3.5V19H5v-2h12z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-text-direction-r">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M11 5v10H9v-4a4 4 0 1 1 0-8h8v2h-2v10h-2V5h-2zM9 5a2 2 0 1 0 0 4V5zM7 17h12v2H7v2.5L3 18l4-3.5V17z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-text-spacing">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M7 17h10v-2.5l3.5 3.5-3.5 3.5V19H7v2.5L3.5 18 7 14.5V17zm6-11v9h-2V6H5V4h14v2h-6z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-text-wrap">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15 18h1.5a2.5 2.5 0 1 0 0-5H3v-2h13.5a4.5 4.5 0 1 1 0 9H15v2l-4-3 4-3v2zM3 4h18v2H3V4zm6 14v2H3v-2h6z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-text">
     <g>
@@ -7159,6 +7459,26 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 14v2a6 6 0 0 0-6 6H4a8 8 0 0 1 8-8zm0-1c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm8.828 10.071L18 24l-2.828-2.929c-1.563-1.618-1.563-4.24 0-5.858a3.904 3.904 0 0 1 5.656 0c1.563 1.618 1.563 4.24 0 5.858zm-1.438-1.39c.813-.842.813-2.236 0-3.078a1.904 1.904 0 0 0-2.78 0c-.813.842-.813 2.236 0 3.079L18 21.12l1.39-1.44z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-received-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252V22H4a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm8 4h3v2h-3v3.5L15 18l5-4.5V17z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-received-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252v2.09A6 6 0 0 0 6 22l-2-.001a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm8 6h3v2h-3v3.5L15 18l5-4.5V17z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-received-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252V22H4a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm7.418 4h3.586v2h-3.586l1.829 1.828-1.414 1.415L15.59 18l4.243-4.243 1.414 1.415L19.418 17z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-received-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252v2.09A6 6 0 0 0 6 22l-2-.001a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm7.418 6h3.586v2h-3.586l1.829 1.828-1.414 1.415L15.59 18l4.243-4.243 1.414 1.415L19.418 17z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-user-search-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -7178,6 +7498,26 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 14v2a6 6 0 0 0-6 6H4a8 8 0 0 1 8-8zm0-1c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm2.595 7.812a3.51 3.51 0 0 1 0-1.623l-.992-.573 1-1.732.992.573A3.496 3.496 0 0 1 17 14.645V13.5h2v1.145c.532.158 1.012.44 1.405.812l.992-.573 1 1.732-.992.573a3.51 3.51 0 0 1 0 1.622l.992.573-1 1.732-.992-.573a3.496 3.496 0 0 1-1.405.812V22.5h-2v-1.145a3.496 3.496 0 0 1-1.405-.812l-.992.573-1-1.732.992-.572zM18 19.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-shared-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252V22H4a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm6 4v-3.5l5 4.5-5 4.5V19h-3v-2h3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-shared-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252v2.09A6 6 0 0 0 6 22l-2-.001a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm6 6v-3.5l5 4.5-5 4.5V19h-3v-2h3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-shared-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252V22H4a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm6.586 4l-1.829-1.828 1.415-1.415L22.414 18l-4.242 4.243-1.415-1.415L18.586 19H15v-2h3.586z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="remixicon-user-shared-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 14.252v2.09A6 6 0 0 0 6 22l-2-.001a8 8 0 0 1 10-7.748zM12 13c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm6.586 6l-1.829-1.828 1.415-1.415L22.414 18l-4.242 4.243-1.415-1.415L18.586 19H15v-2h3.586z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-user-smile-fill">
     <g>

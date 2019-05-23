@@ -2,69 +2,59 @@
 	"_comment": "We improve the search experience of our website by impoving 'tags.json' file. Feel free to create issue or pull request to help us improve this file. You can also email us <jimmy@remixdesign.cn> to share your idea.",
 	"Buildings": {
 		"home": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-2": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-3": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-4": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-5": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-6": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-7": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-8": [
-			"home",
 			"house",
 			"房子",
 			"家",
 			"主页"
 		],
 		"home-gear": [
-			"home",
 			"house",
 			"房子",
 			"工厂"
 		],
 		"home-wifi": [
-			"house",
 			"smart home",
 			"房子",
 			"家具",
@@ -253,6 +243,7 @@
 			"email",
 			"inbox",
 			"failed",
+			"x",
 			"信封",
 			"邮箱",
 			"邮件",
@@ -545,8 +536,10 @@
 		],
 		"links": [
 			"connection",
+			"address",
+			"联系",
 			"链接",
-			"联系"
+			"地址"
 		],
 		"pie-chart": [
 			"data",
@@ -851,12 +844,14 @@
 		"questionnaire": [
 			"message",
 			"comment",
+			"help",
 			"消息",
 			"聊天",
 			"回复",
 			"评论",
 			"讨论",
-			"调查问卷"
+			"调查问卷",
+			"帮助"
 		],
 		"video-chat": [
 			"message",
@@ -889,6 +884,10 @@
 		],
 		"mark-pen": [
 			"马克笔"
+		],
+		"markup": [
+			"标记",
+			"马克"
 		],
 		"pen-nib": [
 			"钢笔",
@@ -994,9 +993,17 @@
 			"裁剪",
 			"截屏"
 		],
+		"slice": [
+			"knife",
+			"切图",
+			"切片",
+			"刀"
+		],
 		"eraser": [
+			"remove formatting",
 			"橡皮",
-			"擦除"
+			"擦除",
+			"清除格式"
 		],
 		"ruler": [
 			"尺子"
@@ -1057,6 +1064,12 @@
 		],
 		"layout": [
 			"布局"
+		],
+		"layout-column": [
+			"左右布局"
+		],
+		"layout-row": [
+			"上下布局"
 		],
 		"grid": [
 			"table",
@@ -1123,6 +1136,30 @@
 			"beautify",
 			"魔法棒",
 			"美化"
+		],
+		"anticlockwise": [
+			"rotate",
+			"left",
+			"左翻转",
+			"左旋转"
+		],
+		"anticlockwise-2": [
+			"rotate",
+			"left",
+			"左翻转",
+			"左旋转"
+		],
+		"clockwise": [
+			"rotate",
+			"right",
+			"右翻转",
+			"右旋转"
+		],
+		"clockwise-2": [
+			"rotate",
+			"right",
+			"右翻转",
+			"右旋转"
 		]
 	},
 	"Development": {
@@ -1194,6 +1231,30 @@
 			"mouse",
 			"指针",
 			"鼠标"
+		],
+		"git-commit": [
+			"node",
+			"提交"
+		],
+		"git-pull-request": [
+			"合并申请"
+		],
+		"git-merge": [
+			"合并"
+		],
+		"git-branch": [
+			"分支"
+		],
+		"git-repository": [
+			"仓库"
+		],
+		"git-repository-commits": [
+			"仓库",
+			"提交"
+		],
+		"git-repository-private": [
+			"私密仓库",
+			"私人仓库"
 		]
 	},
 	"Device": {
@@ -1361,64 +1422,54 @@
 	},
 	"Document": {
 		"file": [
-			"document",
 			"new",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-2": [
-			"document",
 			"new",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-3": [
-			"document",
 			"new",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-edit": [
-			"document",
 			"文件",
 			"文档",
 			"编辑"
 		],
 		"file-4": [
-			"document",
 			"new",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-paper": [
-			"document",
 			"文件",
 			"文档",
 			"纸",
 			"谱"
 		],
 		"file-text": [
-			"document",
 			"文件",
 			"文档",
 			"文本"
 		],
 		"file-list": [
-			"document",
 			"清单",
 			"列表"
 		],
 		"file-list-2": [
-			"document",
 			"清单",
 			"列表"
 		],
 		"file-list-3": [
-			"document",
 			"newspaper",
 			"清单",
 			"列表",
@@ -1428,14 +1479,12 @@
 			"账单"
 		],
 		"file-copy": [
-			"document",
 			"duplicate",
 			"clone",
 			"复制",
 			"克隆"
 		],
 		"file-copy-2": [
-			"document",
 			"duplicate",
 			"clone",
 			"复制",
@@ -1535,7 +1584,6 @@
 			"联系人"
 		],
 		"file-code": [
-			"document",
 			"config",
 			"文件",
 			"文档",
@@ -1544,103 +1592,84 @@
 			"配置文件"
 		],
 		"file-pdf": [
-			"document",
 			"文件",
 			"文档"
 		],
 		"file-word": [
-			"document",
 			"文档"
 		],
 		"file-ppt": [
-			"document",
 			"文件",
 			"文档"
 		],
 		"file-excel": [
-			"document",
 			"文档",
 			"表单"
 		],
 		"file-word-2": [
-			"document",
 			"文档"
 		],
 		"file-ppt-2": [
-			"document",
 			"文件",
 			"文档"
 		],
 		"file-excel-2": [
-			"document",
 			"文档",
 			"表单"
 		],
 		"keynote": [
-			"document",
 			"演示文稿",
 			"幻灯片",
 			"讲演"
 		],
 		"numbers": [
-			"document",
 			"表格"
 		],
 		"pages": [
-			"document",
 			"文稿"
 		],
 		"file-search": [
-			"document",
 			"文件",
 			"文档",
 			"搜索"
 		],
 		"file-add": [
-			"document",
 			"new",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-reduce": [
-			"document",
 			"文件",
 			"文档",
 			"减"
 		],
 		"file-settings": [
-			"document",
 			"文件",
 			"文档",
 			"设置"
 		],
 		"file-upload": [
-			"document",
 			"文件",
 			"文档",
 			"上传"
 		],
 		"file-transfer": [
-			"document",
 			"文件",
 			"文档",
 			"传输"
 		],
 		"file-download": [
-			"document",
 			"文件",
 			"文档",
 			"下载"
 		],
 		"file-lock": [
-			"document",
 			"文件",
 			"文档",
 			"锁"
 		],
 		"file-chart": [
-			"document",
 			"report",
 			"文件",
 			"文档",
@@ -1648,7 +1677,6 @@
 			"报表"
 		],
 		"file-chart-2": [
-			"document",
 			"report",
 			"文件",
 			"文档",
@@ -1656,25 +1684,21 @@
 			"报表"
 		],
 		"file-music": [
-			"document",
 			"文件",
 			"文档",
 			"音乐"
 		],
 		"file-forbid": [
-			"document",
 			"文件",
 			"文档",
 			"禁用"
 		],
 		"file-info": [
-			"document",
 			"文件",
 			"文档",
 			"信息"
 		],
 		"file-warning": [
-			"document",
 			"alert",
 			"文件",
 			"文档",
@@ -1682,20 +1706,17 @@
 			"提醒"
 		],
 		"file-unknow": [
-			"document",
 			"文件",
 			"文档",
 			"未知",
 			"问号"
 		],
 		"file-user": [
-			"document",
 			"文件",
 			"文档",
 			"用户"
 		],
 		"file-shield": [
-			"document",
 			"protected",
 			"secured",
 			"文件",
@@ -1705,7 +1726,6 @@
 			"安全"
 		],
 		"file-shield-2": [
-			"document",
 			"protected",
 			"secured",
 			"文件",
@@ -1715,7 +1735,6 @@
 			"安全"
 		],
 		"file-damage": [
-			"document",
 			"breakdown",
 			"broken",
 			"文件",
@@ -1725,7 +1744,6 @@
 			"破裂"
 		],
 		"file-shred": [
-			"document",
 			"shredder",
 			"shred",
 			"destroy",
@@ -1930,6 +1948,9 @@
 		"italic": [
 			"斜体"
 		],
+		"heading": [
+			"标题"
+		],
 		"text": [
 			"字体"
 		],
@@ -1946,6 +1967,18 @@
 		],
 		"underline": [
 			"下划线"
+		],
+		"strikethrough": [
+			"remove formatting",
+			"删除线"
+		],
+		"strikethrough-2": [
+			"remove formatting",
+			"删除线"
+		],
+		"format-clear": [
+			"remove formatting",
+			"清除格式"
 		],
 		"align-left": [
 			"左对齐"
@@ -1969,18 +2002,27 @@
 			"底部对齐"
 		],
 		"list-check": [
+			"check list",
+			"清单列表"
+		],
+		"list-check-2": [
+			"check list",
 			"清单列表"
 		],
 		"list-ordered": [
+			"number list",
 			"有序列表"
 		],
 		"list-unordered": [
+			"bullet list",
 			"无序列表"
 		],
 		"indent-decrease": [
+			"indent more",
 			"缩进"
 		],
 		"indent-increase": [
+			"indent less",
 			"缩进"
 		],
 		"line-height": [
@@ -1989,10 +2031,37 @@
 		"text-spacing": [
 			"字间距"
 		],
+		"text-wrap": [
+			"文本换行"
+		],
+		"attachment-2": [
+			"annex",
+			"paperclip",
+			"附件",
+			"曲别针"
+		],
 		"link": [
-			"链接"
+			"connection",
+			"address",
+			"联系",
+			"链接",
+			"地址"
 		],
 		"link-unlink": [
+			"connection",
+			"remove address",
+			"去除链接"
+		],
+		"link-m": [
+			"connection",
+			"address",
+			"联系",
+			"链接",
+			"地址"
+		],
+		"link-unlink-m": [
+			"connection",
+			"remove address",
 			"去除链接"
 		],
 		"separator": [
@@ -2000,6 +2069,11 @@
 		],
 		"space": [
 			"空格"
+		],
+		"page-separator": [
+			"insert",
+			"分页符",
+			"插入"
 		],
 		"code-view": [
 			"代码视图"
@@ -2024,6 +2098,9 @@
 			"quotaion marks",
 			"单引号"
 		],
+		"table-2": [
+			"表格"
+		],
 		"subscript": [
 			"角标",
 			"下标",
@@ -2041,6 +2118,22 @@
 		"superscript-2": [
 			"角标",
 			"上标"
+		],
+		"paragraph": [
+			"段落"
+		],
+		"text-direction-l": [
+			"文本左对齐"
+		],
+		"text-direction-r": [
+			"文本左对齐"
+		],
+		"functions": [
+			"功能"
+		],
+		"omega": [
+			"Ω",
+			"特殊符号"
 		]
 	},
 	"Finance": {
@@ -2423,10 +2516,13 @@
 			"插座"
 		],
 		"plug": [
-			"插头"
+			"二脚插头"
 		],
 		"plug-2": [
-			"插头"
+			"三脚插头"
+		],
+		"reserved": [
+			"已预定"
 		]
 	},
 	"Logos": {
@@ -2447,6 +2543,9 @@
 			"应用"
 		],
 		"facebook": [
+			"脸书"
+		],
+		"facebook-circle": [
 			"脸书"
 		],
 		"facebook-box": [
@@ -3656,6 +3755,7 @@
 			"remove",
 			"delete",
 			"empty",
+			"x",
 			"关闭",
 			"取消",
 			"移除",
@@ -4012,6 +4112,7 @@
 			"不可见"
 		],
 		"eye-close": [
+			"x",
 			"闭眼"
 		],
 		"search": [
@@ -4210,6 +4311,56 @@
 			"filtration",
 			"筛选",
 			"过滤"
+		],
+		"loader": [
+			"loader",
+			"spinner",
+			"ajax",
+			"waiting",
+			"delay",
+			"加载中",
+			"载入中",
+			"正在加载"
+		],
+		"loader-2": [
+			"loader",
+			"spinner",
+			"ajax",
+			"waiting",
+			"delay",
+			"加载中",
+			"载入中",
+			"正在加载"
+		],
+		"loader-3": [
+			"loader",
+			"spinner",
+			"ajax",
+			"waiting",
+			"delay",
+			"加载中",
+			"载入中",
+			"正在加载"
+		],
+		"loader-4": [
+			"loader",
+			"spinner",
+			"ajax",
+			"waiting",
+			"delay",
+			"加载中",
+			"载入中",
+			"正在加载"
+		],
+		"loader-5": [
+			"loader",
+			"spinner",
+			"ajax",
+			"waiting",
+			"delay",
+			"加载中",
+			"载入中",
+			"正在加载"
 		]
 	},
 	"User": {
@@ -4259,6 +4410,28 @@
 		"user-unfollow": [
 			"用户",
 			"取消关注"
+		],
+		"user-shared": [
+			"transfer",
+			"用户",
+			"我分享的",
+			"发送"
+		],
+		"user-shared-2": [
+			"transfer",
+			"用户",
+			"我分享的",
+			"发送"
+		],
+		"user-received": [
+			"用户",
+			"我接收的",
+			"收取"
+		],
+		"user-received-2": [
+			"用户",
+			"我接收的",
+			"收取"
 		],
 		"user-location": [
 			"用户",
