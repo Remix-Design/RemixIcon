@@ -2,8 +2,8 @@
 
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
-[![gitter](https://img.shields.io/gitter/room/:user/:repo.svg?labelColor=4A4A4A&color=d73666&style=flat-square)](https://gitter.im/remixicon/community)
-[![donate](https://img.shields.io/badge/-Donate-4664DA.svg?style=flat-square)](https://remixicon.com/#donate)
+[![spectrum](https://img.shields.io/badge/沟通-Spectrum-7028F5.svg?labelColor=4A4A4A&style=flat-square)](https://spectrum.chat/remixdesign/remixicon)
+[![donate](https://img.shields.io/badge/-赞助-DA6429.svg?style=flat-square)](https://remixicon.com/#donate)
 
 [English](./README.md) | 简体中文
 
