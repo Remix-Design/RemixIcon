@@ -90,11 +90,11 @@ If there is no suitable icon for your usage scenario, you can create an [issue](
 
 ### Icon Search Keywords
 
-We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails or "pull request" of tags.json file to make the seach engine better.
+We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails or "pull request" of tags.json file to make the search engine better.
 
 ## Sub-projects
 [RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) PowerPoint and Keynote verison of Remix Icon.
 
 ## License
 
-Remix Icon is licensed under the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License).  Feel free to use these icons in you products and distribute them. We would be very grateful if you mention "Remix Icon" in your product info, but it's not required. The only thing we ask is that these icons are not for sale.
+Remix Icon is licensed under the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License).  Feel free to use these icons in your products and distribute them. We would be very grateful if you mention "Remix Icon" in your product info, but it's not required. The only thing we ask is that these icons are not for sale.
