@@ -82,7 +82,7 @@ Download [`remixicon.symbol.svg`](http://cdn.remixicon.com/releases/v1.2.1/remix
 
 ## Contributing
 
-> **Note:** In order to ensure the quality of each icon, we currently do not accept third-party drawn icons. If you want to contribute an icon to Remix Icon, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a screenshot or url to your svg-format file. If you are not famlilar with github, you can also email us directly `jimmy@remixdesign.cn`.
+> **Note:** In order to ensure the quality of each icon, we currently do not accept third-party drawn icons. If you want to contribute an icon to Remix Icon, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a screenshot or url to your svg-format file. If you are not familiar with github, you can also email us directly `jimmy@remixdesign.cn`.
 
 ### Icon Request
 
@@ -90,7 +90,7 @@ If there is no suitable icon for your usage scenario, you can create an [issue](
 
 ### Icon Search Keywords
 
-We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails or "pull request" of tags.json file to make the seach engine better.
+We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails or "pull request" of tags.json file to make the search engine better.
 
 ## Sub-projects
 [RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) PowerPoint and Keynote verison of Remix Icon.
