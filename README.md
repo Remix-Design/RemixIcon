@@ -45,11 +45,11 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="http://cdn.remixicon.com/releases/v1.2.2/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v1.2.2/remixicon.css" rel="stylesheet">
 ```
 
 #### Download Manually
-Download [`remixicon.css`](http://cdn.remixicon.com/releases/v1.2.2/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
+Download [`remixicon.css`](https://cdn.remixicon.com/releases/v1.2.2/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
 Add icon with class name, class name rule: remixicon-{name}-{style}
@@ -63,7 +63,7 @@ Add icon with class name, class name rule: remixicon-{name}-{style}
 
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](http://cdn.remixicon.com/releases/v1.2.2/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.2.2/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
