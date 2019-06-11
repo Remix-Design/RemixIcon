@@ -16,6 +16,7 @@
   url("remixicon.woff?t=1558771421578") format("woff"),
   url('remixicon.ttf?t=1558771421578') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
   url('remixicon.svg?t=1558771421578#remixicon') format('svg'); /* iOS 4.1- */
+  font-display: swap;
 }
 
 [class^="remixicon-"], [class*=" remixicon-"] {
