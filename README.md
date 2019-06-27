@@ -7,7 +7,7 @@
 
 English | [简体中文](./README_CN.md)
 
-Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 1500+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
+Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 1700+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
@@ -45,13 +45,14 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v1.2.2/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v1.3.0/remixicon.css" rel="stylesheet">
 ```
 
 #### Download Manually
-Download [`remixicon.css`](https://cdn.remixicon.com/releases/v1.2.2/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
+Download [`remixicon.css`](https://cdn.remixicon.com/releases/v1.3.0/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
+
 Add icon with class name, class name rule: remixicon-{name}-{style}
 
 ```html
@@ -61,9 +62,31 @@ Add icon with class name, class name rule: remixicon-{name}-{style}
 
 > **Note:** You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
 
+#### Sizing
+
+RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inherit the `font-size` of their parent container and with the following classes you can increase or decrease the size of icons relative to that inherited `font-size`. You can also use `ri-fw` class for a fixed width for icons. For example:
+
+```html
+<div style="font-size: 24px;">
+  <i class="remixicon-admin-line ri-fw"></i> <!-- fixed width -->
+  <i class="remixicon-admin-line ri-xxs"></i> <!-- 0.5em -->
+  <i class="remixicon-admin-line ri-xs"></i> <!-- 0.75em -->
+  <i class="remixicon-admin-line ri-sm"></i> <!-- 0.875em -->
+  <i class="remixicon-admin-line ri-1x"></i> <!-- 1em -->
+  <i class="remixicon-admin-line ri-lg"></i> <!-- 1.3333em -->
+  <i class="remixicon-admin-line ri-xl"></i> <!-- 1.5em -->
+  <i class="remixicon-admin-line ri-2x"></i> <!-- 2em -->
+  <i class="remixicon-admin-line ri-3x"></i> <!-- 3em -->
+  ...
+  <i class="remixicon-admin-line ri-10x"></i> <!-- 10em -->
+</div>
+```
+
+>  You can  check the [`remixicon.css`](https://github.com/Remix-Design/RemixIcon/blob/master/fonts/remixicon.css) file for more info and details.
+
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.2.2/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.3.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
@@ -87,6 +110,8 @@ Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.2.2/remi
 ### Icon Request
 
 If there is no suitable icon for your usage scenario, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a title of "Icon request: <Icon name>" and fill the issue template.
+
+> RemixIcon is mainly focuses on user interface icons. If we did not include the logo icons you were looking for, I recommend this icon library - [Simple Icons](https://github.com/simple-icons/simple-icons)
 
 ### Icon Search Keywords
 

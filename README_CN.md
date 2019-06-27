@@ -44,13 +44,14 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v1.2.2/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v1.3.0/remixicon.css" rel="stylesheet">
 ```
 
 #### 手动下载引入
-下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v1.2.2/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
+下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v1.3.0/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
 
 #### 使用
+
 引入Remix Icon图标库后，就可以在web项目中使用了，只要在使用图标的时候将图标名称作为类名就可以了。类名规则：remixicon-{name}-{style}
 
 ```html
@@ -60,9 +61,31 @@ import 'remixicon/fonts/remixicon.css'
 
 > **Note:** 您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill`代表面型风格。
 
+#### 大小
+
+在`v1.3.0`及以上版本的字体使用方式下，RemixIcon 可以通过 `remixicon.css` 中集成的一些 class 来快捷改变图标的大小。这些 class 使用 `em` 相对大小单位来控制图标尺寸，相对值为图标的父类元素的字体大小值。您也可以通过 `ri-fw` 来使得图标宽度固定，例如在列表场景中使用。class 举例：
+
+```html
+<div style="font-size: 24px;">
+  <i class="remixicon-admin-line ri-fw"></i> <!-- fixed width -->
+  <i class="remixicon-admin-line ri-xxs"></i> <!-- 0.5em -->
+  <i class="remixicon-admin-line ri-xs"></i> <!-- 0.75em -->
+  <i class="remixicon-admin-line ri-sm"></i> <!-- 0.875em -->
+  <i class="remixicon-admin-line ri-1x"></i> <!-- 1em -->
+  <i class="remixicon-admin-line ri-lg"></i> <!-- 1.3333em -->
+  <i class="remixicon-admin-line ri-xl"></i> <!-- 1.5em -->
+  <i class="remixicon-admin-line ri-2x"></i> <!-- 2em -->
+  <i class="remixicon-admin-line ri-3x"></i> <!-- 3em -->
+  ...
+  <i class="remixicon-admin-line ri-10x"></i> <!-- 10em -->
+</div>
+```
+
+> 您也可以在 [`remixicon.css`](https://github.com/Remix-Design/RemixIcon/blob/master/fonts/remixicon.css) 中查看到更多的尺寸定义相关信息。
+
 ### SVG Sprite用法
 
-下载 [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.2.2/remixicon.symbol.svg) 并添加到您的项目目录中，通过 `<use>` 标签来引用图标，通过css可以自定义图标的大小和颜色等属性，例如：
+下载 [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.3.0/remixicon.symbol.svg) 并添加到您的项目目录中，通过 `<use>` 标签来引用图标，通过css可以自定义图标的大小和颜色等属性，例如：
 
 ```html
 <svg class='remix'>
@@ -83,9 +106,13 @@ import 'remixicon/fonts/remixicon.css'
 > **Note:** 为了保证每一枚图标的质量，现阶段我们还不接受第三方小伙伴绘制的图标。如果您想要向 Remix Icon 贡献自己设计的图标，请创建一个[issue](https://github.com/Remix-Design/remixicon/issues)来提交自己的图标设计，并在issue详情中附上自己图标的下载地址，我们会按照 Remix Icon图标风格规范进行审核，通过后将会添加到图标库中，并在更新日志中署上作者的ID。如果你对GitHub不是很熟悉，不清除issue和pull request是什么，也可以直接给我们发邮件 `jimmy@remixdesign.cn`，内容表述清楚即可。
 
 ### 图标申请
+
 如果图标库中缺少某个适合您业务场景的图标，您可以通过创建[issue](https://github.com/Remix-Design/remixicon/issues)的方式进行申请，issue标题格式为：“Icon request: <图标名称>”，并完善issue模板中的相应信息。感谢您提出图标申请，这也是帮助我们完善图标库的一种协作共建方式。
 
+> RemixIcon 主要聚焦于用户界面类的图标，如果 RemixIcon 没有包含您需要的 logo 类的图标，推荐使用 [Simple Icons](https://github.com/simple-icons/simple-icons)，这是一个优秀的 logo 类图标合集。如果您需要的 logo 经常在 UI 端展示，比如社交媒体类图标，也可以发出申请。
+
 ### 图标搜索关键词
+
 目前我们的[图标官网](https://remixicon.com)是通过[`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json)文件来管理搜索关键词的，目前我们已经为所有图标添加了中文关键词，因此我们可以通过中文对图标进行搜索和定位；但是由于关键词不是很健全，所以用户还是经常无法通过某个特定关键词搜索到已有图标。而目前我们还没有一个很好的自动化策略来穷举每一个图标的关键词，只能通过人肉添加的方式来进行完善，希望用户可以通过提[issue](https://github.com/Remix-Design/remixicon/issues) 或者pull request的方式来帮我们一块完善维护`tags.json`，让搜索功能变得更加好用。
 
 ## 相关项目
