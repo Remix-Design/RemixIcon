@@ -76,6 +76,14 @@
 			"智能家居",
 			"微笑"
 		],
+		"home-heart": [
+			"house",
+			"心",
+			"房子",
+			"家",
+			"主页",
+			"孤儿院"
+		],
 		"building": [
 			"city",
 			"office",
@@ -177,6 +185,11 @@
 			"超市",
 			"店铺",
 			"商家"
+		],
+		"hospital": [
+			"medical",
+			"health",
+			"医院"
 		]
 	},
 	"Business": {
@@ -362,6 +375,14 @@
 			"韵律",
 			"节奏"
 		],
+		"bar-chart-horizontal": [
+			"statistics",
+			"rhythm",
+			"柱状图",
+			"统计",
+			"韵律",
+			"节奏"
+		],
 		"bar-chart-2": [
 			"statistics",
 			"rhythm",
@@ -376,6 +397,13 @@
 			"柱状图",
 			"统计",
 			"节奏"
+		],
+		"bar-chart-grouped": [
+			"statistics",
+			"rhythm",
+			"柱状图",
+			"统计",
+			"分组"
 		],
 		"bookmark": [
 			"tag",
@@ -810,6 +838,18 @@
 			"回复",
 			"评论"
 		],
+		"chat-heart": [
+			"message",
+			"reply",
+			"comment",
+			"消息",
+			"聊天",
+			"回复",
+			"评论",
+			"心",
+			"点赞",
+			"收藏"
+		],
 		"feedback": [
 			"message",
 			"comment",
@@ -858,6 +898,12 @@
 			"comment",
 			"消息",
 			"视频聊天"
+		],
+		"chat-voice": [
+			"message",
+			"comment",
+			"消息",
+			"语音消息"
 		]
 	},
 	"Design": {
@@ -1255,6 +1301,13 @@
 		"git-repository-private": [
 			"私密仓库",
 			"私人仓库"
+		],
+		"html5": [
+			"html",
+			"h5"
+		],
+		"css3": [
+			"css"
 		]
 	},
 	"Device": {
@@ -1297,6 +1350,11 @@
 			"电话"
 		],
 		"database": [
+			"storage",
+			"数据库",
+			"存储"
+		],
+		"database-2": [
 			"storage",
 			"数据库",
 			"存储"
@@ -1789,6 +1847,14 @@
 			"目录",
 			"文档"
 		],
+		"folders": [
+			"directory",
+			"file",
+			"文件夹",
+			"目录",
+			"文档",
+			"批量"
+		],
 		"folder-add": [
 			"directory",
 			"file",
@@ -1939,6 +2005,22 @@
 			"arrow",
 			"箭头",
 			"下"
+		],
+		"folder-shared": [
+			"directory",
+			"file",
+			"文件夹",
+			"目录",
+			"文档",
+			"分享"
+		],
+		"folder-received": [
+			"directory",
+			"file",
+			"文件夹",
+			"目录",
+			"文档",
+			"接收"
 		]
 	},
 	"Editor": {
@@ -2134,6 +2216,10 @@
 		"omega": [
 			"Ω",
 			"特殊符号"
+		],
+		"hashtag": [
+			"#",
+			"井号"
 		]
 	},
 	"Finance": {
@@ -2455,6 +2541,9 @@
 		],
 		"water-flash": [
 			"水电费"
+		],
+		"stock": [
+			"股票"
 		]
 	},
 	"Life": {
@@ -2574,6 +2663,9 @@
 		],
 		"wechat-2": [
 			"微信"
+		],
+		"mini-program": [
+			"微信小程序"
 		],
 		"skype": [
 			"skype"
@@ -2704,6 +2796,9 @@
 		"zhihu": [
 			"知乎"
 		],
+		"douban": [
+			"豆瓣"
+		],
 		"patreon": [
 			"donate",
 			"money",
@@ -2717,6 +2812,69 @@
 		"discord": [
 			"game",
 			"chat"
+		],
+		"kakao-talk": [
+			"kakao talk",
+			"chat"
+		],
+		"mastodon": [
+			"mastodon",
+			"长毛象"
+		],
+		"netease-cloud-music": [
+			"netease cloud music",
+			"网易云音乐"
+		],
+		"spotify": [
+			"music",
+			"音乐"
+		],
+		"reddit": [
+			"reddit"
+		],
+		"netflix": [
+			"网飞"
+		],
+		"playstation": [
+			"ps"
+		],
+		"switch": [
+			"nintendo",
+			"任天堂"
+		],
+		"xbox": [
+			"xbox"
+		],
+		"visa": [
+			"bank card",
+			"银行卡"
+		],
+		"mastercard": [
+			"bank card",
+			"银行卡"
+		],
+		"ubuntu": [
+			"linux",
+			"system",
+			"系统"
+		],
+		"coreos": [
+			"linux",
+			"system",
+			"系统"
+		],
+		"angularjs": [
+			"angular",
+			"programing framework"
+		],
+		"reactjs": [
+			"react",
+			"programing framework",
+			"facebook"
+		],
+		"vuejs": [
+			"vue",
+			"programing framework"
 		]
 	},
 	"Map": {
@@ -3163,13 +3321,19 @@
 			"电影"
 		],
 		"vidicon": [
-			"vedio",
+			"video",
 			"camera",
 			"摄像机",
 			"摄影机",
 			"视频"
 		],
 		"vidicon-2": [
+			"camera",
+			"摄像机",
+			"摄影机"
+		],
+		"dv": [
+			"vidicon",
 			"camera",
 			"摄像机",
 			"摄影机"
@@ -3501,6 +3665,9 @@
 			"节奏",
 			"韵律"
 		],
+		"voiceprint": [
+			"声纹"
+		],
 		"hq": [
 			"high quality",
 			"高质量",
@@ -3764,6 +3931,14 @@
 		],
 		"radio-button": [
 			"单选框"
+		],
+		"checkbox-multiple-blank": [
+			"复选框",
+			"空"
+		],
+		"checkbox-multiple": [
+			"复选框",
+			"空"
 		],
 		"check": [
 			"对勾"
@@ -4237,13 +4412,6 @@
 			"定位",
 			"信号"
 		],
-		"moon": [
-			"dark mode",
-			"night",
-			"月亮",
-			"夜间模式",
-			"月牙"
-		],
 		"thumb-down": [
 			"dislike",
 			"bad",
@@ -4503,6 +4671,14 @@
 			"女人",
 			"女性"
 		],
+		"travesti": [
+			"女人",
+			"女性"
+		],
+		"genderless": [
+			"女人",
+			"女性"
+		],
 		"open-arm": [
 			"张开双臂"
 		],
@@ -4515,6 +4691,121 @@
 		"robot": [
 			"mechanic",
 			"机器人"
+		]
+	},
+	"Weather": {
+		"sun": [
+			"light mode",
+			"sunny",
+			"太阳",
+			"白天模式",
+			"晴天"
+		],
+		"moon": [
+			"dark mode",
+			"night",
+			"月亮",
+			"夜间模式",
+			"月牙"
+		],
+		"flashlight": [
+			"闪电"
+		],
+		"flash-circle": [
+			"record",
+			"burn",
+			"闪电",
+			"刻录",
+			"烧录"
+		],
+		"cloudy": [
+			"多云"
+		],
+		"cloudy-2": [
+			"多云"
+		],
+		"mist": [
+			"雾气",
+			"雾霾"
+		],
+		"foggy": [
+			"大雾"
+		],
+		"cloud-windy": [
+			"风"
+		],
+		"windy": [
+			"大风",
+			"刮风"
+		],
+		"rainy": [
+			"下雨",
+			"雨天"
+		],
+		"drizzle": [
+			"小雨"
+		],
+		"showers": [
+			"中雨"
+		],
+		"heavy-showers": [
+			"大雨"
+		],
+		"thunderstorms": [
+			"雷暴",
+			"雷阵雨"
+		],
+		"hail": [
+			"冰雹"
+		],
+		"snowy": [
+			"下雪",
+			"雪天"
+		],
+		"sun-cloudy": [
+			"晴转多云"
+		],
+		"moon-cloudy": [
+			"夜间多云"
+		],
+		"tornado": [
+			"龙卷风"
+		],
+		"haze": [
+			"阴霾",
+			"薄雾"
+		],
+		"sun-foggy": [
+			"薄雾"
+		],
+		"moon-foggy": [
+			"薄雾"
+		],
+		"moon-clear": [
+			"夜间模式",
+			"夜间无云"
+		],
+		"temp-hot": [
+			"temperature",
+			"温度",
+			"高温",
+			"热"
+		],
+		"temp-cold": [
+			"temperature",
+			"温度",
+			"低温",
+			"冷"
+		],
+		"celsius": [
+			"temperature",
+			"温度",
+			"摄氏度"
+		],
+		"fahrenheit": [
+			"temperature",
+			"温度",
+			"华氏度"
 		]
 	}
 }
