@@ -1,12 +1,12 @@
 <!--
- Remix Icon v1.3.0
+ Remix Icon v1.3.1
  https://remixicon.com
  https://github.com/Remix-Design/RemixIcon
 
  Copyright RemixIcon.com
  Released under the Apache License Version 2.0
 
- Date: 2019-6-27
+ Date: 2019-7-6
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="display:none;"><symbol viewBox="0 0 24 24" id="remixicon-4k-fill">
     <g>
@@ -3259,16 +3259,6 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M5 16v6H3V3h9.382a1 1 0 0 1 .894.553L14 5h6a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1h-6.382a1 1 0 0 1-.894-.553L12 16H5zM5 5v9h8.236l1 2H19V7h-6.236l-1-2H5z"/>
     </g>
-</symbol><symbol viewBox="0 0 24 24" id="remixicon-flash-circle-fill">
-    <g>
-        <path fill="none" d="M0 0h24v24H0z"/>
-        <path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm1-10.995V6.5l-5 6.505h3v4.5l5-6.5h-3z"/>
-    </g>
-</symbol><symbol viewBox="0 0 24 24" id="remixicon-flash-circle-line">
-    <g>
-        <path fill="none" d="M0 0h24v24H0z"/>
-        <path fill-rule="nonzero" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm1-8.995h3l-5 6.5v-4.5H8L13 6.5v4.505z"/>
-    </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-flashlight-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -5212,7 +5202,7 @@
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-moon-clear-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <path d="M11.044 2.045a8 8 0 0 0 10.91 10.91C21.475 18.03 17.202 22 12 22 6.477 22 2 17.523 2 12c0-5.2 3.97-9.474 9.044-9.955zm7.12.246L19 2.5v1l-.836.209a2 2 0 0 0-1.455 1.455L16.5 6h-1l-.209-.836a2 2 0 0 0-1.455-1.455L13 3.5v-1l.836-.209A2 2 0 0 0 15.29.836L15.5 0h1l.209.836a2 2 0 0 0 1.455 1.455zm5 5L24 7.5v1l-.836.209a2 2 0 0 0-1.455 1.455L21.5 11h-1l-.209-.836a2 2 0 0 0-1.455-1.455L18 8.5v-1l.836-.209a2 2 0 0 0 1.455-1.455L20.5 5h1l.209.836a2 2 0 0 0 1.455 1.455z"/>
+        <path fill-rule="nonzero" d="M10 6a8 8 0 0 0 11.955 6.956C21.474 18.03 17.2 22 12 22 6.477 22 2 17.523 2 12c0-5.2 3.97-9.474 9.044-9.955A7.963 7.963 0 0 0 10 6zm-6 6a8 8 0 0 0 8 8 8.006 8.006 0 0 0 6.957-4.045c-.316.03-.636.045-.957.045-5.523 0-10-4.477-10-10 0-.321.015-.64.045-.957A8.006 8.006 0 0 0 4 12zm14.164-9.709L19 2.5v1l-.836.209a2 2 0 0 0-1.455 1.455L16.5 6h-1l-.209-.836a2 2 0 0 0-1.455-1.455L13 3.5v-1l.836-.209A2 2 0 0 0 15.29.836L15.5 0h1l.209.836a2 2 0 0 0 1.455 1.455zm5 5L24 7.5v1l-.836.209a2 2 0 0 0-1.455 1.455L21.5 11h-1l-.209-.836a2 2 0 0 0-1.455-1.455L18 8.5v-1l.836-.209a2 2 0 0 0 1.455-1.455L20.5 5h1l.209.836a2 2 0 0 0 1.455 1.455z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="remixicon-moon-cloudy-fill">
     <g>
