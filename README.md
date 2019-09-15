@@ -59,7 +59,8 @@ Add icon with class name, class name rule: ri-{name}-{style}
 <i class="ri-admin-line"></i>
 <i class="ri-admin-fill"></i>
 ```
-> **Note:** We changed the class name prefixes from <remixicon-> to <ri> from v2.0.0;
+> **Note:** We changed the class name prefixes from `remixicon-` to `ri` from v2.0.0;
+
 > **Note:** You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
 
 #### Sizing

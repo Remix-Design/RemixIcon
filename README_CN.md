@@ -60,7 +60,8 @@ import 'remixicon/fonts/remixicon.css'
 <i class="ri-admin-line"></i>
 <i class="ri-admin-fill"></i>
 ```
-> **注意：** 从 v2.0.0 开始，我们修改了 class 名称的前缀，从 <remixicon-> 改为了 <ri->
+> **注意：** 从 v2.0.0 开始，我们修改了 class 名称的前缀，从 `remixicon-` 改为了 `ri-`;
+
 > **Note:** 您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill`代表面型风格。
 
 #### 大小
