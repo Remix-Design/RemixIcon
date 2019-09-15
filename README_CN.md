@@ -15,6 +15,7 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 ## 使用说明
 
 ### 基本用法
+
 直接在[remixicon.com](https://remixicon.com)点击您想要的图标, 该图标将会以SVG矢量格式进行下载。
 
 > 我们建议设计师小伙伴在需要使用某些图标的时候通过官网搜索下载使用，而不是将一整套图标全部下载放在本地文件夹中进行管理；官网的搜索栏可以帮助您快速定位您想要的图标，而且支持中文关键词搜索，这相比本地文件夹管理图标效率要高很多；最重要的是，官网的图标会持续更新。
@@ -29,6 +30,7 @@ SVG本身也是一种图片格式，所以您可以像使用其他格式（如JP
 > **Note:** Webfont支持npm安装引入、CDN引入或者手动下载的方式引入到项目当中，三选一即可。
 
 #### 安装引入
+
 > **Note:** 如果您打算通过CDN的方式使用 Remix Icon，可以跳过安装引入这一步。
 
 ```
@@ -44,19 +46,19 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v1.3.1/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v2.0.0/remixicon.css" rel="stylesheet">
 ```
 
 #### 手动下载引入
-下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v1.3.1/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
+下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
 
 #### 使用
 
-引入Remix Icon图标库后，就可以在web项目中使用了，只要在使用图标的时候将图标名称作为类名就可以了。类名规则：remixicon-{name}-{style}
+引入Remix Icon图标库后，就可以在web项目中使用了，只要在使用图标的时候将图标名称作为类名就可以了。类名规则：ri-{name}-{style}
 
 ```html
-<i class="remixicon-admin-line"></i>
-<i class="remixicon-admin-fill"></i>
+<i class="ri-admin-line"></i>
+<i class="ri-admin-fill"></i>
 ```
 
 > **Note:** 您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill`代表面型风格。
@@ -67,17 +69,17 @@ import 'remixicon/fonts/remixicon.css'
 
 ```html
 <div style="font-size: 24px;">
-  <i class="remixicon-admin-line ri-fw"></i> <!-- fixed width -->
-  <i class="remixicon-admin-line ri-xxs"></i> <!-- 0.5em -->
-  <i class="remixicon-admin-line ri-xs"></i> <!-- 0.75em -->
-  <i class="remixicon-admin-line ri-sm"></i> <!-- 0.875em -->
-  <i class="remixicon-admin-line ri-1x"></i> <!-- 1em -->
-  <i class="remixicon-admin-line ri-lg"></i> <!-- 1.3333em -->
-  <i class="remixicon-admin-line ri-xl"></i> <!-- 1.5em -->
-  <i class="remixicon-admin-line ri-2x"></i> <!-- 2em -->
-  <i class="remixicon-admin-line ri-3x"></i> <!-- 3em -->
+  <i class="ri-admin-line ri-fw"></i> <!-- fixed width -->
+  <i class="ri-admin-line ri-xxs"></i> <!-- 0.5em -->
+  <i class="ri-admin-line ri-xs"></i> <!-- 0.75em -->
+  <i class="ri-admin-line ri-sm"></i> <!-- 0.875em -->
+  <i class="ri-admin-line ri-1x"></i> <!-- 1em -->
+  <i class="ri-admin-line ri-lg"></i> <!-- 1.3333em -->
+  <i class="ri-admin-line ri-xl"></i> <!-- 1.5em -->
+  <i class="ri-admin-line ri-2x"></i> <!-- 2em -->
+  <i class="ri-admin-line ri-3x"></i> <!-- 3em -->
   ...
-  <i class="remixicon-admin-line ri-10x"></i> <!-- 10em -->
+  <i class="ri-admin-line ri-10x"></i> <!-- 10em -->
 </div>
 ```
 
@@ -85,11 +87,11 @@ import 'remixicon/fonts/remixicon.css'
 
 ### SVG Sprite用法
 
-下载 [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.3.1/remixicon.symbol.svg) 并添加到您的项目目录中，通过 `<use>` 标签来引用图标，通过css可以自定义图标的大小和颜色等属性，例如：
+下载 [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.symbol.svg) 并添加到您的项目目录中，通过 `<use>` 标签来引用图标，通过css可以自定义图标的大小和颜色等属性，例如：
 
 ```html
 <svg class='remix'>
-  <use xlink:href="存放路径/remixicon.symbol.svg#remixicon-admin-fill"></use>
+  <use xlink:href="存放路径/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 ```css
@@ -100,7 +102,7 @@ import 'remixicon/fonts/remixicon.css'
 }
 ```
 
-> **Note:** 上面示例中 `#` 后面的`remixicon-admin-fill`可以替换为任何 Remix Icon 图标名称，您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill` 代表面型风格。`remixicon.symbol.svg`文件默认是无法预览查看的，只能通过 `<use>` 使用之后查看。
+> **Note:** 上面示例中 `#` 后面的`ri-admin-fill`可以替换为任何 Remix Icon 图标名称，您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill` 代表面型风格。`remixicon.symbol.svg`文件默认是无法预览查看的，只能通过 `<use>` 使用之后查看。
 
 ## 协作共建
 > **Note:** 为了保证每一枚图标的质量，现阶段我们还不接受第三方小伙伴绘制的图标。如果您想要向 Remix Icon 贡献自己设计的图标，请创建一个[issue](https://github.com/Remix-Design/remixicon/issues)来提交自己的图标设计，并在issue详情中附上自己图标的下载地址，我们会按照 Remix Icon图标风格规范进行审核，通过后将会添加到图标库中，并在更新日志中署上作者的ID。如果你对GitHub不是很熟悉，不清除issue和pull request是什么，也可以直接给我们发邮件 `jimmy@remixdesign.cn`，内容表述清楚即可。

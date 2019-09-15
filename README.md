@@ -45,19 +45,19 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v1.3.1/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v2.0.0/remixicon.css" rel="stylesheet">
 ```
 
 #### Download Manually
-Download [`remixicon.css`](https://cdn.remixicon.com/releases/v1.3.1/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
+Download [`remixicon.css`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
 
-Add icon with class name, class name rule: remixicon-{name}-{style}
+Add icon with class name, class name rule: ri-{name}-{style}
 
 ```html
-<i class="remixicon-admin-line"></i>
-<i class="remixicon-admin-fill"></i>
+<i class="ri-admin-line"></i>
+<i class="ri-admin-fill"></i>
 ```
 
 > **Note:** You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
@@ -68,17 +68,17 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 
 ```html
 <div style="font-size: 24px;">
-  <i class="remixicon-admin-line ri-fw"></i> <!-- fixed width -->
-  <i class="remixicon-admin-line ri-xxs"></i> <!-- 0.5em -->
-  <i class="remixicon-admin-line ri-xs"></i> <!-- 0.75em -->
-  <i class="remixicon-admin-line ri-sm"></i> <!-- 0.875em -->
-  <i class="remixicon-admin-line ri-1x"></i> <!-- 1em -->
-  <i class="remixicon-admin-line ri-lg"></i> <!-- 1.3333em -->
-  <i class="remixicon-admin-line ri-xl"></i> <!-- 1.5em -->
-  <i class="remixicon-admin-line ri-2x"></i> <!-- 2em -->
-  <i class="remixicon-admin-line ri-3x"></i> <!-- 3em -->
+  <i class="ri-admin-line ri-fw"></i> <!-- fixed width -->
+  <i class="ri-admin-line ri-xxs"></i> <!-- 0.5em -->
+  <i class="ri-admin-line ri-xs"></i> <!-- 0.75em -->
+  <i class="ri-admin-line ri-sm"></i> <!-- 0.875em -->
+  <i class="ri-admin-line ri-1x"></i> <!-- 1em -->
+  <i class="ri-admin-line ri-lg"></i> <!-- 1.3333em -->
+  <i class="ri-admin-line ri-xl"></i> <!-- 1.5em -->
+  <i class="ri-admin-line ri-2x"></i> <!-- 2em -->
+  <i class="ri-admin-line ri-3x"></i> <!-- 3em -->
   ...
-  <i class="remixicon-admin-line ri-10x"></i> <!-- 10em -->
+  <i class="ri-admin-line ri-10x"></i> <!-- 10em -->
 </div>
 ```
 
@@ -86,11 +86,11 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.3.1/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
-  <use xlink:href="your-path/remixicon.symbol.svg#remixicon-admin-fill"></use>
+  <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 ```css
@@ -101,7 +101,7 @@ Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v1.3.1/remi
 }
 ```
 
-> **Note:** `remixicon-admin-fill` after the `#` in the above example can be replaced with any valid icon name of Remix Icon. You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
+> **Note:** `ri-admin-fill` after the `#` in the above example can be replaced with any valid icon name of Remix Icon. You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
 
 ## Contributing
 
