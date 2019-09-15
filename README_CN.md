@@ -16,9 +16,10 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 
 ### 基本用法
 
-直接在[remixicon.com](https://remixicon.com)点击您想要的图标, 该图标将会以SVG矢量格式进行下载。
+直接在[remixicon.com](https://remixicon.com)点击您想要的图标, 在打开的图标窗口中可以以 PNG 或者 SVG 格式进行下载，也可以直接复制 SVG 代码。
 
 > 我们建议设计师小伙伴在需要使用某些图标的时候通过官网搜索下载使用，而不是将一整套图标全部下载放在本地文件夹中进行管理；官网的搜索栏可以帮助您快速定位您想要的图标，而且支持中文关键词搜索，这相比本地文件夹管理图标效率要高很多；最重要的是，官网的图标会持续更新。
+> 在官网点击 Copy SVG 之后，可以在 Sketch 中直接粘贴矢量图标，也可以在代码文本编辑器中粘贴 SVG 代码。
 
 SVG本身也是一种图片格式，所以您可以像使用其他格式（如JPG、PNG）的图片文件一样使用SVG文件，例如直接引入的方式：
 
@@ -55,12 +56,11 @@ import 'remixicon/fonts/remixicon.css'
 #### 使用
 
 引入Remix Icon图标库后，就可以在web项目中使用了，只要在使用图标的时候将图标名称作为类名就可以了。类名规则：ri-{name}-{style}
-
 ```html
 <i class="ri-admin-line"></i>
 <i class="ri-admin-fill"></i>
 ```
-
+> **注意：** 从 v2.0.0 开始，我们修改了 class 名称的前缀，从 <remixicon-> 改为了 <ri->
 > **Note:** 您可以到官网 [remixicon.com](https://remixicon.com) 查阅图标对应的名称，然后在名称后添加图标风格，`-line` 代表线性风格，`-fill`代表面型风格。
 
 #### 大小

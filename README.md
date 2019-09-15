@@ -16,7 +16,7 @@ View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 
 ### Basic Usage
 
-Just click the icons you want from [remixicon.com](https://remixicon.com), and the icons will be downloaded directly in SVG format.
+Just click the icons you want from [remixicon.com](https://remixicon.com), and you can download the icons in SVG or PNG format.
 
 > We recommend that designers download icons from our website when needed instead of managing all of them in a local folder. The website's search engine allows you to quickly locate the icon you are looking for and the icons on the website are being continuously updated.
 
@@ -59,7 +59,7 @@ Add icon with class name, class name rule: ri-{name}-{style}
 <i class="ri-admin-line"></i>
 <i class="ri-admin-fill"></i>
 ```
-
+> **Note:** We changed the class name prefixes from <remixicon-> to <ri> from v2.0.0;
 > **Note:** You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
 
 #### Sizing
