@@ -2875,6 +2875,15 @@
 		"vuejs": [
 			"vue",
 			"programing framework"
+		],
+		"bilibili": [
+			"哔哩哔哩"
+		],
+		"twitch": [
+			"twitch"
+		],
+		"xing": [
+			"xing"
 		]
 	},
 	"Map": {
@@ -4529,6 +4538,9 @@
 			"加载中",
 			"载入中",
 			"正在加载"
+		],
+		"copyright": [
+			"xing"
 		]
 	},
 	"User": {
