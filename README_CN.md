@@ -47,11 +47,11 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v2.0.0/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
 ```
 
 #### 手动下载引入
-下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
+下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
 
 #### 使用
 
@@ -88,7 +88,7 @@ import 'remixicon/fonts/remixicon.css'
 
 ### SVG Sprite用法
 
-下载 [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.symbol.svg) 并添加到您的项目目录中，通过 `<use>` 标签来引用图标，通过css可以自定义图标的大小和颜色等属性，例如：
+下载 [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.symbol.svg) 并添加到您的项目目录中，通过 `<use>` 标签来引用图标，通过css可以自定义图标的大小和颜色等属性，例如：
 
 ```html
 <svg class='remix'>

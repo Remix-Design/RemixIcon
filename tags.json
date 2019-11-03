@@ -325,6 +325,16 @@
 			"weather",
 			"云端"
 		],
+		"cloud-off": [
+			"offline-mode",
+			"connection-fail",
+			"slash",
+			"weather",
+			"云端",
+			"断网",
+			"无信号",
+			"连接失败"
+		],
 		"attachment": [
 			"annex",
 			"paperclip",
@@ -512,6 +522,22 @@
 			"计划",
 			"日程",
 			"时间表"
+		],
+		"calendar-check": [
+			"date",
+			"plan",
+			"schedule",
+			"agenda",
+			"check-in",
+			"punch",
+			"日历",
+			"日期",
+			"月份",
+			"计划",
+			"日程",
+			"时间表",
+			"签到",
+			"打卡"
 		],
 		"customer-service": [
 			"headset",
@@ -850,6 +876,18 @@
 			"点赞",
 			"收藏"
 		],
+		"chat-off": [
+			"message",
+			"reply",
+			"comment",
+			"slash",
+			"消息",
+			"聊天",
+			"回复",
+			"评论",
+			"禁止",
+			"关闭"
+		],
 		"feedback": [
 			"message",
 			"comment",
@@ -996,9 +1034,12 @@
 		"blur-off": [
 			"water",
 			"drop",
+			"slash",
 			"模糊",
 			"水",
-			"滴"
+			"滴",
+			"禁止",
+			"关闭"
 		],
 		"contrast-drop": [
 			"water",
@@ -1206,6 +1247,14 @@
 			"right",
 			"右翻转",
 			"右旋转"
+		],
+		"hammer": [
+			"锤子"
+		],
+		"tools": [
+			"settings",
+			"工具",
+			"设置"
 		]
 	},
 	"Development": {
@@ -1308,6 +1357,11 @@
 		],
 		"css3": [
 			"css"
+		],
+		"share-stack": [
+			"share",
+			"分享",
+			"栈"
 		]
 	},
 	"Device": {
@@ -1481,32 +1535,54 @@
 	"Document": {
 		"file": [
 			"new",
+			"paper",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-2": [
 			"new",
+			"paper",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-3": [
 			"new",
+			"paper",
 			"文件",
 			"文档",
 			"新建"
+		],
+		"file-4": [
+			"new",
+			"paper",
+			"文件",
+			"文档",
+			"新建"
+		],
+		"sticky-note": [
+			"new",
+			"paper",
+			"文件",
+			"文档",
+			"新建",
+			"便签纸",
+			"便利贴"
+		],
+		"sticky-note-2": [
+			"new",
+			"paper",
+			"文件",
+			"文档",
+			"新建",
+			"便签纸",
+			"便利贴"
 		],
 		"file-edit": [
 			"文件",
 			"文档",
 			"编辑"
-		],
-		"file-4": [
-			"new",
-			"文件",
-			"文档",
-			"新建"
 		],
 		"file-paper": [
 			"文件",
@@ -2001,11 +2077,6 @@
 			"盾牌",
 			"安全"
 		],
-		"markdown": [
-			"arrow",
-			"箭头",
-			"下"
-		],
 		"folder-shared": [
 			"directory",
 			"file",
@@ -2021,6 +2092,19 @@
 			"目录",
 			"文档",
 			"接收"
+		],
+		"folder-open": [
+			"directory",
+			"file",
+			"文件夹",
+			"目录",
+			"文档",
+			"打开"
+		],
+		"markdown": [
+			"arrow",
+			"箭头",
+			"下"
 		]
 	},
 	"Editor": {
@@ -2049,6 +2133,9 @@
 		],
 		"underline": [
 			"下划线"
+		],
+		"emphasis": [
+			"着重号"
 		],
 		"strikethrough": [
 			"remove formatting",
@@ -2220,6 +2307,68 @@
 		"hashtag": [
 			"#",
 			"井号"
+		],
+		"asterisk": [
+			"*",
+			"星号"
+		],
+		"translate": [
+			"translator",
+			"翻译"
+		],
+		"translate-2": [
+			"translator",
+			"翻译"
+		],
+		"number-1": [
+			"1",
+			"一",
+			"数字"
+		],
+		"number-2": [
+			"2",
+			"二",
+			"数字"
+		],
+		"number-3": [
+			"3",
+			"三",
+			"数字"
+		],
+		"number-4": [
+			"4",
+			"四",
+			"数字"
+		],
+		"number-5": [
+			"5",
+			"五",
+			"数字"
+		],
+		"number-6": [
+			"6",
+			"六",
+			"数字"
+		],
+		"number-7": [
+			"7",
+			"七",
+			"数字"
+		],
+		"number-8": [
+			"8",
+			"八",
+			"数字"
+		],
+		"number-9": [
+			"9",
+			"九",
+			"数字"
+		],
+		"number-0": [
+			"0",
+			"零",
+			"数字"
 		]
 	},
 	"Finance": {
@@ -2544,6 +2693,11 @@
 		],
 		"stock": [
 			"股票"
+		],
+		"auction": [
+			"hammer",
+			"拍卖",
+			"锤子"
 		]
 	},
 	"Life": {
@@ -2977,6 +3131,12 @@
 			"坐标",
 			"距离"
 		],
+		"push-pin": [
+			"图钉"
+		],
+		"push-pin-2": [
+			"图钉"
+		],
 		"compass": [
 			"navigation",
 			"safari",
@@ -3271,6 +3431,16 @@
 			"right",
 			"方向",
 			"右转"
+		],
+		"steering": [
+			"drive",
+			"方向盘",
+			"驾车"
+		],
+		"steering-2": [
+			"drive",
+			"方向盘",
+			"驾车"
 		]
 	},
 	"Media": {
@@ -3355,9 +3525,11 @@
 		],
 		"camera-off": [
 			"photo",
+			"slash",
 			"照相机",
 			"拍照",
 			"照片",
+			"禁止",
 			"关闭"
 		],
 		"camera-2": [
@@ -3467,11 +3639,13 @@
 		"mic-off": [
 			"record",
 			"voice",
+			"slash",
 			"关闭话筒",
 			"关闭语音",
 			"录音",
 			"关闭声音",
-			"静音"
+			"静音",
+			"禁止"
 		],
 		"volume-down": [
 			"trumpet",
@@ -3547,11 +3721,14 @@
 			"bell",
 			"alarm",
 			"silent",
+			"slash",
 			"通知",
 			"铃铛",
 			"提醒",
 			"免打扰",
-			"静音"
+			"静音",
+			"关闭",
+			"禁止"
 		],
 		"play-circle": [
 			"start",
@@ -4098,7 +4275,15 @@
 			"下载",
 			"云"
 		],
+		"download-cloud-2": [
+			"下载",
+			"云"
+		],
 		"upload-cloud": [
+			"上传",
+			"云"
+		],
+		"upload-cloud-2": [
 			"上传",
 			"云"
 		],
@@ -4111,11 +4296,21 @@
 			"登出",
 			"注销"
 		],
+		"logout-box-r": [
+			"sign out",
+			"登出",
+			"注销"
+		],
 		"login-circle": [
 			"sign in",
 			"登录"
 		],
 		"logout-circle": [
+			"sign out",
+			"登出",
+			"注销"
+		],
+		"logout-circle-r": [
 			"sign out",
 			"登出",
 			"注销"
@@ -4184,6 +4379,16 @@
 			"安全",
 			"防御",
 			"用户"
+		],
+		"shield-keyhole": [
+			"safety",
+			"protect",
+			"guarantor",
+			"盾牌",
+			"卫士",
+			"安全",
+			"防御",
+			"钥匙孔"
 		],
 		"delete-back": [
 			"backspace",
@@ -4292,8 +4497,11 @@
 			"查看"
 		],
 		"eye-off": [
+			"slash",
 			"眼睛",
-			"不可见"
+			"不可见",
+			"关闭",
+			"禁止"
 		],
 		"eye-close": [
 			"x",
@@ -4376,6 +4584,15 @@
 		],
 		"wifi": [
 			"无线网"
+		],
+		"wifi-off": [
+			"slash",
+			"offline",
+			"connection-fail",
+			"无线网",
+			"关闭",
+			"断网",
+			"链接失败"
 		],
 		"time": [
 			"clock",
@@ -4541,6 +4758,15 @@
 		],
 		"copyright": [
 			"xing"
+		],
+		"external-link": [
+			"外链"
+		],
+		"fingerprint": [
+			"指纹"
+		],
+		"fingerprint-2": [
+			"指纹"
 		]
 	},
 	"User": {

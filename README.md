@@ -45,11 +45,11 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v2.0.0/remixicon.css" rel="stylesheet">
+<link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
 ```
 
 #### Download Manually
-Download [`remixicon.css`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
+Download [`remixicon.css`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
 
@@ -87,7 +87,7 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.0.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
