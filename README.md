@@ -2,12 +2,13 @@
 
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
+[![](https://data.jsdelivr.com/v1/package/npm/remixicon/badge)](https://www.jsdelivr.com/package/npm/remixicon)
 [![spectrum](https://img.shields.io/badge/chat-Spectrum-7028F5.svg?labelColor=4A4A4A&style=flat-square)](https://spectrum.chat/remixdesign/remixicon)
 [![donate](https://img.shields.io/badge/-Donate-DA6429.svg?style=flat-square)](https://remixicon.com/#donate)
 
 English | [简体中文](./README_CN.md)
 
-Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 1700+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
+Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 1900+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
@@ -16,9 +17,13 @@ View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 
 ### Basic Usage
 
-Just click the icons you want from [remixicon.com](https://remixicon.com), and you can download the icons in SVG or PNG format.
+Just click the icons you want from [remixicon.com](https://remixicon.com), and then you can download the icons in SVG or PNG format. 
 
-> We recommend that designers download icons from our website when needed instead of managing all of them in a local folder. The website's search engine allows you to quickly locate the icon you are looking for and the icons on the website are being continuously updated.
+Designers can click the `Copy SVG` button and then press `⌘+V` or `Ctrl+V` to paste the vector graphic into your design tool directly, easy and simple.
+
+> We recommend that designers download or copy icons from our website when needed instead of managing all of them in a local folder. The website's search engine allows you to quickly locate the icon you are looking for and the icons on the website are being continuously updated.
+>
+> The `Copy SVG` now supports Sketch, Figma, Adobe XD, Adobe Illustrator, Affinity Designer, Affinity Photo, etc.
 
 Using SVG on the web is as simple as JPEG or PNG. Such as:
 
@@ -45,10 +50,15 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
+> ==**Important Note:**== We've changed our CDN service to jsDelivr from v2.2.0, and the previous CDN service will be terminated on June 30, 2020. Please replace your old CDN to the new link above so as not to affect your business. We apologize for the inconvenience.
+>
+> The `@2.2.0` in the CDN link can be changed to any history version we've published.
+
 #### Download Manually
+
 Download [`remixicon.css`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
@@ -116,7 +126,7 @@ If there is no suitable icon for your usage scenario, you can create an [issue](
 
 ### Icon Search Keywords
 
-We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails or "pull request" of tags.json file to make the search engine better.
+We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails or "pull request" of tags.json file to make the search engine better. Especially when one of our icons matches your scene but you don't find the icon with your keywords.
 
 ## Sub-projects
 [RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) PowerPoint and Keynote verison of Remix Icon.

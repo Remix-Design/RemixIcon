@@ -190,6 +190,32 @@
 			"medical",
 			"health",
 			"医院"
+		],
+		"ancient-gate": [
+			"historical",
+			"genre",
+			"scenic",
+			"trip",
+			"travel",
+			"旅行",
+			"旅游",
+			"城门",
+			"古代",
+			"历史",
+			"景区"
+		],
+		"ancient-pavilion": [
+			"historical",
+			"genre",
+			"scenic",
+			"trip",
+			"travel",
+			"旅行",
+			"旅游",
+			"凉亭",
+			"古代",
+			"历史",
+			"景区"
 		]
 	},
 	"Business": {
@@ -313,6 +339,20 @@
 			"收藏",
 			"喜欢"
 		],
+		"mail-volume": [
+			"envelope",
+			"email",
+			"inbox",
+			"promotional email",
+			"email campaign",
+			"subscription",
+			"信封",
+			"邮箱",
+			"邮件",
+			"收件箱",
+			"推广",
+			"订阅"
+		],
 		"inbox": [
 			"收件箱"
 		],
@@ -371,11 +411,31 @@
 			"在"
 		],
 		"award": [
+			"medal",
 			"achievement",
 			"badge",
 			"成就",
 			"奖牌",
-			"金牌"
+			"金牌",
+			"勋章"
+		],
+		"medal": [
+			"award",
+			"achievement",
+			"badge",
+			"成就",
+			"奖牌",
+			"金牌",
+			"勋章"
+		],
+		"medal-2": [
+			"award",
+			"achievement",
+			"badge",
+			"成就",
+			"奖牌",
+			"金牌",
+			"勋章"
 		],
 		"bar-chart": [
 			"statistics",
@@ -622,6 +682,10 @@
 		"printer": [
 			"打印机"
 		],
+		"printer-cloud": [
+			"打印机",
+			"云打印"
+		],
 		"record-mail": [
 			"voice mail",
 			"tape",
@@ -713,6 +777,68 @@
 			"图层",
 			"叠加",
 			"堆栈"
+		],
+		"service": [
+			"heart",
+			"handshake",
+			"cooperation",
+			"服务",
+			"握手",
+			"心",
+			"合作"
+		],
+		"registered": [
+			"注册",
+			"商标"
+		],
+		"trademark": [
+			"注册",
+			"商标"
+		],
+		"advertisement": [
+			"ad",
+			"广告",
+			"推广"
+		],
+		"copyright": [
+			"版权"
+		],
+		"creative-commons": [
+			"知识共享"
+		],
+		"creative-commons-by": [
+			"attribution",
+			"copyright",
+			"版权",
+			"知识共享",
+			"署名"
+		],
+		"creative-commons-nc": [
+			"noncommercial",
+			"copyright",
+			"版权",
+			"知识共享",
+			"非商业用途"
+		],
+		"creative-commons-nd": [
+			"no derivative works",
+			"copyright",
+			"版权",
+			"知识共享",
+			"禁止演绎"
+		],
+		"creative-commons-sa": [
+			"share alike",
+			"copyright",
+			"版权",
+			"知识共享",
+			"相同方式共享"
+		],
+		"creative-commons-zero": [
+			"cc0",
+			"copyright",
+			"版权",
+			"知识共享"
 		]
 	},
 	"Communication": {
@@ -1152,6 +1278,11 @@
 		"layout": [
 			"布局"
 		],
+		"layout-2": [
+			"collage",
+			"布局",
+			"拼贴画"
+		],
 		"layout-column": [
 			"左右布局"
 		],
@@ -1192,6 +1323,15 @@
 			"目标",
 			"靶心"
 		],
+		"focus-3": [
+			"aim",
+			"target",
+			"bullseye",
+			"焦点",
+			"聚焦",
+			"目标",
+			"靶心"
+		],
 		"paint": [
 			"填色",
 			"填充",
@@ -1219,10 +1359,13 @@
 			"边框"
 		],
 		"magic": [
+			"fantasy",
 			"magic stick",
 			"beautify",
 			"魔法棒",
-			"美化"
+			"美化",
+			"幻想",
+			"魔幻"
 		],
 		"anticlockwise": [
 			"rotate",
@@ -1255,6 +1398,12 @@
 			"settings",
 			"工具",
 			"设置"
+		],
+		"drag-drop": [
+			"drag and drop",
+			"mouse",
+			"拖拽",
+			"鼠标"
 		]
 	},
 	"Development": {
@@ -1358,7 +1507,7 @@
 		"css3": [
 			"css"
 		],
-		"share-stack": [
+		"stackshare": [
 			"share",
 			"分享",
 			"栈"
@@ -1457,6 +1606,18 @@
 		"sim-card-2": [
 			"电话卡"
 		],
+		"dual-sim-1": [
+			"sim card",
+			"电话卡",
+			"卡槽",
+			"双卡双待"
+		],
+		"dual-sim-2": [
+			"sim card",
+			"电话卡",
+			"卡槽",
+			"双卡双待"
+		],
 		"u-disk": [
 			"U盘",
 			"优盘"
@@ -1530,6 +1691,19 @@
 			"雷达",
 			"卫星接收器",
 			"锅"
+		],
+		"gamepad": [
+			"consoles",
+			"controller",
+			"游戏手柄"
+		],
+		"remote-control": [
+			"controller",
+			"遥控器"
+		],
+		"remote-control-2": [
+			"controller",
+			"遥控器"
 		]
 	},
 	"Document": {
@@ -1585,6 +1759,12 @@
 			"编辑"
 		],
 		"file-paper": [
+			"文件",
+			"文档",
+			"纸",
+			"谱"
+		],
+		"file-paper-2": [
 			"文件",
 			"文档",
 			"纸",
@@ -1717,6 +1897,18 @@
 			"通讯录",
 			"联系人"
 		],
+		"contacts-book-upload": [
+			"upload",
+			"通讯录",
+			"联系人",
+			"上传"
+		],
+		"booklet": [
+			"notebook",
+			"手册",
+			"笔记本",
+			"小册子"
+		],
 		"file-code": [
 			"config",
 			"文件",
@@ -1750,6 +1942,11 @@
 		"file-excel-2": [
 			"文档",
 			"表单"
+		],
+		"file-hwp": [
+			"文件",
+			"文档",
+			"hangul word processor"
 		],
 		"keynote": [
 			"演示文稿",
@@ -1887,6 +2084,11 @@
 			"碎纸机",
 			"破裂",
 			"粉碎"
+		],
+		"file-cloud": [
+			"文件",
+			"文档",
+			"云"
 		],
 		"folder": [
 			"directory",
@@ -2135,6 +2337,9 @@
 			"下划线"
 		],
 		"emphasis": [
+			"着重号"
+		],
+		"emphasis-cn": [
 			"着重号"
 		],
 		"strikethrough": [
@@ -2406,7 +2611,26 @@
 			"消费",
 			"支付"
 		],
+		"secure-payment": [
+			"credit",
+			"purchase",
+			"payment",
+			"cc",
+			"银行卡",
+			"信用卡",
+			"购买",
+			"消费",
+			"支付",
+			"安全"
+		],
 		"refund": [
+			"credit card",
+			"repayment",
+			"cc",
+			"银行卡",
+			"信用卡还款"
+		],
+		"refund-2": [
 			"credit card",
 			"repayment",
 			"cc",
@@ -2436,15 +2660,33 @@
 			"标签",
 			"价签"
 		],
+		"ticket": [
+			"coupon",
+			"票",
+			"优惠券",
+			"代金券"
+		],
+		"ticket-2": [
+			"coupon",
+			"票",
+			"优惠券",
+			"代金券"
+		],
 		"coupon": [
+			"ticket",
+			"票",
 			"优惠券",
 			"代金券"
 		],
 		"coupon-2": [
+			"ticket",
+			"票",
 			"优惠券",
 			"代金券"
 		],
 		"coupon-3": [
+			"ticket",
+			"票",
 			"优惠券",
 			"代金券"
 		],
@@ -2471,6 +2713,12 @@
 		],
 		"shopping-bag-3": [
 			"购物袋",
+			"购买",
+			"消费",
+			"商城"
+		],
+		"shopping-basket": [
+			"购物篮",
 			"购买",
 			"消费",
 			"商城"
@@ -2587,6 +2835,8 @@
 		],
 		"copper-diamond": [
 			"currency",
+			"coins",
+			"金币",
 			"钻石",
 			"货币",
 			"钱",
@@ -2602,6 +2852,8 @@
 		],
 		"money-cny-circle": [
 			"currency",
+			"coins",
+			"金币",
 			"payment",
 			"货币",
 			"钱",
@@ -2618,6 +2870,8 @@
 		],
 		"money-dollar-circle": [
 			"currency",
+			"coins",
+			"金币",
 			"payment",
 			"cent",
 			"penny",
@@ -2638,6 +2892,8 @@
 		],
 		"money-euro-circle": [
 			"currency",
+			"coins",
+			"金币",
 			"payment",
 			"货币",
 			"钱",
@@ -2654,6 +2910,8 @@
 		],
 		"money-pound-circle": [
 			"currency",
+			"coins",
+			"金币",
 			"payment",
 			"货币",
 			"钱",
@@ -2666,6 +2924,14 @@
 			"货币",
 			"钱",
 			"比特币"
+		],
+		"coin": [
+			"金币",
+			"硬币"
+		],
+		"coins": [
+			"金币",
+			"硬币"
 		],
 		"currency": [
 			"cash",
@@ -2698,74 +2964,30 @@
 			"hammer",
 			"拍卖",
 			"锤子"
-		]
-	},
-	"Life": {
-		"umbrella": [
-			"protect",
-			"雨伞",
-			"保护"
 		],
-		"t-shirt": [
-			"skin",
-			"theme",
-			"T恤",
-			"皮肤",
-			"主题"
+		"gift": [
+			"present",
+			"礼物"
 		],
-		"shirt": [
-			"clothes",
-			"衬衫",
-			"衣服"
+		"gift-2": [
+			"present",
+			"礼物"
 		],
-		"lightbulb": [
-			"energy",
-			"creativity",
-			"灯泡",
-			"能源"
+		"hand-coin": [
+			"donate",
+			"business",
+			"捐赠"
 		],
-		"lightbulb-flash": [
-			"energy",
-			"creativity",
-			"灯泡",
-			"能源",
-			"闪电"
-		],
-		"door-lock": [
-			"门锁"
-		],
-		"door-lock-box": [
-			"门锁"
-		],
-		"key": [
-			"password",
-			"钥匙",
-			"密码"
-		],
-		"key-2": [
-			"password",
-			"钥匙",
-			"密码"
-		],
-		"fire": [
-			"hot",
-			"火",
-			"热门"
-		],
-		"outlet": [
-			"插座"
-		],
-		"outlet-2": [
-			"插座"
-		],
-		"plug": [
-			"二脚插头"
-		],
-		"plug-2": [
-			"三脚插头"
-		],
-		"reserved": [
-			"已预定"
+		"hand-heart": [
+			"help",
+			"donate",
+			"volunteer",
+			"welfare",
+			"帮助",
+			"爱心",
+			"捐赠",
+			"志愿者",
+			"公益"
 		]
 	},
 	"Logos": {
@@ -3007,6 +3229,29 @@
 			"bank card",
 			"银行卡"
 		],
+		"bilibili": [
+			"哔哩哔哩"
+		],
+		"twitch": [
+			"twitch"
+		],
+		"xing": [
+			"xing"
+		],
+		"app-store": [
+			"applications",
+			"苹果应用商店"
+		],
+		"google-play": [
+			"applications",
+			"谷歌应用商店"
+		],
+		"soundcloud": [
+			"声云"
+		],
+		"spectrum": [
+			"spectrum"
+		],
 		"ubuntu": [
 			"linux",
 			"system",
@@ -3030,14 +3275,11 @@
 			"vue",
 			"programing framework"
 		],
-		"bilibili": [
-			"哔哩哔哩"
+		"flutter": [
+			"google"
 		],
-		"twitch": [
-			"twitch"
-		],
-		"xing": [
-			"xing"
+		"gatsby": [
+			"gatsby"
 		]
 	},
 	"Map": {
@@ -3131,10 +3373,10 @@
 			"坐标",
 			"距离"
 		],
-		"push-pin": [
+		"pushpin": [
 			"图钉"
 		],
-		"push-pin-2": [
+		"pushpin-2": [
 			"图钉"
 		],
 		"compass": [
@@ -3224,6 +3466,8 @@
 			"旅行"
 		],
 		"treasure-map": [
+			"thriller",
+			"adventure",
 			"地图",
 			"藏宝图"
 		],
@@ -3291,6 +3535,11 @@
 			"出租车",
 			"汽车"
 		],
+		"taxi-wifi": [
+			"car",
+			"出租车",
+			"汽车"
+		],
 		"police-car": [
 			"汽车",
 			"警车"
@@ -3300,6 +3549,10 @@
 			"巴士"
 		],
 		"bus-2": [
+			"大巴",
+			"巴士"
+		],
+		"bus-wifi": [
 			"大巴",
 			"巴士"
 		],
@@ -3313,7 +3566,13 @@
 		"train": [
 			"火车"
 		],
+		"train-wifi": [
+			"火车"
+		],
 		"subway": [
+			"地铁"
+		],
+		"subway-wifi": [
 			"地铁"
 		],
 		"flight-takeoff": [
@@ -3357,11 +3616,19 @@
 		],
 		"e-bike": [
 			"take out",
+			"takeaway",
 			"电动车",
 			"外卖"
 		],
 		"e-bike-2": [
 			"take out",
+			"takeaway",
+			"电动车",
+			"外卖"
+		],
+		"takeaway": [
+			"take out",
+			"takeaway",
 			"电动车",
 			"外卖"
 		],
@@ -3456,6 +3723,13 @@
 			"图片",
 			"照片"
 		],
+		"image-add": [
+			"picture",
+			"photo",
+			"图片",
+			"照片",
+			"添加"
+		],
 		"landscape": [
 			"picture",
 			"image",
@@ -3468,6 +3742,13 @@
 			"image",
 			"图片",
 			"相册"
+		],
+		"gallery-upload": [
+			"picture",
+			"image",
+			"图片",
+			"相册",
+			"上传"
 		],
 		"video": [
 			"视频"
@@ -3510,6 +3791,14 @@
 			"camera",
 			"摄像机",
 			"摄影机"
+		],
+		"live": [
+			"video",
+			"camera",
+			"摄像机",
+			"摄影机",
+			"视频",
+			"直播"
 		],
 		"dv": [
 			"vidicon",
@@ -3869,6 +4158,22 @@
 			"高清晰度",
 			"高品质",
 			"超清"
+		],
+		"aspect-ratio": [
+			"宽高比",
+			"比例"
+		],
+		"picture-in-picture": [
+			"画中画",
+			"小窗"
+		],
+		"picture-in-picture-2": [
+			"画中画",
+			"小窗"
+		],
+		"picture-in-picture-exit": [
+			"退出画中画",
+			"退出小窗"
 		]
 	},
 	"System": {
@@ -3906,6 +4211,14 @@
 			"菜单",
 			"汉堡包"
 		],
+		"menu-add": [
+			"navigation",
+			"hamburger",
+			"导航",
+			"菜单",
+			"汉堡包",
+			"添加"
+		],
 		"more": [
 			"ellipsis",
 			"更多",
@@ -3926,6 +4239,16 @@
 			"收藏"
 		],
 		"heart-2": [
+			"public welfare",
+			"like",
+			"love",
+			"favorite",
+			"心",
+			"喜欢",
+			"爱",
+			"收藏"
+		],
+		"heart-add": [
 			"like",
 			"love",
 			"favorite",
@@ -4503,6 +4826,12 @@
 			"关闭",
 			"禁止"
 		],
+		"eye-2": [
+			"watch",
+			"view",
+			"眼睛",
+			"查看"
+		],
 		"eye-close": [
 			"x",
 			"闭眼"
@@ -4756,9 +5085,6 @@
 			"载入中",
 			"正在加载"
 		],
-		"copyright": [
-			"xing"
-		],
 		"external-link": [
 			"外链"
 		],
@@ -4767,9 +5093,12 @@
 		],
 		"fingerprint-2": [
 			"指纹"
+		],
+		"rotate-lock": [
+			"锁定旋转屏幕"
 		]
 	},
-	"User": {
+	"User&Faces": {
 		"user": [
 			"用户"
 		],
@@ -4783,6 +5112,9 @@
 			"用户"
 		],
 		"user-5": [
+			"用户"
+		],
+		"user-6": [
 			"用户"
 		],
 		"user-smile": [
@@ -4857,6 +5189,10 @@
 			"用户",
 			"关注"
 		],
+		"user-heart": [
+			"用户",
+			"关注"
+		],
 		"admin": [
 			"admin",
 			"用户",
@@ -4866,10 +5202,19 @@
 			"联系人"
 		],
 		"group": [
+			"team",
+			"团队",
 			"群组"
 		],
 		"group-2": [
+			"team",
+			"团队",
 			"群组"
+		],
+		"team": [
+			"团队",
+			"小组",
+			"群主"
 		],
 		"user-voice": [
 			"用户",
@@ -4896,10 +5241,35 @@
 			"表情",
 			"不开心"
 		],
+		"emotion-laugh": [
+			"comedy",
+			"happy",
+			"表情",
+			"大笑",
+			"笑脸",
+			"开心",
+			"喜剧"
+		],
+		"emotion-sad": [
+			"drama",
+			"tears",
+			"悲剧",
+			"哭泣",
+			"泪"
+		],
 		"skull": [
 			"ghost",
 			"骷髅",
 			"鬼怪"
+		],
+		"skull-2": [
+			"ghost",
+			"horror",
+			"thriller",
+			"骷髅",
+			"鬼怪",
+			"恐惧",
+			"恐怖"
 		],
 		"men": [
 			"男人",
@@ -4920,6 +5290,14 @@
 		"open-arm": [
 			"张开双臂"
 		],
+		"body-scan": [
+			"gesture recognition",
+			"body",
+			"扫描身体",
+			"体态识别",
+			"动作之别",
+			"手势识别"
+		],
 		"parent": [
 			"patriarch",
 			"父母",
@@ -4929,6 +5307,62 @@
 		"robot": [
 			"mechanic",
 			"机器人"
+		],
+		"aliens": [
+			"science fiction",
+			"ET",
+			"外星人",
+			"科幻小说"
+		],
+		"bear-smile": [
+			"cartoon",
+			"anime",
+			"cartoon",
+			"小熊",
+			"微笑",
+			"儿童",
+			"动画片",
+			"卡通",
+			"动漫"
+		],
+		"mickey": [
+			"cartoon",
+			"disney",
+			"迪士尼",
+			"米老鼠",
+			"微笑",
+			"儿童",
+			"动画片"
+		],
+		"criminal": [
+			"horror",
+			"thriller",
+			"罪犯",
+			"犯罪",
+			"恐怖"
+		],
+		"ghost": [
+			"horror",
+			"thriller",
+			"鬼怪",
+			"恐怖",
+			"恐惧"
+		],
+		"ghost-2": [
+			"horror",
+			"鬼怪",
+			"恐怖",
+			"恐惧"
+		],
+		"ghost-smile": [
+			"鬼怪",
+			"笑"
+		],
+		"star-smile": [
+			"animation",
+			"动画",
+			"微笑",
+			"星星"
 		]
 	},
 	"Weather": {
@@ -5002,7 +5436,18 @@
 		"tornado": [
 			"龙卷风"
 		],
+		"typhoon": [
+			"cyclone",
+			"tornado",
+			"龙卷风",
+			"旋风",
+			"台风"
+		],
 		"haze": [
+			"阴霾",
+			"薄雾"
+		],
+		"haze-2": [
 			"阴霾",
 			"薄雾"
 		],
@@ -5037,6 +5482,195 @@
 			"temperature",
 			"温度",
 			"华氏度"
+		],
+		"fire": [
+			"hot",
+			"火",
+			"热门"
+		],
+		"blaze": [
+			"火灾"
+		],
+		"earthquake": [
+			"地震"
+		],
+		"flood": [
+			"洪水"
+		],
+		"meteor": [
+			"流星",
+			"陨石"
+		],
+		"rainbow": [
+			"彩虹"
+		]
+	},
+	"Others": {
+		"basketball": [
+			"sports",
+			"运动",
+			"篮球"
+		],
+		"bell": [
+			"cartoon",
+			"anime",
+			"doraemon",
+			"铃铛",
+			"哆啦A梦",
+			"卡通",
+			"动漫"
+		],
+		"billiards": [
+			"sports",
+			"运动",
+			"台球",
+			"8"
+		],
+		"boxing": [
+			"sports",
+			"运动",
+			"拳击"
+		],
+		"cake": [
+			"anniversary",
+			"蛋糕"
+		],
+		"cake-2": [
+			"anniversary",
+			"蛋糕"
+		],
+		"cake-3": [
+			"蛋糕"
+		],
+		"door-lock": [
+			"门锁"
+		],
+		"door-lock-box": [
+			"门锁"
+		],
+		"flask": [
+			"testing",
+			"experimental",
+			"experiment",
+			"烧瓶",
+			"实验",
+			"试验"
+		],
+		"football": [
+			"sports",
+			"运动",
+			"足球"
+		],
+		"game": [
+			"pac man",
+			"游戏",
+			"吃豆人"
+		],
+		"handbag": [
+			"fashion",
+			"时尚",
+			"手提包",
+			"女包"
+		],
+		"hearts": [
+			"romance",
+			"爱情",
+			"浪漫",
+			"心"
+		],
+		"key": [
+			"password",
+			"钥匙",
+			"密码"
+		],
+		"key-2": [
+			"password",
+			"钥匙",
+			"密码"
+		],
+		"knife": [
+			"刀"
+		],
+		"knife-blood": [
+			"crime",
+			"刀",
+			"犯罪",
+			"血",
+			"杀人"
+		],
+		"lightbulb": [
+			"energy",
+			"creativity",
+			"灯泡",
+			"能源"
+		],
+		"lightbulb-flash": [
+			"energy",
+			"creativity",
+			"灯泡",
+			"能源",
+			"闪电"
+		],
+		"outlet": [
+			"插座"
+		],
+		"outlet-2": [
+			"插座"
+		],
+		"ping-pang": [
+			"sports",
+			"运动",
+			"乒乓球"
+		],
+		"plug": [
+			"二脚插头"
+		],
+		"plug-2": [
+			"三脚插头"
+		],
+		"reserved": [
+			"已预定"
+		],
+		"shirt": [
+			"clothes",
+			"衬衫",
+			"衣服"
+		],
+		"sword": [
+			"war",
+			"刀剑",
+			"战争",
+			"战斗",
+			"玄幻"
+		],
+		"t-shirt": [
+			"skin",
+			"theme",
+			"T恤",
+			"皮肤",
+			"主题"
+		],
+		"t-shirt-2": [
+			"skin",
+			"theme",
+			"T恤",
+			"皮肤",
+			"主题"
+		],
+		"t-shirt-air": [
+			"dry",
+			"T恤",
+			"风干",
+			"烘干"
+		],
+		"umbrella": [
+			"protect",
+			"雨伞",
+			"保护"
+		],
+		"lifebuoy": [
+			"life ring",
+			"救生圈"
 		]
 	}
 }

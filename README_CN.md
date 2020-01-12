@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
+[![](https://data.jsdelivr.com/v1/package/npm/remixicon/badge)](https://www.jsdelivr.com/package/npm/remixicon)
 [![spectrum](https://img.shields.io/badge/沟通-Spectrum-7028F5.svg?labelColor=4A4A4A&style=flat-square)](https://spectrum.chat/remixdesign/remixicon)
 [![donate](https://img.shields.io/badge/-赞助-DA6429.svg?style=flat-square)](https://remixicon.com/#donate)
 
@@ -18,8 +19,12 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 
 直接在[remixicon.com](https://remixicon.com)点击您想要的图标, 在打开的图标窗口中可以以 PNG 或者 SVG 格式进行下载，也可以直接复制 SVG 代码。
 
+设计师小伙伴可以直接点击 `Copy SVG` 之后在UI设计软件中直接粘贴矢量图形，使用起来像插件一样简单便捷。
+
 > 我们建议设计师小伙伴在需要使用某些图标的时候通过官网搜索下载使用，而不是将一整套图标全部下载放在本地文件夹中进行管理；官网的搜索栏可以帮助您快速定位您想要的图标，而且支持中文关键词搜索，这相比本地文件夹管理图标效率要高很多；最重要的是，官网的图标会持续更新。
 > 在官网点击 Copy SVG 之后，可以在 Sketch 中直接粘贴矢量图标，也可以在代码文本编辑器中粘贴 SVG 代码。
+>
+> `Copy SVG` 功能目前支持在 Sketch、Figma、Adobe XD、Adobe Illustrator、Affinity Designer、Affinity Photo 软件中直接粘贴矢量图形。
 
 SVG本身也是一种图片格式，所以您可以像使用其他格式（如JPG、PNG）的图片文件一样使用SVG文件，例如直接引入的方式：
 
@@ -47,10 +52,15 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
+> ==**重要提醒**==：我们从 v2.2.0 版本开始将我们的 CDN 服务迁移到了 jsDelivr 上，之前的 CDN 链接将在2020年6月30日停止服务，请务必切换您的 CDN 为最新的服务链接，以免影响您的业务，对于由此带来的影响和不便，我们深感抱歉。
+>
+> 上面 CDN 链接中的 `@2.2.0` 可以更改为任何我们曾经发布过的历史版本号。
+
 #### 手动下载引入
+
 下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
 
 #### 使用
@@ -122,4 +132,4 @@ import 'remixicon/fonts/remixicon.css'
 [RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) Remix Icon的PPT版本和Keynote版本。
 
 ## 协议许可
-Remix Icon 使用的是 [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License)开源协议。请放心使用和分享本图标库，您可以查看协议详情来了解详细的开源策略。如果您能在您的产品介绍中署名 Remix Icon，我们将会非常感激，但这并不是必须的。唯一需要注意的是，您不能二次销售本图标库中的图标，否则我们会进行追究。
+Remix Icon 使用的是 [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License) 开源协议。请放心使用和分享本图标库，您可以查看协议详情来了解详细的开源策略。如果您能在您的产品介绍中署名 Remix Icon，我们将会非常感激，但这并不是必须的。唯一需要注意的是，您不能二次销售本图标库中的图标，否则我们会进行追究。
