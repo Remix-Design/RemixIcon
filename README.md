@@ -53,7 +53,7 @@ Copy the following code and add it to the &lt;head&gt; tag of your html document
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> ==**Important Note:**== We've changed our CDN service to jsDelivr from v2.2.0, and the previous CDN service will be terminated on June 30, 2020. Please replace your old CDN to the new link above so as not to affect your business. We apologize for the inconvenience.
+> ==**Important Note:**== We've changed our CDN service to jsDelivr from v2.2.0, and the previous CDN service will be terminated on Jan 30, 2020. Please replace your old CDN to the new link above so as not to affect your business. We apologize for the inconvenience.
 >
 > The `@2.2.0` in the CDN link can be changed to any history version we've published.
 
