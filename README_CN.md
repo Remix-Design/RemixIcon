@@ -55,7 +55,7 @@ import 'remixicon/fonts/remixicon.css'
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> ==**重要提醒**==：我们从 v2.2.0 版本开始将我们的 CDN 服务迁移到了 jsDelivr 上，之前的 CDN 链接将在2020年6月30日停止服务，请务必切换您的 CDN 为最新的服务链接，以免影响您的业务，对于由此带来的影响和不便，我们深感抱歉。
+> ==**重要提醒**==：我们从 v2.2.0 版本开始将我们的 CDN 服务迁移到了 jsDelivr 上，之前的 CDN 链接将在2020年1月30日停止服务，请务必切换您的 CDN 为最新的服务链接，以免影响您的业务，对于由此带来的影响和不便，我们深感抱歉。
 >
 > 上面 CDN 链接中的 `@2.2.0` 可以更改为任何我们曾经发布过的历史版本号。
 
