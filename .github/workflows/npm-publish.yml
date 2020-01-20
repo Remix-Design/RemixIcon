@@ -1,0 +1,27 @@
+name: Npm Publish
+
+on: 
+  release:
+    types: [published]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-18.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+        with:
+            ref: master
+      - name: Use Node
+        uses: actions/setup-node@v1
+        with:
+            node-version: '12.x'
+      - name: Publish
+        run: |
+          npm config set //registry.npmjs.org/:_authToken=$NODE_AUTH_TOKEN
+          npm publish
+        env:
+          CI: true
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
