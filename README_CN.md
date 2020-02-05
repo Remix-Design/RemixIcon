@@ -52,7 +52,7 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
 > ==**重要提醒**==：我们从 v2.2.0 版本开始将我们的 CDN 服务迁移到了 jsDelivr 上，之前的 CDN 链接将在2020年1月30日停止服务，请务必切换您的 CDN 为最新的服务链接，以免影响您的业务，对于由此带来的影响和不便，我们深感抱歉。
@@ -61,7 +61,7 @@ import 'remixicon/fonts/remixicon.css'
 
 #### 手动下载引入
 
-下载保存[`remixicon.css`](https://cdn.remixicon.com/releases/v2.1.0/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
+下载保存[`remixicon.css`](https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css)文件，添加到项目的&lt;head&gt; 标签中即可。
 
 #### 使用
 
