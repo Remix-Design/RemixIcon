@@ -361,6 +361,15 @@
 			"归档",
 			"收纳"
 		],
+		"inbox-unarchive": [
+			"unzip",
+			"unpack",
+			"extract",
+			"收件箱",
+			"取消归档",
+			"还原",
+			"解压缩"
+		],
 		"cloud": [
 			"weather",
 			"云端"
@@ -711,48 +720,60 @@
 		],
 		"projector": [
 			"projection",
-			"投影仪"
+			"meeting",
+			"投影仪",
+			"会议室"
 		],
 		"projector-2": [
 			"projection",
+			"meeting",
 			"投影仪",
+			"会议室",
 			"极米"
 		],
 		"slideshow": [
 			"presentation",
+			"meeting",
 			"PPT",
 			"keynote",
 			"投影",
 			"放映",
 			"演示",
 			"演讲",
-			"幻灯片"
+			"幻灯片",
+			"会议室"
 		],
 		"slideshow-2": [
 			"presentation",
+			"meeting",
 			"投影",
 			"放映",
 			"演示",
 			"演讲",
-			"幻灯片"
+			"幻灯片",
+			"会议室"
 		],
 		"slideshow-3": [
 			"presentation",
+			"meeting",
 			"投影",
 			"放映",
 			"演示",
 			"演讲",
 			"视频会议",
-			"幻灯片"
+			"幻灯片",
+			"会议室"
 		],
 		"slideshow-4": [
 			"presentation",
+			"meeting",
 			"投影",
 			"放映",
 			"演示",
 			"演讲",
 			"可视对讲",
-			"幻灯片"
+			"幻灯片",
+			"会议室"
 		],
 		"window": [
 			"browser",
@@ -1272,28 +1293,6 @@
 			"屏幕截图",
 			"截屏"
 		],
-		"table": [
-			"表格"
-		],
-		"layout": [
-			"布局"
-		],
-		"layout-2": [
-			"collage",
-			"布局",
-			"拼贴画"
-		],
-		"layout-column": [
-			"左右布局"
-		],
-		"layout-row": [
-			"上下布局"
-		],
-		"grid": [
-			"table",
-			"网格",
-			"表格"
-		],
 		"drag-move": [
 			"arrow",
 			"拖拽",
@@ -1404,6 +1403,91 @@
 			"mouse",
 			"拖拽",
 			"鼠标"
+		],
+		"table": [
+			"表格"
+		],
+		"table-alt": [
+			"表格"
+		],
+		"layout": [
+			"布局"
+		],
+		"layout-2": [
+			"collage",
+			"布局",
+			"拼贴画"
+		],
+		"layout-3": [
+			"collage",
+			"布局",
+			"拼贴画"
+		],
+		"layout-4": [
+			"collage",
+			"布局",
+			"拼贴画"
+		],
+		"layout-5": [
+			"collage",
+			"布局",
+			"拼贴画"
+		],
+		"layout-6": [
+			"collage",
+			"布局",
+			"拼贴画"
+		],
+		"layout-column": [
+			"左右布局"
+		],
+		"layout-row": [
+			"上下布局"
+		],
+		"layout-top": [
+			"顶部布局",
+			"顶部导航"
+		],
+		"layout-right": [
+			"右侧布局",
+			"右侧导航"
+		],
+		"layout-bottom": [
+			"底部布局",
+			"底部导航"
+		],
+		"layout-left": [
+			"左侧布局",
+			"左侧导航"
+		],
+		"layout-top-2": [
+			"顶部布局",
+			"顶部导航"
+		],
+		"layout-right-2": [
+			"右侧布局",
+			"右侧导航"
+		],
+		"layout-bottom-2": [
+			"底部布局",
+			"底部导航"
+		],
+		"layout-left-2": [
+			"左侧布局",
+			"左侧导航"
+		],
+		"layout-grid": [
+			"卡片布局",
+			"网格"
+		],
+		"layout-masonry": [
+			"瀑布流布局",
+			"拼贴画"
+		],
+		"grid": [
+			"table",
+			"网格",
+			"表格"
 		]
 	},
 	"Development": {
@@ -1579,6 +1663,12 @@
 			"服务器",
 			"存储"
 		],
+		"install": [
+			"安装"
+		],
+		"uninstall": [
+			"卸载"
+		],
 		"save": [
 			"floppy",
 			"保存",
@@ -1639,6 +1729,14 @@
 		"battery-2-charge": [
 			"电池",
 			"充电"
+		],
+		"battery-saver": [
+			"电池",
+			"省电模式"
+		],
+		"battery-share": [
+			"电池共享",
+			"共享电量"
 		],
 		"cast": [
 			"mirroring",
@@ -1704,6 +1802,18 @@
 		"remote-control-2": [
 			"controller",
 			"遥控器"
+		],
+		"device-recover": [
+			"恢复出厂设置"
+		],
+		"hotspot": [
+			"手机热点"
+		],
+		"phone-find": [
+			"找回手机"
+		],
+		"phone-lock": [
+			"锁定手机"
 		]
 	},
 	"Document": {
@@ -2303,6 +2413,25 @@
 			"文档",
 			"打开"
 		],
+		"folder-keyhole": [
+			"directory",
+			"encryption",
+			"file",
+			"文件夹",
+			"目录",
+			"文档",
+			"打开",
+			"加密文档"
+		],
+		"folder-zip": [
+			"directory",
+			"file",
+			"文件夹",
+			"目录",
+			"文档",
+			"打开",
+			"压缩"
+		],
 		"markdown": [
 			"arrow",
 			"箭头",
@@ -2525,6 +2654,23 @@
 			"translator",
 			"翻译"
 		],
+		"a-b": [
+			"a/b testing",
+			"ab testing",
+			"ab测试"
+		],
+		"english-input": [
+			"英文输入法"
+		],
+		"pinyin-input": [
+			"拼音输入法"
+		],
+		"wubi-input": [
+			"五笔输入法"
+		],
+		"input-cursor-move": [
+			"移动输入光标"
+		],
 		"number-1": [
 			"1",
 			"一",
@@ -2718,6 +2864,12 @@
 			"商城"
 		],
 		"shopping-basket": [
+			"购物篮",
+			"购买",
+			"消费",
+			"商城"
+		],
+		"shopping-basket-2": [
 			"购物篮",
 			"购买",
 			"消费",
@@ -3674,7 +3826,11 @@
 			"饭店"
 		],
 		"cup": [
-			"杯子"
+			"tea",
+			"coffee",
+			"杯子",
+			"咖啡",
+			"茶"
 		],
 		"goblet": [
 			"cup",
@@ -3708,6 +3864,14 @@
 			"drive",
 			"方向盘",
 			"驾车"
+		],
+		"lifebuoy": [
+			"life ring",
+			"救生圈"
+		],
+		"passport": [
+			"passports",
+			"护照"
 		]
 	},
 	"Media": {
@@ -3963,6 +4127,25 @@
 			"声音",
 			"扬声器"
 		],
+		"volume-vibrate": [
+			"trumpet",
+			"sound",
+			"speaker",
+			"喇叭",
+			"声音",
+			"扬声器",
+			"震动模式"
+		],
+		"volume-off-vibrate": [
+			"trumpet",
+			"sound",
+			"speaker",
+			"静音",
+			"喇叭",
+			"声音",
+			"扬声器",
+			"静音模式"
+		],
 		"speaker": [
 			"音响"
 		],
@@ -4184,8 +4367,10 @@
 			"应用"
 		],
 		"function": [
+			"layout",
 			"功能",
-			"应用"
+			"应用",
+			"卡片布局"
 		],
 		"dashboard": [
 			"仪表盘"
@@ -4205,6 +4390,20 @@
 			"汉堡包"
 		],
 		"menu-3": [
+			"navigation",
+			"hamburger",
+			"导航",
+			"菜单",
+			"汉堡包"
+		],
+		"menu-4": [
+			"navigation",
+			"hamburger",
+			"导航",
+			"菜单",
+			"汉堡包"
+		],
+		"menu-5": [
 			"navigation",
 			"hamburger",
 			"导航",
@@ -4455,6 +4654,7 @@
 		"check-double": [
 			"read",
 			"done",
+			"double-tick",
 			"双对勾",
 			"已读"
 		],
@@ -4568,6 +4768,24 @@
 			"箭头",
 			"向左",
 			"返回"
+		],
+		"arrow-left-right": [
+			"exchange",
+			"swap",
+			"箭头",
+			"左右",
+			"交换",
+			"换算",
+			"兑换"
+		],
+		"arrow-up-down": [
+			"exchange",
+			"swap",
+			"箭头",
+			"上下",
+			"交换",
+			"换算",
+			"兑换"
 		],
 		"arrow-go-back": [
 			"undo",
@@ -4729,6 +4947,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -4738,6 +4958,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -4747,6 +4969,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -4756,6 +4980,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -4765,6 +4991,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -4774,6 +5002,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -4783,6 +5013,8 @@
 			"ash-bin",
 			"garbage",
 			"dustbin",
+			"uninstall",
+			"卸载",
 			"删除",
 			"垃圾桶"
 		],
@@ -5363,6 +5595,15 @@
 			"动画",
 			"微笑",
 			"星星"
+		],
+		"spy": [
+			"incognito mode",
+			"detective",
+			"secret",
+			"间谍",
+			"侦探",
+			"无痕模式",
+			"隐私模式"
 		]
 	},
 	"Weather": {
@@ -5617,8 +5858,9 @@
 		"outlet-2": [
 			"插座"
 		],
-		"ping-pang": [
+		"ping-pong": [
 			"sports",
+			"table tennis",
 			"运动",
 			"乒乓球"
 		],
@@ -5668,9 +5910,13 @@
 			"雨伞",
 			"保护"
 		],
-		"lifebuoy": [
-			"life ring",
-			"救生圈"
+		"character-recognition": [
+			"ocr",
+			"文字识别"
+		],
+		"voice-recognition": [
+			"asr",
+			"语音识别"
 		]
 	}
 }

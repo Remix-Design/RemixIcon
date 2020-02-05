@@ -1,12 +1,12 @@
 <!--
- Remix Icon v2.2.0
+ Remix Icon v2.3.0
  https://remixicon.com
  https://github.com/Remix-Design/RemixIcon
 
  Copyright RemixIcon.com
  Released under the Apache License Version 2.0
 
- Date: 2020-01-10
+ Date: 2020-02-04
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="display:none;"><symbol viewBox="0 0 24 24" id="ri-4k-fill">
     <g>
@@ -17,6 +17,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M4 5v14h16V5H4zM3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm8.5 10.5h-1V15H9v-1.5H6V9h1.5v3H9V9h1.5v3h1v1.5zM18 15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25 9H18l-2.25 3L18 15z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-a-b">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M5 15v2c0 1.054.95 2 2 2h3v2H7a4 4 0 0 1-4-4v-2h2zm13-5l4.4 11h-2.155l-1.201-3h-4.09l-1.199 3h-2.154L16 10h2zm-1 2.885L15.753 16h2.492L17 12.885zM3 3h6a3 3 0 0 1 2.235 5A3 3 0 0 1 9 13H3V3zm6 6H5v2h4a1 1 0 0 0 0-2zm8-6a4 4 0 0 1 4 4v2h-2V7a2 2 0 0 0-2-2h-3V3h3zM9 5H5v2h4a1 1 0 1 0 0-2z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-account-box-fill">
     <g>
@@ -473,6 +478,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M7.828 11H20v2H7.828l5.364 5.364-1.414 1.414L4 12l7.778-7.778 1.414 1.414z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-arrow-left-right-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M16 16v-4l5 5-5 5v-4H4v-2h12zM8 2v3.999L20 6v2H8v4L3 7l5-5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-arrow-left-right-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M16.05 12.05L21 17l-4.95 4.95-1.414-1.414 2.536-2.537L4 18v-2h13.172l-2.536-2.536 1.414-1.414zm-8.1-10l1.414 1.414L6.828 6 20 6v2H6.828l2.536 2.536L7.95 11.95 3 7l4.95-4.95z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-arrow-left-s-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -552,6 +567,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2zm0 18c4.42 0 8-3.58 8-8s-3.58-8-8-8-8 3.58-8 8 3.58 8 8 8zm1-8v4h-2v-4H8l4-4 4 4h-3z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-arrow-up-down-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M12 8H8.001L8 20H6V8H2l5-5 5 5zm10 8l-5 5-5-5h4V4h2v12h4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-arrow-up-down-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M11.95 7.95l-1.414 1.414L8 6.828 8 20H6V6.828L3.465 9.364 2.05 7.95 7 3l4.95 4.95zm10 8.1L17 21l-4.95-4.95 1.414-1.414 2.537 2.536L16 4h2v13.172l2.536-2.536 1.414 1.414z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-arrow-up-fill">
     <g>
@@ -862,6 +887,26 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M4 7v10h14V7H4zM3 5h16a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zm2 3h4v8H5V8zm16 1h2v6h-2V9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-battery-saver-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 2a1 1 0 0 1 1 1v1h3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3V3a1 1 0 0 1 1-1h4zm-1 7h-2v3H8v2h3v3h2v-3h3v-2h-3V9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-battery-saver-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M14 2a1 1 0 0 1 1 1v1h3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3V3a1 1 0 0 1 1-1h4zm-1 2h-2v2H7v14h10V6h-4V4zm0 5v3h3v2h-3v3h-2v-3H8v-2h3V9h2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-battery-share-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 2a1 1 0 0 1 1 1v1h3a1 1 0 0 1 1 1v6.2L15 8v3h-1c-2.142 0-4 1.79-4 4v3h2v-3c0-1.05.95-2 2-2h1v3l4-3.2V21a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3V3a1 1 0 0 1 1-1h4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-battery-share-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M14 2a1 1 0 0 1 1 1v1h3a1 1 0 0 1 1 1v2h-2V6h-4V4h-2v2H7v14h10v-3h2v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3V3a1 1 0 0 1 1-1h4zm1 6l5 4-5 4v-3h-1c-1.054 0-2 .95-2 2v3h-2v-3a4 4 0 0 1 4-4h1V8z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-bear-smile-fill">
     <g>
@@ -1517,6 +1562,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M4.5 10a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7zm0-2a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM22 10h-2a4 4 0 1 0-8 0v5a4 4 0 1 0 8 0h2a6 6 0 1 1-12 0v-5a6 6 0 1 1 12 0z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-character-recognition-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3v18H3V3h18zm-8.001 3h-2L6.6 17h2.154l1.199-3h4.09l1.201 3h2.155l-4.4-11zm-1 2.885L13.244 12h-2.492l1.247-3.115z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-character-recognition-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M5 15v4h4v2H3v-6h2zm16 0v6h-6v-2h4v-4h2zm-8.001-9l4.4 11h-2.155l-1.201-3h-4.09l-1.199 3H6.6l4.399-11h2zm-1 2.885L10.752 12h2.492l-1.245-3.115zM9 3v2H5v4H3V3h6zm12 0v6h-2V5h-4V3h6z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-charging-pile-2-fill">
     <g>
@@ -2563,6 +2618,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M19 8h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v5zm-2 0V4H5v14h7V9a1 1 0 0 1 1-1h4zm-3 2v10h6V10h-6z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-device-recover-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h14zm-7 5a5 5 0 1 0 .955 9.909L12 15a3 3 0 0 1 0-6c1.598 0 3 1.34 3 3h-2.5l2.128 4.254A5 5 0 0 0 12 7z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-device-recover-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h14zm-1 2H6v16h12V4zm-6 3a5 5 0 0 1 2.628 9.254L12.5 12H15a3 3 0 1 0-3 3l.955 1.909A5 5 0 1 1 12 7z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-dingding-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -3002,6 +3067,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 19a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm-5.5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm11 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zM18 3v2H8v4h9v2H8v4h10v2H6V3h12z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-english-input">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14 10h2v.757a4.5 4.5 0 0 1 7 3.743V20h-2v-5.5c0-1.43-1.175-2.5-2.5-2.5S16 13.07 16 14.5V20h-2V10zm-2-6v2H4v5h8v2H4v5h8v2H2V4h10z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-equalizer-fill">
     <g>
@@ -3958,6 +4028,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12.414 5H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414l2 2zM4 5v14h16V7h-8.414l-2-2H4zm7 7h2v5h-2v-5zm0-3h2v2h-2V9z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-folder-keyhole-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M10.414 3l2 2H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414zM12 9a2 2 0 0 0-1 3.732V17h2l.001-4.268A2 2 0 0 0 12 9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-folder-keyhole-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M10.414 3l2 2H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414zm-.828 2H4v14h16V7h-8.414l-2-2zM12 9a2 2 0 0 1 1.001 3.732L13 17h-2v-4.268A2 2 0 0 1 12 9z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-folder-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -4102,6 +4182,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12.414 5H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414l2 2zM4 5v14h16V7h-8.414l-2-2H4zm7 10h2v2h-2v-2zm0-6h2v5h-2V9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-folder-zip-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 5a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414l2 2H16v2h2V5h3zm-3 8h-2v2h-2v3h4v-5zm-2-2h-2v2h2v-2zm2-2h-2v2h2V9zm-2-2h-2v2h2V7z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-folder-zip-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M10.414 3l2 2H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414zM18 18h-4v-3h2v-2h-2v-2h2V9h-2V7h-2.414l-2-2H4v14h16V7h-4v2h2v2h-2v2h2v5z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-folders-fill">
     <g>
@@ -4898,6 +4988,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M22 21H2v-2h1V4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v5h2v10h1v2zm-5-2h2v-8h-6v8h2v-6h2v6zm0-10V5H5v14h6V9h6zM7 11h2v2H7v-2zm0 4h2v2H7v-2zm0-8h2v2H7V7z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-hotspot-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M11 2v9h7v10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h6zm2 5a2 2 0 0 1 2 2h-2V7zm0-3a5 5 0 0 1 5 5h-2a3 3 0 0 0-3-3V4zm0-3a8 8 0 0 1 8 8h-2a6 6 0 0 0-6-6V1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-hotspot-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M11 2v2H7v16h10v-9h2v10a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h5zm2 5a2 2 0 0 1 2 2h-2V7zm0-3a5 5 0 0 1 5 5h-2a3 3 0 0 0-3-3V4zm0-3a8 8 0 0 1 8 8h-2a6 6 0 0 0-6-6V1z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-hq-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -4978,6 +5078,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm17 11h-3.416a5.001 5.001 0 0 1-9.168 0H4v5h16v-5zm0-2V5H4v7h5a3 3 0 0 0 6 0h5z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-inbox-unarchive-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M20 3l2 4v13a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.004L4 3h16zm-8 7l-4 4h3v4h2v-4h3l-4-4zm6.764-5H5.236l-.999 2h15.527l-1-2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-inbox-unarchive-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M20 3l2 4v13a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.004L4 3h16zm0 6H4v10h16V9zm-8 1l4 4h-3v4h-2v-4H8l4-4zm6.764-5H5.236l-.999 2h15.527l-1-2z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-increase-decrease-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -5018,6 +5128,11 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM11 7h2v2h-2V7zm0 4h2v6h-2v-6z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-input-cursor-move">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M8 21v-2h3V5H8V3h8v2h-3v14h3v2H8zM18.05 7.05L23 12l-4.95 4.95-1.414-1.414L20.172 12l-3.536-3.536L18.05 7.05zm-12.1 0l1.414 1.414L3.828 12l3.536 3.536L5.95 16.95 1 12l4.95-4.95z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-input-method-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -5037,6 +5152,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0-2a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm6.5-.25a1.25 1.25 0 0 1-2.5 0 1.25 1.25 0 0 1 2.5 0zM12 4c-2.474 0-2.878.007-4.029.058-.784.037-1.31.142-1.798.332-.434.168-.747.369-1.08.703a2.89 2.89 0 0 0-.704 1.08c-.19.49-.295 1.015-.331 1.798C4.006 9.075 4 9.461 4 12c0 2.474.007 2.878.058 4.029.037.783.142 1.31.331 1.797.17.435.37.748.702 1.08.337.336.65.537 1.08.703.494.191 1.02.297 1.8.333C9.075 19.994 9.461 20 12 20c2.474 0 2.878-.007 4.029-.058.782-.037 1.309-.142 1.797-.331.433-.169.748-.37 1.08-.702.337-.337.538-.65.704-1.08.19-.493.296-1.02.332-1.8.052-1.104.058-1.49.058-4.029 0-2.474-.007-2.878-.058-4.029-.037-.782-.142-1.31-.332-1.798a2.911 2.911 0 0 0-.703-1.08 2.884 2.884 0 0 0-1.08-.704c-.49-.19-1.016-.295-1.798-.331C14.925 4.006 14.539 4 12 4zm0-2c2.717 0 3.056.01 4.122.06 1.065.05 1.79.217 2.428.465.66.254 1.216.598 1.772 1.153a4.908 4.908 0 0 1 1.153 1.772c.247.637.415 1.363.465 2.428.047 1.066.06 1.405.06 4.122 0 2.717-.01 3.056-.06 4.122-.05 1.065-.218 1.79-.465 2.428a4.883 4.883 0 0 1-1.153 1.772 4.915 4.915 0 0 1-1.772 1.153c-.637.247-1.363.415-2.428.465-1.066.047-1.405.06-4.122.06-2.717 0-3.056-.01-4.122-.06-1.065-.05-1.79-.218-2.428-.465a4.89 4.89 0 0 1-1.772-1.153 4.904 4.904 0 0 1-1.153-1.772c-.248-.637-.415-1.363-.465-2.428C2.013 15.056 2 14.717 2 12c0-2.717.01-3.056.06-4.122.05-1.066.217-1.79.465-2.428a4.88 4.88 0 0 1 1.153-1.772A4.897 4.897 0 0 1 5.45 2.525c.638-.248 1.362-.415 2.428-.465C8.944 2.013 9.283 2 12 2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-install-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M11 2v5H8l4 4 4-4h-3V2h7a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h7zm8 14H5v4h14v-4zm-2 1v2h-2v-2h2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-install-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M9 2v2H5l-.001 10h14L19 4h-4V2h5a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h5zm9.999 14h-14L5 20h14l-.001-4zM17 17v2h-2v-2h2zM13 2v5h3l-4 4-4-4h3V2h2z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-invision-fill">
     <g>
@@ -5153,6 +5278,66 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M21 20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v16zM11 5H5v14h6V5zm8 8h-6v6h6v-6zm0-8h-6v6h6V5z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-3-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M8 10v11H4a1 1 0 0 1-1-1V10h5zm13 0v10a1 1 0 0 1-1 1H10V10h11zm-1-7a1 1 0 0 1 1 1v4H3V4a1 1 0 0 1 1-1h16z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-3-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M4 21a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4zm4-11H5v9h3v-9zm11 0h-9v9h9v-9zm0-5H5v3h14V5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-4-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M11 13v8H4a1 1 0 0 1-1-1v-7h8zm2-10h7a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1h-7V3zM3 4a1 1 0 0 1 1-1h7v8H3V4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-4-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M20 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h16zm-9 10H5v6h6v-6zm2 6h6V5h-6v14zM11 5H5v6h6V5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-5-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M7 10v11H3a1 1 0 0 1-1-1V10h5zm15 0v10a1 1 0 0 1-1 1H9V10h13zm-1-7a1 1 0 0 1 1 1v4H2V4a1 1 0 0 1 1-1h18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-5-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M3 21a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3zm4-11H4v9h3v-9zm13 0H9v9h11v-9zm0-5H4v3h16V5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-6-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15 10v11H3a1 1 0 0 1-1-1V10h13zm7 0v10a1 1 0 0 1-1 1h-4V10h5zm-1-7a1 1 0 0 1 1 1v4H2V4a1 1 0 0 1 1-1h18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-6-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M3 21a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3zm12-11H4v9h11v-9zm5 0h-3v9h3v-9zm0-5H4v3h16V5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-bottom-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-2 13H5v2h14v-2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-bottom-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-1 2H4v14h16V5zm-2 10v2H6v-2h12z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-bottom-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M22 16v4a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-4h20zM21 3a1 1 0 0 1 1 1v10H2V4a1 1 0 0 1 1-1h18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-bottom-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zM4 16v3h16v-3H4zm0-2h16V5H4v9z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-layout-column-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -5168,10 +5353,70 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M16 21V10h5v10a1 1 0 0 1-1 1h-4zm-2 0H4a1 1 0 0 1-1-1V10h11v11zm7-13H3V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v4z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-grid-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M22 12.999V20a1 1 0 0 1-1 1h-8v-8.001h9zm-11 0V21H3a1 1 0 0 1-1-1v-7.001h9zM11 3v7.999H2V4a1 1 0 0 1 1-1h8zm10 0a1 1 0 0 1 1 1v6.999h-9V3h8z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-grid-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zM11 13H4v6h7v-6zm9 0h-7v6h7v-6zm-9-8H4v6h7V5zm9 0h-7v6h7V5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-left-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zM7 6H5v12h2V6z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-left-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-1 2H4v14h16V5zM8 7v10H6V7h2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-left-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H9V3h12zM7 21H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h4v18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-left-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zM7 5H4v14h3V5zm13 0H9v14h11V5z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-layout-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M5 8h14V5H5v3zm9 11v-9H5v9h9zm2 0h3v-9h-3v9zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-masonry-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M22 9.999V20a1 1 0 0 1-1 1h-8V9.999h9zm-11 6V21H3a1 1 0 0 1-1-1v-4.001h9zM11 3v10.999H2V4a1 1 0 0 1 1-1h8zm10 0a1 1 0 0 1 1 1v3.999h-9V3h8z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-masonry-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M22 20a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16zm-11-5H4v4h7v-4zm9-4h-7v8h7v-8zm-9-6H4v8h7V5zm9 0h-7v4h7V5z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-right-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-2 3h-2v12h2V6z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-right-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-1 2H4v14h16V5zm-2 2v10h-2V7h2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-right-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1h-4V3h4zm-6 18H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12v18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-right-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-6 2H4v14h11V5zm5 0h-3v14h3V5z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-layout-row-fill">
     <g>
@@ -5182,6 +5427,26 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M19 11V5H5v6h14zm0 2H5v6h14v-6zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-top-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-2 3H5v2h14V6z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-top-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-1 2H4v14h16V5zm-2 2v2H6V7h12z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-top-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M22 10v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V10h20zm-1-7a1 1 0 0 1 1 1v4H2V4a1 1 0 0 1 1-1h18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-layout-top-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zM4 10v9h16v-9H4zm0-2h16V5H4v3z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-lifebuoy-fill">
     <g>
@@ -5848,6 +6113,26 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M3 4h18v2H3V4zm6 7h12v2H9v-2zm-6 7h18v2H3v-2z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-menu-4-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M16 18v2H5v-2h11zm5-7v2H3v-2h18zm-2-7v2H8V4h11z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-menu-4-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M16 18v2H5v-2h11zm5-7v2H3v-2h18zm-2-7v2H8V4h11z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-menu-5-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18 18v2H6v-2h12zm3-7v2H3v-2h18zm-3-7v2H6V4h12z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-menu-5-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18 18v2H6v-2h12zm3-7v2H3v-2h18zm-3-7v2H6V4h12z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-menu-add-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -6513,6 +6798,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M6 3h7a6 6 0 1 1 0 12H8v6H6V3zm2 2v8h5a4 4 0 1 0 0-8H8z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-passport-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M20 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16zm-4 14H8v2h8v-2zM12 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8zm0 2a2 2 0 1 1 0 4 2 2 0 0 1 0-4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-passport-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M20 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16zm-1 2H5v16h14V4zm-3 12v2H8v-2h8zM12 6a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-patreon-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -6628,10 +6923,30 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M21 16.42v3.536a1 1 0 0 1-.93.998c-.437.03-.794.046-1.07.046-8.837 0-16-7.163-16-16 0-.276.015-.633.046-1.07A1 1 0 0 1 4.044 3H7.58a.5.5 0 0 1 .498.45c.023.23.044.413.064.552A13.901 13.901 0 0 0 9.35 8.003c.095.2.033.439-.147.567l-2.158 1.542a13.047 13.047 0 0 0 6.844 6.844l1.54-2.154a.462.462 0 0 1 .573-.149 13.901 13.901 0 0 0 4 1.205c.139.02.322.042.55.064a.5.5 0 0 1 .449.498z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-phone-find-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18 2a1 1 0 0 1 1 1v8.529A6 6 0 0 0 9 16c0 3.238 2.76 6 6 6H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h12zm-3 10a4 4 0 0 1 3.446 6.032l2.21 2.21-1.413 1.415-2.211-2.21A4 4 0 1 1 15 12zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-phone-find-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18 2a1 1 0 0 1 1 1v8h-2V4H7v16h4v2H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h12zm-3 10a4 4 0 0 1 3.446 6.032l2.21 2.21-1.413 1.415-2.212-2.21A4 4 0 1 1 15 12zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-phone-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M9.366 10.682a10.556 10.556 0 0 0 3.952 3.952l.884-1.238a1 1 0 0 1 1.294-.296 11.422 11.422 0 0 0 4.583 1.364 1 1 0 0 1 .921.997v4.462a1 1 0 0 1-.898.995c-.53.055-1.064.082-1.602.082C9.94 21 3 14.06 3 5.5c0-.538.027-1.072.082-1.602A1 1 0 0 1 4.077 3h4.462a1 1 0 0 1 .997.921A11.422 11.422 0 0 0 10.9 8.504a1 1 0 0 1-.296 1.294l-1.238.884zm-2.522-.657l1.9-1.357A13.41 13.41 0 0 1 7.647 5H5.01c-.006.166-.009.333-.009.5C5 12.956 11.044 19 18.5 19c.167 0 .334-.003.5-.01v-2.637a13.41 13.41 0 0 1-3.668-1.097l-1.357 1.9a12.442 12.442 0 0 1-1.588-.75l-.058-.033a12.556 12.556 0 0 1-4.702-4.702l-.033-.058a12.442 12.442 0 0 1-.75-1.588z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-phone-lock-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18 2a1 1 0 0 1 1 1l.001 7.1A5.002 5.002 0 0 0 13.1 14H12v8H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h12zm0 10a3 3 0 0 1 3 3v1h1v5a1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1v-5h1v-1a3 3 0 0 1 3-3zm0 2c-.513 0-1 .45-1 1v1h2v-1a1 1 0 0 0-1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-phone-lock-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M18 2a1 1 0 0 1 1 1v7h-2V4H7v16h5v2H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h12zm0 10a3 3 0 0 1 3 3v1h1v5a1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1v-5h1v-1a3 3 0 0 1 3-3zm2 6h-4v2h4v-2zm-2-4c-.508 0-1 .45-1 1v1h2v-1a1 1 0 0 0-1-1z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-picture-in-picture-2-fill">
     <g>
@@ -6703,12 +7018,12 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M9.975 8.975a3.5 3.5 0 1 0-4.95 0L7.5 11.45l2.475-2.475zM7.5 14.278L3.61 10.39a5.5 5.5 0 1 1 7.78 0L7.5 14.28zM7.5 8a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm9 12.45l2.475-2.475a3.5 3.5 0 1 0-4.95 0L16.5 20.45zm3.89-1.06l-3.89 3.888-3.89-3.889a5.5 5.5 0 1 1 7.78 0zM16.5 17a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
     </g>
-</symbol><symbol viewBox="0 0 24 24" id="ri-ping-pang-fill">
+</symbol><symbol viewBox="0 0 24 24" id="ri-ping-pong-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M11.5 2a9.5 9.5 0 0 1 9.5 9.5 9.46 9.46 0 0 1-1.003 4.254l2.463 2.464a1 1 0 0 1 0 1.414l-2.828 2.828a1 1 0 0 1-1.414 0l-2.464-2.463A9.46 9.46 0 0 1 11.5 21a9.5 9.5 0 0 1 0-19zm5.303 13.388l-1.414 1.414 3.536 3.535 1.414-1.414-3.536-3.535zm1.864-6.105l-9.384 9.384c.7.216 1.445.333 2.217.333a7.48 7.48 0 0 0 2.74-.516l-.972-.974a1 1 0 0 1 0-1.414l2.828-2.828a1 1 0 0 1 1.414 0l.974.972A7.48 7.48 0 0 0 19 11.5c0-.772-.117-1.516-.333-2.217z"/>
     </g>
-</symbol><symbol viewBox="0 0 24 24" id="ri-ping-pang-line">
+</symbol><symbol viewBox="0 0 24 24" id="ri-ping-pong-line">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M11.5 2a9.5 9.5 0 0 1 9.5 9.5 9.46 9.46 0 0 1-1.003 4.254l2.463 2.464a1 1 0 0 1 0 1.414l-2.828 2.828a1 1 0 0 1-1.414 0l-2.464-2.463A9.46 9.46 0 0 1 11.5 21a9.5 9.5 0 0 1 0-19zm5.303 13.388l-1.414 1.414 3.536 3.535 1.414-1.414-3.536-3.535zm1.864-6.105l-9.384 9.384c.7.216 1.445.333 2.217.333a7.48 7.48 0 0 0 2.74-.516l-.972-.974a1 1 0 0 1 0-1.414l2.828-2.828a1 1 0 0 1 1.414 0l.974.972A7.48 7.48 0 0 0 19 11.5c0-.772-.117-1.516-.333-2.217zM11.5 4a7.5 7.5 0 0 0-4.136 13.757L17.757 7.364A7.493 7.493 0 0 0 11.5 4z"/>
@@ -6722,6 +7037,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M8.49 19.191c.024-.336.072-.671.144-1.001.063-.295.254-1.13.534-2.34l.007-.03.387-1.668c.079-.34.14-.604.181-.692a3.46 3.46 0 0 1-.284-1.423c0-1.337.756-2.373 1.736-2.373.36-.006.704.15.942.426.238.275.348.644.302.996 0 .453-.085.798-.453 2.035-.071.238-.12.404-.166.571-.051.188-.095.358-.132.522-.096.386-.008.797.237 1.106a1.2 1.2 0 0 0 1.006.456c1.492 0 2.6-1.985 2.6-4.548 0-1.97-1.29-3.274-3.432-3.274A3.878 3.878 0 0 0 9.2 9.1a4.13 4.13 0 0 0-1.195 2.961 2.553 2.553 0 0 0 .512 1.644c.181.14.25.383.175.59-.041.168-.14.552-.176.68a.41.41 0 0 1-.216.297.388.388 0 0 1-.355.002c-1.16-.479-1.796-1.778-1.796-3.44 0-2.985 2.491-5.584 6.192-5.584 3.135 0 5.481 2.329 5.481 5.14 0 3.532-1.932 6.104-4.69 6.104a2.508 2.508 0 0 1-2.046-.959l-.043.177-.207.852-.002.007c-.146.6-.248 1.017-.288 1.174-.106.355-.24.703-.4 1.04a8 8 0 1 0-1.656-.593zM12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-pinyin-input">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17.934 3.036l1.732 1L18.531 6H21v2h-2v4h2v2h-2v7h-2v-7h-3.084c-.325 2.862-1.564 5.394-3.37 7.193l-1.562-1.27c1.52-1.438 2.596-3.522 2.917-5.922L10 14v-2l2-.001V8h-2V6h2.467l-1.133-1.964 1.732-1L14.777 6h1.444l1.713-2.964zM5 13.803l-2 .536v-2.071l2-.536V8H3V6h2V3h2v3h2v2H7v3.197l2-.536v2.07l-2 .536V18.5A2.5 2.5 0 0 1 4.5 21H3v-2h1.5a.5.5 0 0 0 .492-.41L5 18.5v-4.697zM17 8h-3v4h3V8z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-plane-fill">
     <g>
@@ -7968,6 +8288,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M7 8V6a5 5 0 1 1 10 0v2h3a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h3zm0 2H5v10h14V10h-2v2h-2v-2H9v2H7v-2zm2-2h6V6a3 3 0 0 0-6 0v2z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-shopping-basket-2-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M15.366 3.438L18.577 9H22v2h-1.167l-.757 9.083a1 1 0 0 1-.996.917H4.92a1 1 0 0 1-.996-.917L3.166 11H2V9h3.422l3.212-5.562 1.732 1L7.732 9h8.535l-2.633-4.562 1.732-1zM13 13h-2v4h2v-4zm-4 0H7v4h2v-4zm8 0h-2v4h2v-4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-shopping-basket-2-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M15.366 3.438L18.577 9H22v2h-1.167l-.757 9.083a1 1 0 0 1-.996.917H4.92a1 1 0 0 1-.996-.917L3.166 11H2V9h3.422l3.212-5.562 1.732 1L7.732 9h8.535l-2.633-4.562 1.732-1zM18.826 11H5.173l.667 8h12.319l.667-8zM13 13v4h-2v-4h2zm-4 0v4H7v-4h2zm8 0v4h-2v-4h2z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-shopping-basket-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -8383,6 +8713,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M12 2c5.55 0 10 4.5 10 10s-4.5 10-10 10S2 17.5 2 12 6.5 2 12 2zm0 2c-4.395 0-8 3.605-8 8s3.605 8 8 8 8-3.605 8-8c0-4.414-3.573-8-8-8zm3.75 12.65c-2.35-1.45-5.3-1.75-8.8-.95-.35.1-.65-.15-.75-.45-.1-.35.15-.65.45-.75 3.8-.85 7.1-.5 9.7 1.1.35.15.4.55.25.85-.2.3-.55.4-.85.2zm1-2.7c-2.7-1.65-6.8-2.15-9.95-1.15-.4.1-.85-.1-.95-.5-.1-.4.1-.85.5-.95 3.65-1.1 8.15-.55 11.25 1.35.3.15.45.65.2 1s-.7.5-1.05.25zM6.3 9.75c-.5.15-1-.15-1.15-.6-.15-.5.15-1 .6-1.15 3.55-1.05 9.4-.85 13.1 1.35.45.25.6.85.35 1.3-.25.35-.85.5-1.3.25C14.7 9 9.35 8.8 6.3 9.75z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-spy-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M17 13a4 4 0 1 1 0 8c-2.142 0-4-1.79-4-4h-2a4 4 0 1 1-.535-2h3.07A3.998 3.998 0 0 1 17 13zM2 12v-2h2V7a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v3h2v2H2z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-spy-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M17 13a4 4 0 1 1-4 4h-2a4 4 0 1 1-.535-2h3.07A3.998 3.998 0 0 1 17 13zM7 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM16 3a4 4 0 0 1 4 4v3h2v2H2v-2h2V7a4 4 0 0 1 4-4h8zm0 2H8c-1.054 0-2 .95-2 2v3h12V7c0-1.054-.95-2-2-2z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-stack-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -8757,6 +9097,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path fill-rule="nonzero" d="M13 10v4h6v-4h-6zm-2 0H5v4h6v-4zm2 9h6v-3h-6v3zm-2 0v-3H5v3h6zm2-14v3h6V5h-6zm-2 0H5v3h6V5zM4 3h16a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-table-alt-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M7 14V3H3a1 1 0 0 0-1 1v10h5zm8 0V3H9v11h6zm7 0V4a1 1 0 0 0-1-1h-4v11h5zm-1 7a1 1 0 0 0 1-1v-4H2v4a1 1 0 0 0 1 1h18z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-table-alt-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M21 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm-1 13H4v3h16v-3zM8 5H4v9h4V5zm6 0h-4v9h4V5zm6 0h-4v9h4V5z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-table-fill">
     <g>
@@ -9258,6 +9608,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M8 3v9a4 4 0 1 0 8 0V3h2v9a6 6 0 1 1-12 0V3h2zM4 20h16v2H4v-2z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-uninstall-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M20 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16zm-1 14H5v4h14v-4zm-2 1v2h-2v-2h2zM12 2L8 6h3v5h2V6h3l-4-4z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-uninstall-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill-rule="nonzero" d="M8 2v2H5l-.001 10h14L19 4h-3V2h4a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h4zm10.999 14h-14L5 20h14l-.001-4zM17 17v2h-2v-2h2zM12 2l4 4h-3v5h-2V6H8l4-4z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-upload-2-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -9588,6 +9948,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M22.222 15.768l-.225-1.125h-2.514l-.4 1.117-2.015.004a4199.19 4199.19 0 0 1 2.884-6.918c.164-.391.455-.59.884-.588.328.003.863.003 1.606.001L24 15.765l-1.778.003zm-2.173-2.666h1.62l-.605-2.82-1.015 2.82zM7.06 8.257l2.026.002-3.132 7.51-2.051-.002a950.849 950.849 0 0 1-1.528-5.956c-.1-.396-.298-.673-.679-.804C1.357 8.89.792 8.71 0 8.465V8.26h3.237c.56 0 .887.271.992.827.106.557.372 1.975.8 4.254L7.06 8.257zm4.81.002l-1.602 7.508-1.928-.002L9.94 8.257l1.93.002zm3.91-.139c.577 0 1.304.18 1.722.345l-.338 1.557c-.378-.152-1-.357-1.523-.35-.76.013-1.23.332-1.23.638 0 .498.816.749 1.656 1.293.959.62 1.085 1.177 1.073 1.782-.013 1.256-1.073 2.495-3.309 2.495-1.02-.015-1.388-.101-2.22-.396l.352-1.625c.847.355 1.206.468 1.93.468.663 0 1.232-.268 1.237-.735.004-.332-.2-.497-.944-.907-.744-.411-1.788-.98-1.774-2.122.017-1.462 1.402-2.443 3.369-2.443z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-voice-recognition-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M21 3v18H3V3h18zm-8 3h-2v12h2V6zM9 9H7v6h2V9zm8 0h-2v6h2V9z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-voice-recognition-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M5 15v4h4v2H3v-6h2zm16 0v6h-6v-2h4v-4h2zm-8-9v12h-2V6h2zM9 9v6H7V9h2zm8 0v6h-2V9h2zM9 3v2H5v4H3V3h6zm12 0v6h-2V5h-4V3h6z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-voiceprint-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -9618,6 +9988,16 @@
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M10 7.22L6.603 10H3v4h3.603L10 16.78V7.22zM5.889 16H2a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h3.889l5.294-4.332a.5.5 0 0 1 .817.387v15.89a.5.5 0 0 1-.817.387L5.89 16zm14.525-4l3.536 3.536-1.414 1.414L19 13.414l-3.536 3.536-1.414-1.414L17.586 12 14.05 8.464l1.414-1.414L19 10.586l3.536-3.536 1.414 1.414L20.414 12z"/>
     </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-volume-off-vibrate-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M19.39 3.161l1.413 1.414-2.475 2.475 2.475 2.475L18.328 12l2.475 2.476-2.475 2.475 2.475 2.475-1.414 1.414-3.889-3.89 2.475-2.474L15.5 12l2.475-2.475L15.5 7.05l3.89-3.889zM13 19.945a.5.5 0 0 1-.817.387L6.89 15.999 3 16a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1l2.584-.002-3.776-3.776 1.414-1.414L13 12.586v7.359zm-.113-16.206a.5.5 0 0 1 .113.316v5.702L9.282 6.04l2.901-2.372a.5.5 0 0 1 .704.07z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-volume-off-vibrate-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M19.39 3.161l1.413 1.414-2.475 2.475 2.475 2.475L18.328 12l2.475 2.476-2.475 2.475 2.475 2.475-1.414 1.414-3.889-3.89 2.475-2.474L15.5 12l2.475-2.475L15.5 7.05l3.89-3.889zM13 19.945a.5.5 0 0 1-.817.387L6.89 15.999 3 16a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1l2.584-.002-3.776-3.776 1.414-1.414L13 12.586v7.359zM7.584 9.998L4 10V14l3.603-.001L11 16.779v-3.365L7.584 9.998zm5.303-6.26a.5.5 0 0 1 .113.317v5.702l-2-2V7.22l-.296.241-1.421-1.42 2.9-2.373a.5.5 0 0 1 .704.07z"/>
+    </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-volume-up-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
@@ -9627,6 +10007,16 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M10 7.22L6.603 10H3v4h3.603L10 16.78V7.22zM5.889 16H2a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h3.889l5.294-4.332a.5.5 0 0 1 .817.387v15.89a.5.5 0 0 1-.817.387L5.89 16zm13.517 4.134l-1.416-1.416A8.978 8.978 0 0 0 21 12a8.982 8.982 0 0 0-3.304-6.968l1.42-1.42A10.976 10.976 0 0 1 23 12c0 3.223-1.386 6.122-3.594 8.134zm-3.543-3.543l-1.422-1.422A3.993 3.993 0 0 0 16 12c0-1.43-.75-2.685-1.88-3.392l1.439-1.439A5.991 5.991 0 0 1 18 12c0 1.842-.83 3.49-2.137 4.591z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-volume-vibrate-fill">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M19.39 3.161l1.413 1.414-2.475 2.475 2.475 2.475L18.328 12l2.475 2.476-2.475 2.475 2.475 2.475-1.414 1.414-3.889-3.89 2.475-2.474L15.5 12l2.475-2.475L15.5 7.05l3.89-3.889zm-6.503.578a.5.5 0 0 1 .113.316v15.89a.5.5 0 0 1-.817.387L6.89 15.999 3 16a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h3.889l5.294-4.332a.5.5 0 0 1 .704.07z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-volume-vibrate-line">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M19.39 3.161l1.413 1.414-2.475 2.475 2.475 2.475L18.328 12l2.475 2.476-2.475 2.475 2.475 2.475-1.414 1.414-3.889-3.89 2.475-2.474L15.5 12l2.475-2.475L15.5 7.05l3.89-3.889zm-6.503.578a.5.5 0 0 1 .113.316v15.89a.5.5 0 0 1-.817.387L6.89 15.999 3 16a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1h3.889l5.294-4.332a.5.5 0 0 1 .704.07zM11 7.22L7.603 9.999H4V14l3.603-.001L11 16.779V7.22z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-vuejs-fill">
     <g>
@@ -9817,6 +10207,11 @@
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
         <path d="M11 15.934A7.501 7.501 0 0 1 12 1a7.5 7.5 0 0 1 1 14.934V18h5v2h-5v4h-2v-4H6v-2h5v-2.066zM12 14a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11z"/>
+    </g>
+</symbol><symbol viewBox="0 0 24 24" id="ri-wubi-input">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M3 21v-2h3.662l1.234-7H5v-2h3.249l.881-5H4V3h16v2h-8.839l-.882 5H18v9h3v2H3zm13-9H9.927l-1.235 7H16v-7z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-xbox-fill">
     <g>
