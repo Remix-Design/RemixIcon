@@ -5504,10 +5504,16 @@
 			"恐怖"
 		],
 		"men": [
+			"gender",
+			"male",
+			"man",
 			"男人",
 			"男性"
 		],
 		"women": [
+			"gender",
+			"female",
+			"woman",
 			"女人",
 			"女性"
 		],
