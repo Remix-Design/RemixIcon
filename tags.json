@@ -484,6 +484,52 @@
 			"统计",
 			"分组"
 		],
+		"bubble-chart": [
+			"data",
+			"analysis",
+			"statistics",
+			"气泡图",
+			"统计"
+		],
+		"pie-chart": [
+			"data",
+			"analysis",
+			"饼图",
+			"饼状图",
+			"数据",
+			"分析"
+		],
+		"pie-chart-2": [
+			"data",
+			"analysis",
+			"饼图",
+			"饼状图",
+			"数据",
+			"分析"
+		],
+		"pie-chart-box": [
+			"data",
+			"analysis",
+			"饼图",
+			"饼状图",
+			"数据",
+			"分析"
+		],
+		"donut-chart": [
+			"data",
+			"analysis",
+			"环形图",
+			"数据",
+			"分析"
+		],
+		"line-chart": [
+			"data",
+			"analysis",
+			"stats",
+			"折线图",
+			"数据",
+			"分析"
+		],
 		"bookmark": [
 			"tag",
 			"书签",
@@ -663,30 +709,6 @@
 			"联系",
 			"链接",
 			"地址"
-		],
-		"pie-chart": [
-			"data",
-			"analysis",
-			"饼图",
-			"饼状图",
-			"数据",
-			"分析"
-		],
-		"pie-chart-2": [
-			"data",
-			"analysis",
-			"饼图",
-			"饼状图",
-			"数据",
-			"分析"
-		],
-		"pie-chart-box": [
-			"data",
-			"analysis",
-			"饼图",
-			"饼状图",
-			"数据",
-			"分析"
 		],
 		"printer": [
 			"打印机"
@@ -1089,6 +1111,39 @@
 			"comment",
 			"消息",
 			"语音消息"
+		],
+		"chat-quote": [
+			"message",
+			"reply",
+			"comment",
+			"消息",
+			"引用回复"
+		],
+		"chat-follow-up": [
+			"message",
+			"reply",
+			"comment",
+			"消息",
+			"+1",
+			"跟帖"
+		],
+		"chat-poll": [
+			"message",
+			"vote",
+			"questionnaire",
+			"消息",
+			"投票",
+			"问卷调查"
+		],
+		"chat-history": [
+			"message",
+			"历史消息",
+			"消息记录"
+		],
+		"chat-private": [
+			"message",
+			"私密消息",
+			"密聊"
 		]
 	},
 	"Design": {
@@ -1590,11 +1645,6 @@
 		],
 		"css3": [
 			"css"
-		],
-		"stackshare": [
-			"share",
-			"分享",
-			"栈"
 		]
 	},
 	"Device": {
@@ -1814,6 +1864,146 @@
 		],
 		"phone-lock": [
 			"锁定手机"
+		],
+		"rotate-lock": [
+			"锁定旋转屏幕"
+		],
+		"restart": [
+			"reload",
+			"refresh",
+			"重启"
+		],
+		"shut-down": [
+			"power off",
+			"关机"
+		],
+		"fingerprint": [
+			"指纹"
+		],
+		"fingerprint-2": [
+			"指纹"
+		],
+		"barcode": [
+			"scan",
+			"扫码",
+			"条形码",
+			"条码"
+		],
+		"barcode-box": [
+			"scan",
+			"扫码",
+			"条形码",
+			"条码"
+		],
+		"qr-code": [
+			"二维码"
+		],
+		"qr-scan": [
+			"二维码",
+			"扫描"
+		],
+		"qr-scan-2": [
+			"二维码",
+			"扫描"
+		],
+		"scan": [
+			"扫描"
+		],
+		"scan-2": [
+			"扫描"
+		],
+		"rss": [
+			"feed",
+			"subscribe",
+			"订阅"
+		],
+		"gps": [
+			"signal",
+			"定位",
+			"信号"
+		],
+		"base-station": [
+			"wifi",
+			"signal tower",
+			"router",
+			"cast",
+			"基站",
+			"信号塔",
+			"路由器",
+			"广播",
+			"流量"
+		],
+		"bluetooth": [
+			"wireless",
+			"蓝牙",
+			"无线"
+		],
+		"bluetooth-connect": [
+			"wireless",
+			"蓝牙",
+			"连接",
+			"无线"
+		],
+		"wifi": [
+			"无线网"
+		],
+		"wifi-off": [
+			"slash",
+			"offline",
+			"connection-fail",
+			"无线网",
+			"关闭",
+			"断网",
+			"链接失败"
+		],
+		"signal-wifi": [
+			"cellular",
+			"strength",
+			"无线网",
+			"信号"
+		],
+		"signal-wifi-1": [
+			"cellular",
+			"strength",
+			"无线网",
+			"信号"
+		],
+		"signal-wifi-2": [
+			"cellular",
+			"strength",
+			"无线网",
+			"信号"
+		],
+		"signal-wifi-3": [
+			"cellular",
+			"strength",
+			"无线网",
+			"信号"
+		],
+		"signal-wifi-error": [
+			"cellular",
+			"offline",
+			"connection-fail",
+			"无线网",
+			"断网",
+			"链接失败",
+			"无信号"
+		],
+		"signal-wifi-off": [
+			"cellular",
+			"slash",
+			"offline",
+			"connection-fail",
+			"无线网",
+			"关闭",
+			"断网",
+			"链接失败"
+		],
+		"wireless-charging": [
+			"power",
+			"flash",
+			"无线充电",
+			"闪充"
 		]
 	},
 	"Document": {
@@ -1918,6 +2108,13 @@
 			"copy",
 			"复制",
 			"剪切板"
+		],
+		"survey": [
+			"research",
+			"questionnaire",
+			"调查",
+			"问卷",
+			"调研"
 		],
 		"article": [
 			"newspaper",
@@ -2129,6 +2326,11 @@
 			"文档",
 			"音乐"
 		],
+		"file-gif": [
+			"文件",
+			"文档",
+			"动图"
+		],
 		"file-forbid": [
 			"文件",
 			"文档",
@@ -2183,6 +2385,13 @@
 			"损坏",
 			"破损",
 			"破裂"
+		],
+		"file-history": [
+			"record",
+			"文件",
+			"文档",
+			"记录",
+			"历史"
 		],
 		"file-shred": [
 			"shredder",
@@ -2431,6 +2640,16 @@
 			"文档",
 			"打开",
 			"压缩"
+		],
+		"folder-history": [
+			"directory",
+			"file",
+			"record",
+			"文件夹",
+			"目录",
+			"文档",
+			"记录",
+			"历史"
 		],
 		"markdown": [
 			"arrow",
@@ -2720,6 +2939,41 @@
 			"0",
 			"零",
 			"数字"
+		],
+		"sort-asc": [
+			"ranking",
+			"ordering",
+			"sorting",
+			"ascending",
+			"descending",
+			"升序排列",
+			"排序"
+		],
+		"sort-desc": [
+			"ranking",
+			"ordering",
+			"降序排列",
+			"排序"
+		],
+		"bring-forward": [
+			"arrange",
+			"层级",
+			"向上一层"
+		],
+		"send-backward": [
+			"arrange",
+			"层级",
+			"向下一层"
+		],
+		"bring-to-front": [
+			"arrange",
+			"层级",
+			"移到最前面"
+		],
+		"send-to-back": [
+			"arrange",
+			"层级",
+			"移到最后面"
 		]
 	},
 	"Finance": {
@@ -3143,21 +3397,86 @@
 		]
 	},
 	"Logos": {
-		"windows": [
-			"microsoft",
-			"窗户",
-			"微软"
+		"alipay": [
+			"zhifubao",
+			"支付宝"
 		],
-		"apple": [
-			"苹果"
-		],
-		"google": [
-			"谷歌"
+		"amazon": [
+			"亚马逊"
 		],
 		"android": [
 			"applications",
 			"安卓",
 			"应用"
+		],
+		"angularjs": [
+			"angular",
+			"programing framework"
+		],
+		"app-store": [
+			"applications",
+			"苹果应用商店"
+		],
+		"apple": [
+			"苹果"
+		],
+		"baidu": [
+			"du",
+			"claw",
+			"百度",
+			"爪"
+		],
+		"behance": [
+			"behance"
+		],
+		"bilibili": [
+			"哔哩哔哩"
+		],
+		"centos": [
+			"linux",
+			"system",
+			"系统"
+		],
+		"chrome": [
+			"谷歌浏览器"
+		],
+		"codepen": [
+			"代码笔"
+		],
+		"coreos": [
+			"linux",
+			"system",
+			"系统"
+		],
+		"dingding": [
+			"钉钉"
+		],
+		"discord": [
+			"game",
+			"chat"
+		],
+		"disqus": [
+			"comments"
+		],
+		"douban": [
+			"豆瓣"
+		],
+		"dribbble": [
+			"追波"
+		],
+		"drive": [
+			"google drive",
+			"谷歌云端硬盘"
+		],
+		"dropbox": [
+			"多宝箱"
+		],
+		"edge": [
+			"microsoft edge",
+			"edge浏览器"
+		],
+		"evernote": [
+			"印象笔记"
 		],
 		"facebook": [
 			"脸书"
@@ -3168,92 +3487,14 @@
 		"facebook-box": [
 			"脸书"
 		],
-		"twitter": [
-			"推特"
+		"firefox": [
+			"火狐浏览器"
 		],
-		"linkedin": [
-			"领英"
+		"flutter": [
+			"google"
 		],
-		"linkedin-box": [
-			"领英"
-		],
-		"medium": [
-			"媒体"
-		],
-		"qq": [
-			"penguin",
-			"tencent",
-			"腾讯",
-			"企鹅"
-		],
-		"wechat": [
-			"微信"
-		],
-		"wechat-2": [
-			"微信"
-		],
-		"mini-program": [
-			"微信小程序"
-		],
-		"skype": [
-			"skype"
-		],
-		"slack": [
-			"slack"
-		],
-		"messenger": [
-			"facebook",
-			"脸书",
-			"信使"
-		],
-		"whatsapp": [
-			"瓦次艾普"
-		],
-		"telegram": [
-			"telegram"
-		],
-		"snapchat": [
-			"ghost",
-			"色拉布",
-			"幽灵"
-		],
-		"dingding": [
-			"钉钉"
-		],
-		"line": [
-			"连我"
-		],
-		"product-hunt": [
-			"product hunt"
-		],
-		"behance": [
-			"behance"
-		],
-		"instagram": [
-			"照片墙"
-		],
-		"dribbble": [
-			"追波"
-		],
-		"pinterest": [
-			"拼趣"
-		],
-		"invision": [
-			"invision"
-		],
-		"zcool": [
-			"zcool",
-			"站酷"
-		],
-		"drive": [
-			"google drive",
-			"谷歌云端硬盘"
-		],
-		"dropbox": [
-			"多宝箱"
-		],
-		"codepen": [
-			"代码笔"
+		"gatsby": [
+			"gatsby"
 		],
 		"github": [
 			"github"
@@ -3261,71 +3502,76 @@
 		"gitlab": [
 			"gitlab"
 		],
-		"stack-overflow": [
-			"stack overflow"
+		"google": [
+			"谷歌"
 		],
-		"trello": [
-			"trello"
+		"google-play": [
+			"applications",
+			"谷歌应用商店"
 		],
-		"paypal": [
-			"贝宝"
-		],
-		"alipay": [
-			"zhifubao",
-			"支付宝"
-		],
-		"wechat-pay": [
-			"微信支付"
-		],
-		"evernote": [
-			"印象笔记"
-		],
-		"tumblr": [
-			"汤博乐"
-		],
-		"chrome": [
-			"谷歌浏览器"
-		],
-		"safari": [
-			"safari浏览器"
-		],
-		"edge": [
-			"microsoft edge",
-			"edge浏览器"
-		],
-		"opera": [
-			"欧朋浏览器"
-		],
-		"firefox": [
-			"火狐浏览器"
+		"honor-of-kings": [
+			"game",
+			"王者荣耀"
 		],
 		"ie": [
 			"internet explorer",
 			"浏览器"
 		],
-		"taobao": [
-			"淘宝"
+		"instagram": [
+			"照片墙"
 		],
-		"amazon": [
-			"亚马逊"
+		"invision": [
+			"invision"
 		],
-		"baidu": [
-			"du",
-			"claw",
-			"百度",
-			"爪"
+		"kakao-talk": [
+			"kakao talk",
+			"chat"
 		],
-		"weibo": [
-			"新浪微博"
+		"line": [
+			"连我"
 		],
-		"youtube": [
-			"优兔"
+		"linkedin": [
+			"领英"
 		],
-		"zhihu": [
-			"知乎"
+		"linkedin-box": [
+			"领英"
 		],
-		"douban": [
-			"豆瓣"
+		"mastercard": [
+			"bank card",
+			"银行卡"
+		],
+		"mastodon": [
+			"mastodon",
+			"长毛象"
+		],
+		"medium": [
+			"媒体"
+		],
+		"messenger": [
+			"facebook",
+			"脸书",
+			"信使"
+		],
+		"mini-program": [
+			"微信小程序"
+		],
+		"netease-cloud-music": [
+			"netease cloud music",
+			"网易云音乐"
+		],
+		"netflix": [
+			"网飞"
+		],
+		"npmjs": [
+			"npm",
+			"nodejs"
+		],
+		"open-source": [
+			"opensource",
+			"开源"
+		],
+		"opera": [
+			"欧朋浏览器"
 		],
 		"patreon": [
 			"donate",
@@ -3333,70 +3579,53 @@
 			"捐赠",
 			"打赏"
 		],
-		"remixicon": [
-			"remix icon",
-			"图标"
+		"paypal": [
+			"贝宝"
 		],
-		"discord": [
-			"game",
-			"chat"
+		"pinterest": [
+			"拼趣"
 		],
-		"kakao-talk": [
-			"kakao talk",
-			"chat"
-		],
-		"mastodon": [
-			"mastodon",
-			"长毛象"
-		],
-		"netease-cloud-music": [
-			"netease cloud music",
-			"网易云音乐"
-		],
-		"spotify": [
-			"music",
-			"音乐"
-		],
-		"reddit": [
-			"reddit"
-		],
-		"netflix": [
-			"网飞"
+		"pixelfed": [
+			"photography",
+			"pixelfed"
 		],
 		"playstation": [
 			"ps"
 		],
-		"switch": [
-			"nintendo",
-			"任天堂"
+		"product-hunt": [
+			"product hunt"
 		],
-		"xbox": [
-			"xbox"
+		"qq": [
+			"penguin",
+			"tencent",
+			"腾讯",
+			"企鹅"
 		],
-		"visa": [
-			"bank card",
-			"银行卡"
+		"reactjs": [
+			"react",
+			"programing framework",
+			"facebook"
 		],
-		"mastercard": [
-			"bank card",
-			"银行卡"
+		"reddit": [
+			"reddit"
 		],
-		"bilibili": [
-			"哔哩哔哩"
+		"remixicon": [
+			"remix icon",
+			"图标"
 		],
-		"twitch": [
-			"twitch"
+		"safari": [
+			"safari浏览器"
 		],
-		"xing": [
-			"xing"
+		"skype": [
+			"skype"
 		],
-		"app-store": [
-			"applications",
-			"苹果应用商店"
+		"slack": [
+			"slack"
 		],
-		"google-play": [
-			"applications",
-			"谷歌应用商店"
+		"snapchat": [
+			"ghost",
+			"色拉布",
+			"幽灵"
 		],
 		"soundcloud": [
 			"声云"
@@ -3404,34 +3633,96 @@
 		"spectrum": [
 			"spectrum"
 		],
+		"spotify": [
+			"music",
+			"音乐"
+		],
+		"stack-overflow": [
+			"stack overflow"
+		],
+		"stackshare": [
+			"share",
+			"分享",
+			"技术栈"
+		],
+		"steam": [
+			"game",
+			"store"
+		],
+		"switch": [
+			"nintendo",
+			"任天堂"
+		],
+		"taobao": [
+			"淘宝"
+		],
+		"telegram": [
+			"telegram"
+		],
+		"trello": [
+			"trello"
+		],
+		"tumblr": [
+			"汤博乐"
+		],
+		"twitch": [
+			"twitch"
+		],
+		"twitter": [
+			"推特"
+		],
 		"ubuntu": [
 			"linux",
 			"system",
 			"系统"
 		],
-		"coreos": [
-			"linux",
-			"system",
-			"系统"
+		"unsplash": [
+			"photos"
 		],
-		"angularjs": [
-			"angular",
-			"programing framework"
-		],
-		"reactjs": [
-			"react",
-			"programing framework",
-			"facebook"
+		"visa": [
+			"bank card",
+			"银行卡"
 		],
 		"vuejs": [
 			"vue",
 			"programing framework"
 		],
-		"flutter": [
-			"google"
+		"wechat": [
+			"微信"
 		],
-		"gatsby": [
-			"gatsby"
+		"wechat-2": [
+			"微信"
+		],
+		"wechat-pay": [
+			"微信支付"
+		],
+		"weibo": [
+			"新浪微博"
+		],
+		"whatsapp": [
+			"瓦次艾普"
+		],
+		"windows": [
+			"microsoft",
+			"窗户",
+			"微软"
+		],
+		"xbox": [
+			"xbox"
+		],
+		"xing": [
+			"xing"
+		],
+		"youtube": [
+			"优兔",
+			"油管"
+		],
+		"zcool": [
+			"zcool",
+			"站酷"
+		],
+		"zhihu": [
+			"知乎"
 		]
 	},
 	"Map": {
@@ -3787,6 +4078,9 @@
 		"motorbike": [
 			"摩托车"
 		],
+		"caravan": [
+			"房车"
+		],
 		"walk": [
 			"步行"
 		],
@@ -3872,6 +4166,34 @@
 		"passport": [
 			"passports",
 			"护照"
+		],
+		"suitcase": [
+			"travel",
+			"旅行",
+			"行李箱"
+		],
+		"suitcase-2": [
+			"travel",
+			"旅行",
+			"行李箱",
+			"拉杆箱"
+		],
+		"suitcase-3": [
+			"travel",
+			"旅行",
+			"boarding case",
+			"行李箱",
+			"拉杆箱",
+			"登机箱"
+		],
+		"luggage-deposit": [
+			"consignment",
+			"行李箱",
+			"行李寄存",
+			"托运"
+		],
+		"luggage-cart": [
+			"行李车"
 		]
 	},
 	"Media": {
@@ -3963,6 +4285,27 @@
 			"摄影机",
 			"视频",
 			"直播"
+		],
+		"video-add": [
+			"camera",
+			"摄像机",
+			"摄影机",
+			"视频",
+			"添加"
+		],
+		"video-upload": [
+			"camera",
+			"摄像机",
+			"摄影机",
+			"视频",
+			"上传"
+		],
+		"video-download": [
+			"camera",
+			"摄像机",
+			"摄影机",
+			"视频",
+			"下载"
 		],
 		"dv": [
 			"vidicon",
@@ -4856,10 +5199,6 @@
 			"登出",
 			"注销"
 		],
-		"shut-down": [
-			"power off",
-			"关机"
-		],
 		"refresh": [
 			"synchronization",
 			"reload",
@@ -4870,11 +5209,6 @@
 			"update",
 			"刷新",
 			"同步"
-		],
-		"restart": [
-			"reload",
-			"refresh",
-			"重启"
 		],
 		"shield": [
 			"safety",
@@ -5121,40 +5455,6 @@
 		"side-bar": [
 			"侧边栏"
 		],
-		"rss": [
-			"feed",
-			"subscribe",
-			"订阅"
-		],
-		"scan": [
-			"扫描"
-		],
-		"scan-2": [
-			"扫描"
-		],
-		"bluetooth": [
-			"wireless",
-			"蓝牙",
-			"无线"
-		],
-		"bluetooth-connect": [
-			"wireless",
-			"蓝牙",
-			"连接",
-			"无线"
-		],
-		"wifi": [
-			"无线网"
-		],
-		"wifi-off": [
-			"slash",
-			"offline",
-			"connection-fail",
-			"无线网",
-			"关闭",
-			"断网",
-			"链接失败"
-		],
 		"time": [
 			"clock",
 			"时间",
@@ -5183,21 +5483,12 @@
 		"alarm": [
 			"闹钟"
 		],
-		"qr-code": [
-			"二维码"
-		],
-		"qr-scan": [
-			"二维码",
-			"扫描"
-		],
-		"qr-scan-2": [
-			"二维码",
-			"扫描"
-		],
-		"gps": [
-			"signal",
-			"定位",
-			"信号"
+		"history": [
+			"record",
+			"recent",
+			"time machine",
+			"历史记录",
+			"最近"
 		],
 		"thumb-down": [
 			"dislike",
@@ -5223,29 +5514,6 @@
 			"red dot",
 			"通知",
 			"小红点"
-		],
-		"base-station": [
-			"wifi",
-			"signal tower",
-			"router",
-			"cast",
-			"基站",
-			"信号塔",
-			"路由器",
-			"广播",
-			"流量"
-		],
-		"barcode": [
-			"scan",
-			"扫码",
-			"条形码",
-			"条码"
-		],
-		"barcode-box": [
-			"scan",
-			"扫码",
-			"条形码",
-			"条码"
 		],
 		"toggle": [
 			"switch",
@@ -5319,15 +5587,6 @@
 		],
 		"external-link": [
 			"外链"
-		],
-		"fingerprint": [
-			"指纹"
-		],
-		"fingerprint-2": [
-			"指纹"
-		],
-		"rotate-lock": [
-			"锁定旋转屏幕"
 		]
 	},
 	"User&Faces": {
@@ -5923,6 +6182,40 @@
 		"voice-recognition": [
 			"asr",
 			"语音识别"
+		],
+		"leaf": [
+			"energy",
+			"ecology",
+			"树叶",
+			"节能",
+			"环保",
+			"语音识别"
+		],
+		"plant": [
+			"植物"
+		],
+		"recycle": [
+			"recyclable",
+			"可回收"
+		],
+		"scales": [
+			"balance",
+			"称",
+			"天平",
+			"天秤"
+		],
+		"scales-2": [
+			"厨房称"
+		],
+		"fridge": [
+			"refrigerator",
+			"电冰箱"
+		],
+		"wheelchair": [
+			"accessbility",
+			"轮椅",
+			"可访问性",
+			"辅助功能"
 		]
 	}
 }
