@@ -727,6 +727,11 @@
 		],
 		"reply": [
 			"forward",
+			"回复全部",
+			"回复所有"
+		],
+		"reply-all": [
+			"forward",
 			"回复",
 			"答复",
 			"留言",
@@ -842,6 +847,9 @@
 			"ad",
 			"广告",
 			"推广"
+		],
+		"copyleft": [
+			"著佐权"
 		],
 		"copyright": [
 			"版权"
@@ -1166,7 +1174,16 @@
 			"圆珠笔"
 		],
 		"quill-pen": [
-			"羽毛笔"
+			"羽毛笔",
+			"钢笔",
+			"编辑"
+		],
+		"pen-nib": [
+			"钢笔",
+			"笔尖"
+		],
+		"ink-bottle": [
+			"墨水瓶"
 		],
 		"mark-pen": [
 			"马克笔"
@@ -1174,10 +1191,6 @@
 		"markup": [
 			"标记",
 			"马克"
-		],
-		"pen-nib": [
-			"钢笔",
-			"笔尖"
 		],
 		"edit-box": [
 			"编辑"
@@ -1536,6 +1549,11 @@
 			"网格"
 		],
 		"layout-masonry": [
+			"collage",
+			"瀑布流布局",
+			"拼贴画"
+		],
+		"collage": [
 			"瀑布流布局",
 			"拼贴画"
 		],
@@ -2004,6 +2022,15 @@
 			"flash",
 			"无线充电",
 			"闪充"
+		],
+		"dashboard-2": [
+			"仪表盘"
+		],
+		"dashboard-3": [
+			"仪表盘"
+		],
+		"usb": [
+			"优盘"
 		]
 	},
 	"Document": {
@@ -2054,6 +2081,12 @@
 			"便利贴"
 		],
 		"file-edit": [
+			"文件",
+			"文档",
+			"编辑"
+		],
+		"draft": [
+			"草稿箱",
 			"文件",
 			"文档",
 			"编辑"
@@ -2865,6 +2898,9 @@
 			"*",
 			"星号"
 		],
+		"question-mark": [
+			"问号"
+		],
 		"translate": [
 			"translator",
 			"翻译"
@@ -2974,6 +3010,85 @@
 			"arrange",
 			"层级",
 			"移到最后面"
+		],
+		"h-1": [
+			"heading",
+			"一级标题"
+		],
+		"h-2": [
+			"heading",
+			"一级标题"
+		],
+		"h-3": [
+			"heading",
+			"一级标题"
+		],
+		"h-4": [
+			"heading",
+			"一级标题"
+		],
+		"h-5": [
+			"heading",
+			"一级标题"
+		],
+		"h-6": [
+			"heading",
+			"一级标题"
+		],
+		"insert-column-left": [
+			"添加列",
+			"左侧"
+		],
+		"insert-column-right": [
+			"添加列",
+			"右侧"
+		],
+		"insert-row-top": [
+			"添加行",
+			"顶部"
+		],
+		"insert-row-bottom": [
+			"添加行",
+			"底部"
+		],
+		"delete-column": [
+			"删除列",
+			"底部"
+		],
+		"delete-row": [
+			"添加行",
+			"底部"
+		],
+		"merge-cells-horizontal": [
+			"合并单元格"
+		],
+		"merge-cells-vertical": [
+			"合并单元格"
+		],
+		"split-cells-horizontal": [
+			"拆分单元格"
+		],
+		"split-cells-vertical": [
+			"拆分单元格"
+		],
+		"flow-chart": [
+			"流程图"
+		],
+		"mind-map": [
+			"mindmap",
+			"脑图",
+			"思维导图"
+		],
+		"node-tree": [
+			"节点",
+			"层级关系图"
+		],
+		"organization-chart": [
+			"组织架构图",
+			"局域网"
+		],
+		"rounded-corner": [
+			"圆角"
 		]
 	},
 	"Finance": {
@@ -3394,6 +3509,169 @@
 			"捐赠",
 			"志愿者",
 			"公益"
+		],
+		"24-hours": [
+			"last",
+			"24小时营业"
+		]
+	},
+	"Health & Medical": {
+		"heart": [
+			"like",
+			"love",
+			"favorite",
+			"心",
+			"喜欢",
+			"爱",
+			"收藏"
+		],
+		"heart-2": [
+			"like",
+			"love",
+			"favorite",
+			"心",
+			"喜欢",
+			"爱",
+			"收藏"
+		],
+		"heart-3": [
+			"like",
+			"love",
+			"favorite",
+			"心",
+			"喜欢",
+			"爱",
+			"收藏"
+		],
+		"heart-add": [
+			"like",
+			"love",
+			"favorite",
+			"心",
+			"喜欢",
+			"爱",
+			"收藏"
+		],
+		"dislike": [
+			"like",
+			"love",
+			"remove favorite",
+			"心",
+			"不喜欢",
+			"取消收藏"
+		],
+		"hearts": [
+			"romance",
+			"爱情",
+			"浪漫",
+			"心"
+		],
+		"heart-pulse": [
+			"heart rate",
+			"脉搏",
+			"心率"
+		],
+		"pulse": [
+			"wave",
+			"heart rate",
+			"脉搏",
+			"心率",
+			"波"
+		],
+		"empathize": [
+			"care",
+			"heart",
+			"同理心",
+			"关爱",
+			"心"
+		],
+		"nurse": [
+			"doctors",
+			"医生",
+			"护士"
+		],
+		"dossier": [
+			"病例"
+		],
+		"health-book": [
+			"健康手册",
+			"医疗手册"
+		],
+		"first-aid-kit": [
+			"case",
+			"急救箱"
+		],
+		"capsule": [
+			"medicine",
+			" 胶囊",
+			"药"
+		],
+		"medicine-bottle": [
+			"药瓶"
+		],
+		"flask": [
+			"testing",
+			"experimental",
+			"experiment",
+			"烧瓶",
+			"实验",
+			"试验"
+		],
+		"test-tube": [
+			"testing",
+			"experimental",
+			"experiment",
+			"试管",
+			"实验",
+			"试验"
+		],
+		"microscope": [
+			"testing",
+			"experimental",
+			"experiment",
+			"显微镜",
+			"实验",
+			"试验"
+		],
+		"hand-sanitizer": [
+			"alcohol",
+			"酒精消毒洗手液"
+		],
+		"mental-health": [
+			"心理健康"
+		],
+		"psychotherapy": [
+			"心理治疗"
+		],
+		"stethoscope": [
+			"听诊器"
+		],
+		"syringe": [
+			"注射器"
+		],
+		"thermometer": [
+			"体温计"
+		],
+		"infrared-thermometer": [
+			"红外线体温计",
+			"体温枪"
+		],
+		"surgical-mask": [
+			"外科医用口罩"
+		],
+		"virus": [
+			"病毒"
+		],
+		"lungs": [
+			"肺部"
+		],
+		"rest-time": [
+			"close",
+			"休息时间",
+			"打烊"
+		],
+		"zzz": [
+			"睡觉"
 		]
 	},
 	"Logos": {
@@ -3487,6 +3765,10 @@
 		"facebook-box": [
 			"脸书"
 		],
+		"finder": [
+			"macintosh",
+			"仿达"
+		],
 		"firefox": [
 			"火狐浏览器"
 		],
@@ -3551,6 +3833,11 @@
 			"facebook",
 			"脸书",
 			"信使"
+		],
+		"microsoft": [
+			"windows",
+			"窗户",
+			"微软"
 		],
 		"mini-program": [
 			"微信小程序"
@@ -3678,6 +3965,9 @@
 		],
 		"unsplash": [
 			"photos"
+		],
+		"vimeo": [
+			"视频"
 		],
 		"visa": [
 			"bank card",
@@ -4216,6 +4506,13 @@
 			"照片",
 			"添加"
 		],
+		"image-edit": [
+			"picture",
+			"photo",
+			"图片",
+			"照片",
+			"编辑"
+		],
 		"landscape": [
 			"picture",
 			"image",
@@ -4628,6 +4925,9 @@
 		"play-list": [
 			"播放列表"
 		],
+		"play-list-2": [
+			"播放列表"
+		],
 		"play-list-add": [
 			"列表",
 			"添加"
@@ -4684,6 +4984,9 @@
 			"高清晰度",
 			"高品质",
 			"超清"
+		],
+		"closed-captioning": [
+			"隐藏字幕"
 		],
 		"aspect-ratio": [
 			"宽高比",
@@ -4761,6 +5064,14 @@
 			"汉堡包",
 			"添加"
 		],
+		"menu-fold": [
+			"navigation",
+			"hamburger",
+			"导航",
+			"菜单",
+			"汉堡包",
+			"展开"
+		],
 		"more": [
 			"ellipsis",
 			"更多",
@@ -4770,34 +5081,6 @@
 			"ellipsis",
 			"更多",
 			"省略"
-		],
-		"heart": [
-			"like",
-			"love",
-			"favorite",
-			"心",
-			"喜欢",
-			"爱",
-			"收藏"
-		],
-		"heart-2": [
-			"public welfare",
-			"like",
-			"love",
-			"favorite",
-			"心",
-			"喜欢",
-			"爱",
-			"收藏"
-		],
-		"heart-add": [
-			"like",
-			"love",
-			"favorite",
-			"心",
-			"喜欢",
-			"爱",
-			"收藏"
 		],
 		"star": [
 			"favorite",
@@ -5039,6 +5322,7 @@
 			"右上"
 		],
 		"arrow-right": [
+			"forward",
 			"箭头",
 			"向右"
 		],
@@ -5056,6 +5340,7 @@
 			"左下"
 		],
 		"arrow-left": [
+			"backward",
 			"箭头",
 			"向左",
 			"返回"
@@ -5065,6 +5350,7 @@
 			"向上"
 		],
 		"arrow-right-circle": [
+			"forward",
 			"箭头",
 			"向右"
 		],
@@ -5074,6 +5360,7 @@
 			"下载"
 		],
 		"arrow-left-circle": [
+			"backward",
 			"箭头",
 			"向左",
 			"返回"
@@ -5087,10 +5374,12 @@
 			"向下"
 		],
 		"arrow-right-s": [
+			"forward",
 			"箭头",
 			"向右"
 		],
 		"arrow-left-s": [
+			"backward",
 			"箭头",
 			"向左",
 			"返回"
@@ -5100,6 +5389,7 @@
 			"向上"
 		],
 		"arrow-drop-right": [
+			"forward",
 			"箭头",
 			"向右"
 		],
@@ -5108,6 +5398,7 @@
 			"向下"
 		],
 		"arrow-drop-left": [
+			"backward",
 			"箭头",
 			"向左",
 			"返回"
@@ -5264,6 +5555,14 @@
 			"安全",
 			"防御",
 			"钥匙孔"
+		],
+		"shield-check": [
+			"safety",
+			"protect",
+			"盾牌",
+			"卫士",
+			"安全",
+			"防御"
 		],
 		"delete-back": [
 			"backspace",
@@ -5535,6 +5834,12 @@
 			"筛选",
 			"过滤"
 		],
+		"filter-off": [
+			"filtration",
+			"clear-filter",
+			"筛选",
+			"过滤"
+		],
 		"loader": [
 			"loader",
 			"spinner",
@@ -5764,15 +6069,15 @@
 		],
 		"men": [
 			"gender",
-			"male",
 			"man",
+			"male",
 			"男人",
 			"男性"
 		],
 		"women": [
 			"gender",
-			"female",
 			"woman",
+			"female",
 			"女人",
 			"女性"
 		],
@@ -6054,14 +6359,6 @@
 		"door-lock-box": [
 			"门锁"
 		],
-		"flask": [
-			"testing",
-			"experimental",
-			"experiment",
-			"烧瓶",
-			"实验",
-			"试验"
-		],
 		"football": [
 			"sports",
 			"运动",
@@ -6077,12 +6374,6 @@
 			"时尚",
 			"手提包",
 			"女包"
-		],
-		"hearts": [
-			"romance",
-			"爱情",
-			"浪漫",
-			"心"
 		],
 		"key": [
 			"password",
@@ -6194,6 +6485,10 @@
 		"plant": [
 			"植物"
 		],
+		"seedling": [
+			"树苗",
+			"植物"
+		],
 		"recycle": [
 			"recyclable",
 			"可回收"
@@ -6207,6 +6502,12 @@
 		"scales-2": [
 			"厨房称"
 		],
+		"scales-3": [
+			"balance",
+			"称",
+			"天平",
+			"天秤"
+		],
 		"fridge": [
 			"refrigerator",
 			"电冰箱"
@@ -6216,6 +6517,20 @@
 			"轮椅",
 			"可访问性",
 			"辅助功能"
+		],
+		"cactus": [
+			"desertr",
+			"仙人掌",
+			"沙漠"
+		],
+		"door": [
+			"门"
+		],
+		"door-open": [
+			"开门"
+		],
+		"door-closed": [
+			"关门"
 		]
 	}
 }
