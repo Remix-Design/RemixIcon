@@ -163,6 +163,7 @@
 			"shop",
 			"mall",
 			"supermarket",
+			"retail",
 			"商店",
 			"超市",
 			"店铺",
@@ -172,6 +173,7 @@
 			"shop",
 			"mall",
 			"supermarket",
+			"retail",
 			"商店",
 			"超市",
 			"店铺",
@@ -181,6 +183,7 @@
 			"shop",
 			"mall",
 			"supermarket",
+			"retail",
 			"商店",
 			"超市",
 			"店铺",
@@ -241,6 +244,8 @@
 			"envelope",
 			"email",
 			"inbox",
+			"zoom",
+			"whoosh",
 			"信封",
 			"邮箱",
 			"邮件",
@@ -346,6 +351,7 @@
 			"promotional email",
 			"email campaign",
 			"subscription",
+			"sound",
 			"信封",
 			"邮箱",
 			"邮件",
@@ -488,6 +494,7 @@
 			"data",
 			"analysis",
 			"statistics",
+			"circles",
 			"气泡图",
 			"统计"
 		],
@@ -518,6 +525,8 @@
 		"donut-chart": [
 			"data",
 			"analysis",
+			"circle",
+			"pie",
 			"环形图",
 			"数据",
 			"分析"
@@ -656,6 +665,8 @@
 		],
 		"customer-service": [
 			"headset",
+			"headphones",
+			"earphones",
 			"客服",
 			"售后",
 			"耳机",
@@ -663,6 +674,9 @@
 		],
 		"customer-service-2": [
 			"headset",
+			"headphones",
+			"earphones",
+			"smile",
 			"客服",
 			"售后",
 			"耳机",
@@ -714,6 +728,7 @@
 			"打印机"
 		],
 		"printer-cloud": [
+			"network",
 			"打印机",
 			"云打印"
 		],
@@ -830,6 +845,7 @@
 			"heart",
 			"handshake",
 			"cooperation",
+			"client",
 			"服务",
 			"握手",
 			"心",
@@ -1429,6 +1445,7 @@
 			"fantasy",
 			"magic stick",
 			"beautify",
+			"wand",
 			"魔法棒",
 			"美化",
 			"幻想",
@@ -1437,12 +1454,14 @@
 		"anticlockwise": [
 			"rotate",
 			"left",
+			"counterclockwise",
 			"左翻转",
 			"左旋转"
 		],
 		"anticlockwise-2": [
 			"rotate",
 			"left",
+			"counterclockwise",
 			"左翻转",
 			"左旋转"
 		],
@@ -1459,10 +1478,13 @@
 			"右旋转"
 		],
 		"hammer": [
+			"tool",
 			"锤子"
 		],
 		"tools": [
 			"settings",
+			"screwdriver",
+			"configuration",
 			"工具",
 			"设置"
 		],
@@ -1589,6 +1611,7 @@
 		"terminal-box": [
 			"code",
 			"command line",
+			"prompt",
 			"终端",
 			"代码",
 			"命令行"
@@ -1596,6 +1619,7 @@
 		"terminal": [
 			"code",
 			"command line",
+			"prompt",
 			"终端",
 			"代码",
 			"命令行"
@@ -1603,6 +1627,9 @@
 		"terminal-window": [
 			"code",
 			"command line",
+			"browser",
+			"app",
+			"ui",
 			"终端",
 			"代码",
 			"命令行"
@@ -1625,66 +1652,108 @@
 		],
 		"command": [
 			"apple key",
+			"place of interest",
+			"modified key",
 			"花键",
 			"苹果键"
 		],
 		"cursor": [
 			"mouse",
+			"pointer",
+			"arrow",
 			"指针",
 			"鼠标"
 		],
 		"git-commit": [
 			"node",
+			"onewheel",
+			"circle line",
+			"dot line",
+			"history point",
 			"提交"
 		],
 		"git-pull-request": [
 			"合并申请"
 		],
 		"git-merge": [
+			"combine",
+			"unite",
+			"branch",
+			"split",
+			"fork",
+			"diverge",
 			"合并"
 		],
 		"git-branch": [
+			"combine",
+			"unite",
+			"split",
+			"fork",
+			"diverge",
 			"分支"
 		],
 		"git-repository": [
+			"book",
+			"bookmark",
 			"仓库"
 		],
 		"git-repository-commits": [
+			"book",
+			"upload",
 			"仓库",
 			"提交"
 		],
 		"git-repository-private": [
+			"lock",
+			"secure",
 			"私密仓库",
 			"私人仓库"
 		],
 		"html5": [
 			"html",
-			"h5"
+			"h5",
+			"web"
 		],
 		"css3": [
-			"css"
+			"css",
+			"web",
+			"styles",
 		]
 	},
 	"Device": {
 		"tv": [
+			"television",
+			"antenna",
+			"rabbet ears",
 			"电视"
 		],
 		"tv-2": [
 			"monitor",
+			"display",
+			"screen",
+			"television",
 			"电视",
 			"显示器"
 		],
 		"computer": [
+			"pc",
 			"monitor",
+			"display",
+			"screen",
 			"电脑",
 			"显示器"
 		],
 		"mac": [
 			"monitor",
+			"imac",
+			"display",
+			"computer",
+			"screen",
 			"显示器"
 		],
 		"macbook": [
 			"laptop",
+			"computer",
 			"笔记本"
 		],
 		"cellphone": [
@@ -1706,11 +1775,17 @@
 		],
 		"database": [
 			"storage",
+			"resource",
+			"bars",
+			"progress",
 			"数据库",
 			"存储"
 		],
 		"database-2": [
 			"storage",
+			"discs",
+			"silo",
+			"platter",
 			"数据库",
 			"存储"
 		],
@@ -2145,12 +2220,23 @@
 		"survey": [
 			"research",
 			"questionnaire",
+			"clipboard",
+			"checkboxes",
+			"form",
+			"census",
 			"调查",
 			"问卷",
 			"调研"
 		],
 		"article": [
 			"newspaper",
+			"document",
+			"publisher",
+			"print",
+			"page",
+			"word",
+			"file",
+			"publication",
 			"文章",
 			"报纸"
 		],
@@ -2297,50 +2383,78 @@
 			"表格"
 		],
 		"pages": [
+			"website",
+			"browser",
+			"ui",
+			"blocks",
+			"prototype",
 			"文稿"
 		],
 		"file-search": [
+			
 			"文件",
 			"文档",
 			"搜索"
 		],
 		"file-add": [
+			"page",
+			"document",
 			"new",
+			"plus",
+			"add",
 			"文件",
 			"文档",
 			"新建"
 		],
 		"file-reduce": [
+			"page",
+			"document",
+			"subtract",
+			"delete",
 			"文件",
 			"文档",
 			"减"
 		],
 		"file-settings": [
+			"page",
+			"document",
+			"cog",
+			"gear",
 			"文件",
 			"文档",
 			"设置"
 		],
 		"file-upload": [
+			"page",
+			"document",
 			"文件",
 			"文档",
 			"上传"
 		],
 		"file-transfer": [
+			"page",
+			"document",
 			"文件",
 			"文档",
 			"传输"
 		],
 		"file-download": [
+			"page",
+			"document",
 			"文件",
 			"文档",
 			"下载"
 		],
 		"file-lock": [
+			"page",
+			"document",
 			"文件",
 			"文档",
 			"锁"
 		],
 		"file-chart": [
+			"page",
+			"document",
 			"report",
 			"文件",
 			"文档",
@@ -2375,7 +2489,13 @@
 			"信息"
 		],
 		"file-warning": [
+			"page",
+			"document",
+			"paper",
+			"!",
 			"alert",
+			"important",
+			"exclamation",
 			"文件",
 			"文档",
 			"警告",
@@ -2413,6 +2533,7 @@
 		"file-damage": [
 			"breakdown",
 			"broken",
+			"corrupt",
 			"文件",
 			"文档",
 			"损坏",
@@ -2438,6 +2559,7 @@
 			"粉碎"
 		],
 		"file-cloud": [
+			"network",
 			"文件",
 			"文档",
 			"云"
@@ -2496,6 +2618,8 @@
 		"folder-reduce": [
 			"directory",
 			"file",
+			"remove",
+			"subtract",
 			"文件夹",
 			"目录",
 			"文档",
@@ -2560,6 +2684,8 @@
 		"folder-music": [
 			"directory",
 			"file",
+			"audio",
+			"sound",
 			"文件夹",
 			"目录",
 			"文档",
@@ -2582,6 +2708,10 @@
 			"信息"
 		],
 		"folder-warning": [
+			"!",
+			"alert",
+			"important",
+			"exclamation",
 			"alert",
 			"directory",
 			"file",
@@ -2725,10 +2855,12 @@
 		],
 		"strikethrough": [
 			"remove formatting",
+			"del",
 			"删除线"
 		],
 		"strikethrough-2": [
 			"remove formatting",
+			"del"
 			"删除线"
 		],
 		"format-clear": [
@@ -2736,24 +2868,40 @@
 			"清除格式"
 		],
 		"align-left": [
+			"ragged right",
 			"左对齐"
 		],
 		"align-center": [
 			"居中对齐"
 		],
 		"align-right": [
+			"ragged left",
 			"右对齐"
 		],
 		"align-justify": [
+			"four",
+			"lines",
+			"ruled",
+			"left-right",
+			"full width",
 			"排列对齐"
 		],
 		"align-top": [
+			"two arrows up",
+			"double-up",
+			"start",
 			"顶部对齐"
 		],
 		"align-vertically": [
+			"centered",
+			"middle",
+			"balance",
 			"垂直对齐"
 		],
 		"align-bottom": [
+			"two arrows down",
+			"double-down",
+			"end"
 			"底部对齐"
 		],
 		"list-check": [
@@ -2774,19 +2922,27 @@
 		],
 		"indent-decrease": [
 			"indent more",
+			"quote",
 			"缩进"
 		],
 		"indent-increase": [
 			"indent less",
+			"quote",
 			"缩进"
 		],
 		"line-height": [
+			"leading",
 			"行高"
 		],
 		"text-spacing": [
+			"letter spacing",
+			"character spacing",
+			"kerning",
+			"tracking",
 			"字间距"
 		],
 		"text-wrap": [
+			"return",
 			"文本换行"
 		],
 		"attachment-2": [
@@ -2875,6 +3031,8 @@
 			"上标"
 		],
 		"paragraph": [
+			"¶",
+			"pilcrow",
 			"段落"
 		],
 		"text-direction-l": [
@@ -2884,21 +3042,31 @@
 			"文本左对齐"
 		],
 		"functions": [
+			"Σ",
+			"sum",
+			"sigma",
 			"功能"
 		],
 		"omega": [
 			"Ω",
+			"horseshoe",
 			"特殊符号"
 		],
 		"hashtag": [
 			"#",
+			"pound",
+			"number",
 			"井号"
 		],
 		"asterisk": [
 			"*",
+			"all",
+			"everything",
+			"wildcard",
 			"星号"
 		],
 		"question-mark": [
+			"?",
 			"问号"
 		],
 		"translate": [
@@ -2912,6 +3080,8 @@
 		"a-b": [
 			"a/b testing",
 			"ab testing",
+			"split test",
+			"either-or",
 			"ab测试"
 		],
 		"english-input": [
@@ -3093,14 +3263,17 @@
 	},
 	"Finance": {
 		"wallet": [
+			"pocketbook",
 			"钱包",
 			"卡包"
 		],
 		"wallet-2": [
+			"money clip",
 			"钱包",
 			"卡包"
 		],
 		"wallet-3": [
+			"money clip",
 			"钱包",
 			"卡包"
 		],
@@ -3153,10 +3326,15 @@
 			"信用卡还款"
 		],
 		"safe": [
+			"vault",
+			"secure",
 			"保险柜",
 			"保险箱"
 		],
 		"safe-2": [
+			"vault",
+			"insecure",
+			"unlocked",
 			"保险柜",
 			"保险箱"
 		],
@@ -5184,7 +5362,11 @@
 			"信息"
 		],
 		"error-warning": [
+			"!",
 			"alert",
+			"important",
+			"alert",
+			"exclamation",
 			"警告",
 			"错误"
 		],
@@ -5366,39 +5548,55 @@
 			"返回"
 		],
 		"arrow-up-s": [
+			"chevron",
+			"^",
 			"箭头",
 			"向上"
 		],
 		"arrow-down-s": [
+			"chevron",
+			"⌄",
 			"箭头",
 			"向下"
 		],
 		"arrow-right-s": [
+			"chevron",
 			"forward",
+			">",
 			"箭头",
 			"向右"
 		],
 		"arrow-left-s": [
+			"chevron",
 			"backward",
+			"<",
 			"箭头",
 			"向左",
 			"返回"
 		],
 		"arrow-drop-up": [
+			"chevron",
+			"^",
 			"箭头",
 			"向上"
 		],
 		"arrow-drop-right": [
+			"chevron",
 			"forward",
+			">",
 			"箭头",
 			"向右"
 		],
 		"arrow-drop-down": [
+			"chevron",
+			"⌄",
 			"箭头",
 			"向下"
 		],
 		"arrow-drop-left": [
+			"chevron",
 			"backward",
+			"<",
 			"箭头",
 			"向左",
 			"返回"
