@@ -5896,103 +5896,151 @@
 	},
 	"User&Faces": {
 		"user": [
-			"用户"
+			"用户",
+			"person",
+			"people"
 		],
 		"user-2": [
-			"用户"
+			"用户",
+			"person",
+			"people"
 		],
 		"user-3": [
-			"用户"
+			"用户",
+			"person",
+			"people"
 		],
 		"user-4": [
-			"用户"
+			"用户",
+			"person",
+			"people"
 		],
 		"user-5": [
-			"用户"
+			"用户",
+			"person",
+			"people"
 		],
 		"user-6": [
-			"用户"
+			"用户",
+			"person",
+			"people"
 		],
 		"user-smile": [
 			"用户",
-			"微笑"
+			"微笑",
+			"person",
+			"people"
 		],
 		"account-box": [
 			"用户",
-			"账户"
+			"账户",
+			"person",
+			"people"
 		],
 		"account-circle": [
 			"用户",
-			"账户"
+			"账户",
+			"person",
+			"people"
 		],
 		"account-pin-box": [
 			"用户",
-			"账户"
+			"账户",
+			"person",
+			"people"
 		],
 		"account-pin-circle": [
 			"用户",
-			"账户"
+			"账户",
+			"person",
+			"people"
 		],
 		"user-add": [
 			"用户",
 			"添加",
-			"新增"
+			"新增",
+			"person",
+			"people"
 		],
 		"user-follow": [
-			"关注"
+			"关注",
+			"person",
+			"people"
 		],
 		"user-unfollow": [
 			"用户",
-			"取消关注"
+			"取消关注",
+			"person",
+			"people"
 		],
 		"user-shared": [
 			"transfer",
 			"用户",
 			"我分享的",
-			"发送"
+			"发送",
+			"person",
+			"people"
 		],
 		"user-shared-2": [
 			"transfer",
 			"用户",
 			"我分享的",
-			"发送"
+			"发送",
+			"person",
+			"people"
 		],
 		"user-received": [
 			"用户",
 			"我接收的",
-			"收取"
+			"收取",
+			"person",
+			"people"
 		],
 		"user-received-2": [
 			"用户",
 			"我接收的",
-			"收取"
+			"收取",
+			"person",
+			"people"
 		],
 		"user-location": [
 			"用户",
-			"定位"
+			"定位",
+			"person",
+			"people"
 		],
 		"user-search": [
 			"用户",
-			"查找"
+			"查找",
+			"person",
+			"people"
 		],
 		"user-settings": [
 			"admin",
 			"用户",
 			"设置",
-			"管理员"
+			"管理员",
+			"person",
+			"people"
 		],
 		"user-star": [
 			"用户",
-			"关注"
+			"关注",
+			"person",
+			"people"
 		],
 		"user-heart": [
 			"用户",
-			"关注"
+			"关注",
+			"person",
+			"people"
 		],
 		"admin": [
 			"admin",
 			"用户",
-			"管理员"
+			"管理员",
+			"person",
+			"people"
 		],
 		"contacts": [
 			"联系人"
@@ -6000,17 +6048,23 @@
 		"group": [
 			"team",
 			"团队",
-			"群组"
+			"群组",
+			"person",
+			"people"
 		],
 		"group-2": [
 			"team",
 			"团队",
-			"群组"
+			"群组",
+			"person",
+			"people"
 		],
 		"team": [
 			"团队",
 			"小组",
-			"群主"
+			"群主",
+			"person",
+			"people"
 		],
 		"user-voice": [
 			"用户",
