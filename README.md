@@ -101,7 +101,7 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.5.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Download [`remixicon.symbol.svg`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
