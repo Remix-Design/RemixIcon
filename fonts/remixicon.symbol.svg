@@ -1904,7 +1904,7 @@
 </symbol><symbol viewBox="0 0 24 24" id="ri-checkbox-blank-circle-fill">
     <g>
         <path fill="none" d="M0 0h24v24H0z"/>
-        <circle cx="12" cy="12" r="10"/>
+        <path d="M2,12a10,10 0 1,0 20,0a10,10 0 1,0 -20,0"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-checkbox-blank-circle-line">
     <g>
