@@ -1717,7 +1717,7 @@
 		"css3": [
 			"css",
 			"web",
-			"styles",
+			"styles"
 		]
 	},
 	"Device": {
@@ -2860,7 +2860,7 @@
 		],
 		"strikethrough-2": [
 			"remove formatting",
-			"del"
+			"del",
 			"删除线"
 		],
 		"format-clear": [
@@ -2901,7 +2901,7 @@
 		"align-bottom": [
 			"two arrows down",
 			"double-down",
-			"end"
+			"end",
 			"底部对齐"
 		],
 		"list-check": [
