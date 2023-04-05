@@ -1,5 +1,5 @@
 /*
-* Remix Icon v3.1.0
+* Remix Icon v3.0.1
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
@@ -10,12 +10,12 @@
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1680703320261'); /* IE9*/
-  src: url('remixicon.eot?t=1680703320261#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1680703320261") format("woff2"),
-  url("remixicon.woff?t=1680703320261") format("woff"),
-  url('remixicon.ttf?t=1680703320261') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1680703320261#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1680702526490'); /* IE9*/
+  src: url('remixicon.eot?t=1680702526490#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1680702526490") format("woff2"),
+  url("remixicon.woff?t=1680702526490") format("woff"),
+  url('remixicon.ttf?t=1680702526490') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1680702526490#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
