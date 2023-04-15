@@ -3,8 +3,7 @@
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![](https://data.jsdelivr.com/v1/package/npm/remixicon/badge)](https://www.jsdelivr.com/package/npm/remixicon)
-[![spectrum](https://img.shields.io/badge/沟通-Spectrum-7028F5.svg?labelColor=4A4A4A&style=flat-square)](https://spectrum.chat/remixdesign/remixicon)
-[![donate](https://img.shields.io/badge/-赞助-DA6429.svg?style=flat-square)](https://remixicon.com/#donate)
+[![donate](https://img.shields.io/badge/-赞助-DA6429.svg?style=flat-square)](https://remixicon.com/support-us)
 
 [English](./README.md) | 简体中文
 
@@ -55,12 +54,10 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.0.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> ==**重要提醒**==：我们从 v2.2.0 版本开始将我们的 CDN 服务迁移到了 jsDelivr 上，之前的 CDN 链接将在2020年1月30日停止服务，请务必切换您的 CDN 为最新的服务链接，以免影响您的业务，对于由此带来的影响和不便，我们深感抱歉。
->
-> 上面 CDN 链接中的 `@3.0.0` 可以更改为任何我们曾经发布过的历史版本号。
+> 上面 CDN 链接中的 `@3.2.0` 可以更改为任何我们曾经发布过的历史版本号。
 
 #### 手动下载引入
 

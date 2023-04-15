@@ -3,8 +3,7 @@
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![](https://data.jsdelivr.com/v1/package/npm/remixicon/badge)](https://www.jsdelivr.com/package/npm/remixicon)
-[![spectrum](https://img.shields.io/badge/chat-Spectrum-7028F5.svg?labelColor=4A4A4A&style=flat-square)](https://spectrum.chat/remixdesign/remixicon)
-[![donate](https://img.shields.io/badge/-Donate-DA6429.svg?style=flat-square)](https://remixicon.com/#donate)
+[![donate](https://img.shields.io/badge/-Donate-DA6429.svg?style=flat-square)](https://remixicon.com/support-us)
 
 English | [简体中文](./README_CN.md)
 
@@ -54,12 +53,10 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.0.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> ==**Important Note:**== We've changed our CDN service to jsDelivr from v2.2.0, and the previous CDN service will be terminated on Jan 30, 2020. Please replace your old CDN to the new link above so as not to affect your business. We apologize for the inconvenience.
->
-> The `@3.0.0` in the CDN link can be changed to any history version we've published.
+> The `@3.2.0` in the CDN link can be changed to any history version we've published.
 
 #### Download Manually
 
