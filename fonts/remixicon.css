@@ -1,21 +1,21 @@
 /*
-* Remix Icon v3.1.1
+* Remix Icon v3.2.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2023-04-07
+* Date: 2023-04-15
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1680703320261'); /* IE9*/
-  src: url('remixicon.eot?t=1680703320261#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1680703320261") format("woff2"),
-  url("remixicon.woff?t=1680703320261") format("woff"),
-  url('remixicon.ttf?t=1680703320261') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1680703320261#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1681573354175'); /* IE9*/
+  src: url('remixicon.eot?t=1681573354175#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1681573354175") format("woff2"),
+  url("remixicon.woff?t=1681573354175") format("woff"),
+  url('remixicon.ttf?t=1681573354175') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1681573354175#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2486,4 +2486,30 @@
 .ri-pass-pending-line:before { content: "\f389"; }
 .ri-pass-valid-fill:before { content: "\f38a"; }
 .ri-pass-valid-line:before { content: "\f38b"; }
+.ri-ai-generate:before { content: "\f38c"; }
+.ri-calendar-close-fill:before { content: "\f38d"; }
+.ri-calendar-close-line:before { content: "\f38e"; }
+.ri-draggable:before { content: "\f38f"; }
+.ri-font-family:before { content: "\f390"; }
+.ri-font-mono:before { content: "\f391"; }
+.ri-font-sans-serif:before { content: "\f392"; }
+.ri-font-sans:before { content: "\f393"; }
+.ri-hard-drive-3-fill:before { content: "\f394"; }
+.ri-hard-drive-3-line:before { content: "\f395"; }
+.ri-kick-fill:before { content: "\f396"; }
+.ri-kick-line:before { content: "\f397"; }
+.ri-list-check-3:before { content: "\f398"; }
+.ri-list-indefinite:before { content: "\f399"; }
+.ri-list-ordered-2:before { content: "\f39a"; }
+.ri-list-radio:before { content: "\f39b"; }
+.ri-openbase-fill:before { content: "\f39c"; }
+.ri-openbase-line:before { content: "\f39d"; }
+.ri-planet-fill:before { content: "\f39e"; }
+.ri-planet-line:before { content: "\f39f"; }
+.ri-prohibited-fill:before { content: "\f3a0"; }
+.ri-prohibited-line:before { content: "\f3a1"; }
+.ri-quote-text:before { content: "\f3a2"; }
+.ri-seo-fill:before { content: "\f3a3"; }
+.ri-seo-line:before { content: "\f3a4"; }
+.ri-slash-commands:before { content: "\f3a5"; }
 
