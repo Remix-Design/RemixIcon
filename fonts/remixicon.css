@@ -1,21 +1,21 @@
 /*
-* Remix Icon v3.2.0
+* Remix Icon v3.3.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2023-04-15
+* Date: 2023-05-17
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1681573354175'); /* IE9*/
-  src: url('remixicon.eot?t=1681573354175#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1681573354175") format("woff2"),
-  url("remixicon.woff?t=1681573354175") format("woff"),
-  url('remixicon.ttf?t=1681573354175') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1681573354175#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1684338274817'); /* IE9*/
+  src: url('remixicon.eot?t=1684338274817#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1684338274817") format("woff2"),
+  url("remixicon.woff?t=1684338274817") format("woff"),
+  url('remixicon.ttf?t=1684338274817') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1684338274817#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2512,4 +2512,16 @@
 .ri-seo-fill:before { content: "\f3a3"; }
 .ri-seo-line:before { content: "\f3a4"; }
 .ri-slash-commands:before { content: "\f3a5"; }
+.ri-archive-2-fill:before { content: "\f3a6"; }
+.ri-archive-2-line:before { content: "\f3a7"; }
+.ri-inbox-2-fill:before { content: "\f3a8"; }
+.ri-inbox-2-line:before { content: "\f3a9"; }
+.ri-shake-hands-fill:before { content: "\f3aa"; }
+.ri-shake-hands-line:before { content: "\f3ab"; }
+.ri-supabase-fill:before { content: "\f3ac"; }
+.ri-supabase-line:before { content: "\f3ad"; }
+.ri-water-percent-fill:before { content: "\f3ae"; }
+.ri-water-percent-line:before { content: "\f3af"; }
+.ri-yuque-fill:before { content: "\f3b0"; }
+.ri-yuque-line:before { content: "\f3b1"; }
 
