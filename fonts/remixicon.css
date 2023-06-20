@@ -1,21 +1,21 @@
 /*
-* Remix Icon v3.3.0
+* Remix Icon v3.4.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2023-05-17
+* Date: 2023-06-20
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1684338274817'); /* IE9*/
-  src: url('remixicon.eot?t=1684338274817#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1684338274817") format("woff2"),
-  url("remixicon.woff?t=1684338274817") format("woff"),
-  url('remixicon.ttf?t=1684338274817') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1684338274817#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1687271883607'); /* IE9*/
+  src: url('remixicon.eot?t=1687271883607#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1687271883607") format("woff2"),
+  url("remixicon.woff?t=1687271883607") format("woff"),
+  url('remixicon.ttf?t=1687271883607') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1687271883607#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2524,4 +2524,17 @@
 .ri-water-percent-line:before { content: "\f3af"; }
 .ri-yuque-fill:before { content: "\f3b0"; }
 .ri-yuque-line:before { content: "\f3b1"; }
+.ri-crosshair-2-fill:before { content: "\f3b2"; }
+.ri-crosshair-2-line:before { content: "\f3b3"; }
+.ri-crosshair-fill:before { content: "\f3b4"; }
+.ri-crosshair-line:before { content: "\f3b5"; }
+.ri-file-close-fill:before { content: "\f3b6"; }
+.ri-file-close-line:before { content: "\f3b7"; }
+.ri-infinity-fill:before { content: "\f3b8"; }
+.ri-infinity-line:before { content: "\f3b9"; }
+.ri-rfid-fill:before { content: "\f3ba"; }
+.ri-rfid-line:before { content: "\f3bb"; }
+.ri-slash-commands-2:before { content: "\f3bc"; }
+.ri-user-forbid-fill:before { content: "\f3bd"; }
+.ri-user-forbid-line:before { content: "\f3be"; }
 
