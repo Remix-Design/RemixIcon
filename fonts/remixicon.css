@@ -1,21 +1,21 @@
 /*
-* Remix Icon v3.4.0
+* Remix Icon v3.5.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2023-06-20
+* Date: 2023-07-30
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1687271883607'); /* IE9*/
-  src: url('remixicon.eot?t=1687271883607#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1687271883607") format("woff2"),
-  url("remixicon.woff?t=1687271883607") format("woff"),
-  url('remixicon.ttf?t=1687271883607') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1687271883607#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1690730386070'); /* IE9*/
+  src: url('remixicon.eot?t=1690730386070#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1690730386070") format("woff2"),
+  url("remixicon.woff?t=1690730386070") format("woff"),
+  url('remixicon.ttf?t=1690730386070') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1690730386070#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2537,4 +2537,47 @@
 .ri-slash-commands-2:before { content: "\f3bc"; }
 .ri-user-forbid-fill:before { content: "\f3bd"; }
 .ri-user-forbid-line:before { content: "\f3be"; }
+.ri-beer-fill:before { content: "\f3bf"; }
+.ri-beer-line:before { content: "\f3c0"; }
+.ri-circle-fill:before { content: "\f3c1"; }
+.ri-circle-line:before { content: "\f3c2"; }
+.ri-dropdown-list:before { content: "\f3c3"; }
+.ri-file-image-fill:before { content: "\f3c4"; }
+.ri-file-image-line:before { content: "\f3c5"; }
+.ri-file-pdf-2-fill:before { content: "\f3c6"; }
+.ri-file-pdf-2-line:before { content: "\f3c7"; }
+.ri-file-video-fill:before { content: "\f3c8"; }
+.ri-file-video-line:before { content: "\f3c9"; }
+.ri-folder-image-fill:before { content: "\f3ca"; }
+.ri-folder-image-line:before { content: "\f3cb"; }
+.ri-folder-video-fill:before { content: "\f3cc"; }
+.ri-folder-video-line:before { content: "\f3cd"; }
+.ri-hexagon-fill:before { content: "\f3ce"; }
+.ri-hexagon-line:before { content: "\f3cf"; }
+.ri-menu-search-fill:before { content: "\f3d0"; }
+.ri-menu-search-line:before { content: "\f3d1"; }
+.ri-octagon-fill:before { content: "\f3d2"; }
+.ri-octagon-line:before { content: "\f3d3"; }
+.ri-pentagon-fill:before { content: "\f3d4"; }
+.ri-pentagon-line:before { content: "\f3d5"; }
+.ri-rectangle-fill:before { content: "\f3d6"; }
+.ri-rectangle-line:before { content: "\f3d7"; }
+.ri-robot-2-fill:before { content: "\f3d8"; }
+.ri-robot-2-line:before { content: "\f3d9"; }
+.ri-shapes-fill:before { content: "\f3da"; }
+.ri-shapes-line:before { content: "\f3db"; }
+.ri-square-fill:before { content: "\f3dc"; }
+.ri-square-line:before { content: "\f3dd"; }
+.ri-tent-fill:before { content: "\f3de"; }
+.ri-tent-line:before { content: "\f3df"; }
+.ri-threads-fill:before { content: "\f3e0"; }
+.ri-threads-line:before { content: "\f3e1"; }
+.ri-tree-fill:before { content: "\f3e2"; }
+.ri-tree-line:before { content: "\f3e3"; }
+.ri-triangle-fill:before { content: "\f3e4"; }
+.ri-triangle-line:before { content: "\f3e5"; }
+.ri-twitter-x-fill:before { content: "\f3e6"; }
+.ri-twitter-x-line:before { content: "\f3e7"; }
+.ri-verified-badge-fill:before { content: "\f3e8"; }
+.ri-verified-badge-line:before { content: "\f3e9"; }
 
