@@ -7,7 +7,7 @@
 
 [English](./README.md) | 简体中文
 
-Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以 24x24 网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
 [![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
 前往官网查看整套图标库 [remixicon.com](https://remixicon.com).
@@ -54,10 +54,10 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> 上面 CDN 链接中的 `@3.4.0` 可以更改为任何我们曾经发布过的历史版本号。
+> 上面 CDN 链接中的 `@3.5.0` 可以更改为任何我们曾经发布过的历史版本号。
 
 #### 手动下载引入
 
