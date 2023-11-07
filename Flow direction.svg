@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Arrow pointing right -->
+  <path d="M20 50 L70 50 L55 65 M70 50 L55 35" stroke="black" stroke-width="3" fill="none" />
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Arrow pointing left -->
+  <path d="M80 50 L30 50 L45 65 M30 50 L45 35" stroke="black" stroke-width="3" fill="none" />
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Arrow pointing down -->
+  <path d="M50 20 L50 70 L65 55 M50 70 L35 55" stroke="black" stroke-width="3" fill="none" />
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Arrow pointing up -->
+  <path d="M50 80 L50 30 L65 45 M50 30 L35 45" stroke="black" stroke-width="3" fill="none" />
+</svg>
