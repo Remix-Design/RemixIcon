@@ -1,21 +1,21 @@
 /*
-* Remix Icon v3.5.0
+* Remix Icon v3.6.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2023-07-30
+* Date: 2023-11-28
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1690730386070'); /* IE9*/
-  src: url('remixicon.eot?t=1690730386070#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1690730386070") format("woff2"),
-  url("remixicon.woff?t=1690730386070") format("woff"),
-  url('remixicon.ttf?t=1690730386070') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1690730386070#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1701175860820'); /* IE9*/
+  src: url('remixicon.eot?t=1701175860820#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1701175860820") format("woff2"),
+  url("remixicon.woff?t=1701175860820") format("woff"),
+  url('remixicon.ttf?t=1701175860820') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1701175860820#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2580,4 +2580,65 @@
 .ri-twitter-x-line:before { content: "\f3e7"; }
 .ri-verified-badge-fill:before { content: "\f3e8"; }
 .ri-verified-badge-line:before { content: "\f3e9"; }
+.ri-armchair-fill:before { content: "\f3ea"; }
+.ri-armchair-line:before { content: "\f3eb"; }
+.ri-bnb-fill:before { content: "\f3ec"; }
+.ri-bnb-line:before { content: "\f3ed"; }
+.ri-bread-fill:before { content: "\f3ee"; }
+.ri-bread-line:before { content: "\f3ef"; }
+.ri-btc-fill:before { content: "\f3f0"; }
+.ri-btc-line:before { content: "\f3f1"; }
+.ri-calendar-schedule-fill:before { content: "\f3f2"; }
+.ri-calendar-schedule-line:before { content: "\f3f3"; }
+.ri-dice-1-fill:before { content: "\f3f4"; }
+.ri-dice-1-line:before { content: "\f3f5"; }
+.ri-dice-2-fill:before { content: "\f3f6"; }
+.ri-dice-2-line:before { content: "\f3f7"; }
+.ri-dice-3-fill:before { content: "\f3f8"; }
+.ri-dice-3-line:before { content: "\f3f9"; }
+.ri-dice-4-fill:before { content: "\f3fa"; }
+.ri-dice-4-line:before { content: "\f3fb"; }
+.ri-dice-5-fill:before { content: "\f3fc"; }
+.ri-dice-5-line:before { content: "\f3fd"; }
+.ri-dice-6-fill:before { content: "\f3fe"; }
+.ri-dice-6-line:before { content: "\f3ff"; }
+.ri-dice-fill:before { content: "\f400"; }
+.ri-dice-line:before { content: "\f401"; }
+.ri-drinks-fill:before { content: "\f402"; }
+.ri-drinks-line:before { content: "\f403"; }
+.ri-equalizer-2-fill:before { content: "\f404"; }
+.ri-equalizer-2-line:before { content: "\f405"; }
+.ri-equalizer-3-fill:before { content: "\f406"; }
+.ri-equalizer-3-line:before { content: "\f407"; }
+.ri-eth-fill:before { content: "\f408"; }
+.ri-eth-line:before { content: "\f409"; }
+.ri-flower-fill:before { content: "\f40a"; }
+.ri-flower-line:before { content: "\f40b"; }
+.ri-glasses-2-fill:before { content: "\f40c"; }
+.ri-glasses-2-line:before { content: "\f40d"; }
+.ri-glasses-fill:before { content: "\f40e"; }
+.ri-glasses-line:before { content: "\f40f"; }
+.ri-goggles-fill:before { content: "\f410"; }
+.ri-goggles-line:before { content: "\f411"; }
+.ri-image-circle-fill:before { content: "\f412"; }
+.ri-image-circle-line:before { content: "\f413"; }
+.ri-info-i:before { content: "\f414"; }
+.ri-money-rupee-circle-fill:before { content: "\f415"; }
+.ri-money-rupee-circle-line:before { content: "\f416"; }
+.ri-news-fill:before { content: "\f417"; }
+.ri-news-line:before { content: "\f418"; }
+.ri-robot-3-fill:before { content: "\f419"; }
+.ri-robot-3-line:before { content: "\f41a"; }
+.ri-share-2-fill:before { content: "\f41b"; }
+.ri-share-2-line:before { content: "\f41c"; }
+.ri-sofa-fill:before { content: "\f41d"; }
+.ri-sofa-line:before { content: "\f41e"; }
+.ri-svelte-fill:before { content: "\f41f"; }
+.ri-svelte-line:before { content: "\f420"; }
+.ri-vk-fill:before { content: "\f421"; }
+.ri-vk-line:before { content: "\f422"; }
+.ri-xrp-fill:before { content: "\f423"; }
+.ri-xrp-line:before { content: "\f424"; }
+.ri-xtz-fill:before { content: "\f425"; }
+.ri-xtz-line:before { content: "\f426"; }
 
