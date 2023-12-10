@@ -7,7 +7,7 @@
 
 English | [简体中文](./README_CN.md)
 
-Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2500+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
+Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2600+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
@@ -53,10 +53,10 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.6.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.7.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> The `@3.6.0` in the CDN link can be changed to any history version we've published.
+> The `@3.7.0` in the CDN link can be changed to any history version we've published.
 
 #### Download Manually
 
@@ -142,3 +142,12 @@ Remix Icon is based on the [Apache License Version 2.0](https://github.com/Remix
 ## Support Us
 
 It's simple and easy. Just star our project and recommend it to your friends. Your encouragement is the greatest fuel to drive us forward.
+
+## Follow Us on X
+
+We are all newcomers on X / Twitter. Feel free to follow us and help enhance our visibility.
+
+Designer: https://twitter.com/woaichidapi
+
+Developer: https://twitter.com/wendygaoyuan
+

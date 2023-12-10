@@ -54,10 +54,10 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您HTML文档的 &lt;head&gt; 标签中，这样就完成了CDN方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.6.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.7.0/fonts/remixicon.css" rel="stylesheet">
 ```
 
-> 上面 CDN 链接中的 `@3.6.0` 可以更改为任何我们曾经发布过的历史版本号。
+> 上面 CDN 链接中的 `@3.7.0` 可以更改为任何我们曾经发布过的历史版本号。
 
 #### 手动下载引入
 
@@ -143,3 +143,11 @@ Remix Icon 是基于 [Apache License Version 2.0](https://github.com/Remix-Desig
 ## 支持我们
 
 很简单，只需要点一下 GitHub 本项目右上角的小星星就可以了！精神鼓励就是支持我们持续维护本项目的最大动力。请我们喝杯咖啡当然也没问题哈哈~
+
+## 关注我们
+
+我们都是 X / Twitter 上的新人，欢迎关注我们为我们增加一点人气~
+
+设计师 - https://twitter.com/woaichidapi
+
+程序媛 - https://twitter.com/wendygaoyuan
