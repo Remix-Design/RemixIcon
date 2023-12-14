@@ -95,27 +95,55 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 </div>
 ```
 
-> You can  check the [`remixicon.css`](https://github.com/Remix-Design/RemixIcon/blob/master/fonts/remixicon.css) file for more info and details.
+> You can check the [`remixicon.css`](https://github.com/Remix-Design/RemixIcon/blob/master/fonts/remixicon.css) file for more info and details.
 
 ### SVG Sprite Usage
 
 Download [`remixicon.symbol.svg`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
-<svg class='remix'>
-  <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
+<svg class="remix">
+    <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 
 ```css
 .remix {
-  width: 24px;
-  height: 24px;
-  fill: #333;
+    width: 24px;
+    height: 24px;
+    fill: #333;
 }
 ```
 
 > **Note:** `ri-admin-fill` after the `#` in the above example can be replaced with any valid icon name of Remix Icon. You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
+
+### React
+
+##### Installation
+
+```bash
+npm install @remixicon/react
+# or
+yarn add @remixicon/react
+# or
+pnpm install @remixicon/react
+```
+
+##### Usage
+
+```jsx
+import { RiHeartFill } from "@radix-icons/react";
+
+const MyComponent = () => {
+    return (
+        <RiHeartFill
+            size={36} // set custom `width` and `height`
+            color="red" // set `fill` color
+            className="my-icon" // add custom class name
+        />
+    );
+};
+```
 
 ## Contributing
 
@@ -137,7 +165,7 @@ We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.
 
 ## License
 
-Remix Icon is based on the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License) license.  Feel free to use these icons in your products and distribute them. We would be very grateful if you mention "Remix Icon" in your product info, but it's not required. The only thing we ask is that these icons are not for sale.
+Remix Icon is based on the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License) license. Feel free to use these icons in your products and distribute them. We would be very grateful if you mention "Remix Icon" in your product info, but it's not required. The only thing we ask is that these icons are not for sale.
 
 ## Support Us
 
@@ -150,4 +178,3 @@ We are all newcomers on X / Twitter. Feel free to follow us and help enhance our
 Designer: https://twitter.com/woaichidapi
 
 Developer: https://twitter.com/wendygaoyuan
-
