@@ -169,6 +169,10 @@ import { RiHeartFill } from "@remixicon/vue";
 </template>
 ```
 
+### Figma
+
+[RemixIcon Official Plugin.](https://www.figma.com/community/plugin/1089569154784319246/remixicon)
+
 ## Contributing
 
 > **Note:** In order to ensure the quality of each icon, we currently do not accept third-party drawn icons. If you want to contribute an icon to Remix Icon, you can create an [issue](https://github.com/Remix-Design/remixicon/issues) with a screenshot or url to your svg-format file. If you are not familiar with github, you can also email us directly `jimmy@remixdesign.cn`.

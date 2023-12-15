@@ -170,6 +170,10 @@ import { RiHeartFill } from "@remixicon/vue";
 </template>
 ```
 
+### Figma
+
+[官方插件](https://www.figma.com/community/plugin/1089569154784319246/remixicon)
+
 ## 协作共建
 
 > **Note:** 为了保证每一枚图标的质量，现阶段我们还不接受第三方小伙伴绘制的图标。如果您想要向 Remix Icon 贡献自己设计的图标，请创建一个[issue](https://github.com/Remix-Design/remixicon/issues)来提交自己的图标设计，并在 issue 详情中附上自己图标的下载地址，我们会按照 Remix Icon 图标风格规范进行审核，通过后将会添加到图标库中，并在更新日志中署上作者的 ID。如果你对 GitHub 不是很熟悉，不清除 issue 和 pull request 是什么，也可以直接给我们发邮件 `jimmy@remixdesign.cn`，内容表述清楚即可。
