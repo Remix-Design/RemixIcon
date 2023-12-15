@@ -119,7 +119,7 @@ Download [`remixicon.symbol.svg`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/f
 
 ### React
 
-##### Installation
+#### Installation
 
 ```bash
 npm install @remixicon/react
@@ -129,7 +129,7 @@ yarn add @remixicon/react
 pnpm install @remixicon/react
 ```
 
-##### Usage
+#### Usage
 
 ```jsx
 import { RiHeartFill } from "@radix-icons/react";
@@ -143,6 +143,30 @@ const MyComponent = () => {
         />
     );
 };
+```
+
+### Vue 3
+
+#### Installation
+
+```bash
+npm install @remixicon/vue
+# or
+yarn add @remixicon/vue
+# or
+pnpm install @remixicon/vue
+```
+
+#### Usage
+
+```vue
+<script setup lang="ts">
+import { RiHeartFill } from "@remixicon/vue";
+</script>
+
+<template>
+    <RiHeartFill size="36px" color="red" className="my-icon" />
+</template>
 ```
 
 ## Contributing
