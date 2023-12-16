@@ -1,4 +1,4 @@
-[![logo](http://cdn.remixicon.com/logo-github.svg)](https://remixicon.com)
+[![logo](./.github/files/logo-github.svg)](https://remixicon.com)
 
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
@@ -9,7 +9,7 @@ English | [简体中文](./README_CN.md)
 
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2600+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
-[![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
+[![icon demo](./.github/files/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 
 ## Usage
@@ -95,27 +95,83 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 </div>
 ```
 
-> You can  check the [`remixicon.css`](https://github.com/Remix-Design/RemixIcon/blob/master/fonts/remixicon.css) file for more info and details.
+> You can check the [`remixicon.css`](https://github.com/Remix-Design/RemixIcon/blob/master/fonts/remixicon.css) file for more info and details.
 
 ### SVG Sprite Usage
 
 Download [`remixicon.symbol.svg`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
-<svg class='remix'>
-  <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
+<svg class="remix">
+    <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 
 ```css
 .remix {
-  width: 24px;
-  height: 24px;
-  fill: #333;
+    width: 24px;
+    height: 24px;
+    fill: #333;
 }
 ```
 
 > **Note:** `ri-admin-fill` after the `#` in the above example can be replaced with any valid icon name of Remix Icon. You can go to [remixicon.com](https://remixicon.com) to check the name of the icons. `-line` means the outlined style icon, and `-fill` means the filled style icon.
+
+### React
+
+#### Installation
+
+```bash
+npm install @remixicon/react
+# or
+yarn add @remixicon/react
+# or
+pnpm install @remixicon/react
+```
+
+#### Usage
+
+```jsx
+import { RiHeartFill } from "@radix-icons/react";
+
+const MyComponent = () => {
+    return (
+        <RiHeartFill
+            size={36} // set custom `width` and `height`
+            color="red" // set `fill` color
+            className="my-icon" // add custom class name
+        />
+    );
+};
+```
+
+### Vue 3
+
+#### Installation
+
+```bash
+npm install @remixicon/vue
+# or
+yarn add @remixicon/vue
+# or
+pnpm install @remixicon/vue
+```
+
+#### Usage
+
+```vue
+<script setup lang="ts">
+import { RiHeartFill } from "@remixicon/vue";
+</script>
+
+<template>
+    <RiHeartFill size="36px" color="red" className="my-icon" />
+</template>
+```
+
+### Figma
+
+[RemixIcon Official Plugin.](https://www.figma.com/community/plugin/1089569154784319246/remixicon)
 
 ## Contributing
 
@@ -137,7 +193,7 @@ We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.
 
 ## License
 
-Remix Icon is based on the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License) license.  Feel free to use these icons in your products and distribute them. We would be very grateful if you mention "Remix Icon" in your product info, but it's not required. The only thing we ask is that these icons are not for sale.
+Remix Icon is based on the [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License) license. Feel free to use these icons in your products and distribute them. We would be very grateful if you mention "Remix Icon" in your product info, but it's not required. The only thing we ask is that these icons are not for sale.
 
 ## Support Us
 
@@ -150,4 +206,3 @@ We are all newcomers on X / Twitter. Feel free to follow us and help enhance our
 Designer: https://twitter.com/woaichidapi
 
 Developer: https://twitter.com/wendygaoyuan
-
