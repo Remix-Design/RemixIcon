@@ -1,4 +1,4 @@
-[![logo](http://cdn.remixicon.com/logo-github.svg)](https://remixicon.com)
+[![logo](./.github/files/logo-github.svg)](https://remixicon.com)
 
 [![npm](https://img.shields.io/npm/v/remixicon.svg?labelColor=4A4A4A&color=006AFF&style=flat-square)](https://www.npmjs.com/package/remixicon)
 [![downloads](https://img.shields.io/npm/dt/remixicon.svg?labelColor=4A4A4A&color=23AF5F&style=flat-square)](https://www.npmjs.com/package/remixicon)
@@ -9,7 +9,7 @@ English | [简体中文](./README_CN.md)
 
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2600+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
-[![icon demo](http://cdn.remixicon.com/preview.svg)](https://remixicon.com)
+[![icon demo](./.github/files/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 
 ## Usage
