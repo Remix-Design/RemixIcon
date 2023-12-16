@@ -136,7 +136,7 @@ pnpm install @remixicon/react
 #### 使用
 
 ```jsx
-import { RiHeartFill } from "@radix-icons/react";
+import { RiHeartFill } from "@remixicon/react";
 
 const MyComponent = () => {
     return (
