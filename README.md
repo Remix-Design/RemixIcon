@@ -53,7 +53,10 @@ import 'remixicon/fonts/remixicon.css'
 Copy the following code and add it to the &lt;head&gt; tag of your html document.
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.7.0/fonts/remixicon.css" rel="stylesheet">
+<link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.0.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
 ```
 
 > The `@3.7.0` in the CDN link can be changed to any history version we've published.

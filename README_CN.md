@@ -54,7 +54,10 @@ import 'remixicon/fonts/remixicon.css'
 如果不打算通过安装的方式使用，可以直接复制下面这行代码到您 HTML 文档的 &lt;head&gt; 标签中，这样就完成了 CDN 方式的图标引入，简单快捷，推荐方式。
 
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@3.7.0/fonts/remixicon.css" rel="stylesheet">
+<link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.0.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
 ```
 
 > 上面 CDN 链接中的 `@3.7.0` 可以更改为任何我们曾经发布过的历史版本号。
