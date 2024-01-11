@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   fill="currentColor"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="play-reverse-fill.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="20.5"
+     inkscape:cx="11.97561"
+     inkscape:cy="12"
+     inkscape:window-width="1280"
+     inkscape:window-height="730"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 4.7592305,12.4161 15.35788,19.4818 c 0.22976,0.1532 0.5402,0.0911 0.69338,-0.1386 0.05475,-0.0822 0.08397,-0.1787 0.08397,-0.2774 V 4.93433 c 0,-0.27615 -0.22386,-0.5 -0.5,-0.5 -0.09871,0 -0.19522,0.02922 -0.27735,0.08397 L 4.7592305,11.584 c -0.2297,0.1532 -0.2918,0.4637 -0.1386,0.6934 0.0366,0.0549 0.0837,0.1021 0.1386,0.1387 z"
+     id="path1" />
+</svg>
