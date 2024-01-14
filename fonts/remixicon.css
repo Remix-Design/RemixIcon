@@ -1,21 +1,21 @@
 /*
-* Remix Icon v4.0.0
+* Remix Icon v4.1.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2023-12-16
+* Date: 2024-01-14
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1702724036775'); /* IE9*/
-  src: url('remixicon.eot?t=1702724036775#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1702724036775") format("woff2"),
-  url("remixicon.woff?t=1702724036775") format("woff"),
-  url('remixicon.ttf?t=1702724036775') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1702724036775#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1705244689813'); /* IE9*/
+  src: url('remixicon.eot?t=1705244689813#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1705244689813") format("woff2"),
+  url("remixicon.woff?t=1705244689813") format("woff"),
+  url('remixicon.ttf?t=1705244689813') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1705244689813#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2747,4 +2747,36 @@
 .ri-signpost-line:before { content: "\f48e"; }
 .ri-time-zone-fill:before { content: "\f48f"; }
 .ri-time-zone-line:before { content: "\f490"; }
+.ri-arrow-down-wide-fill:before { content: "\f491"; }
+.ri-arrow-down-wide-line:before { content: "\f492"; }
+.ri-arrow-left-wide-fill:before { content: "\f493"; }
+.ri-arrow-left-wide-line:before { content: "\f494"; }
+.ri-arrow-right-wide-fill:before { content: "\f495"; }
+.ri-arrow-right-wide-line:before { content: "\f496"; }
+.ri-arrow-up-wide-fill:before { content: "\f497"; }
+.ri-arrow-up-wide-line:before { content: "\f498"; }
+.ri-bluesky-fill:before { content: "\f499"; }
+.ri-bluesky-line:before { content: "\f49a"; }
+.ri-expand-height-fill:before { content: "\f49b"; }
+.ri-expand-height-line:before { content: "\f49c"; }
+.ri-expand-width-fill:before { content: "\f49d"; }
+.ri-expand-width-line:before { content: "\f49e"; }
+.ri-forward-end-fill:before { content: "\f49f"; }
+.ri-forward-end-line:before { content: "\f4a0"; }
+.ri-forward-end-mini-fill:before { content: "\f4a1"; }
+.ri-forward-end-mini-line:before { content: "\f4a2"; }
+.ri-friendica-fill:before { content: "\f4a3"; }
+.ri-friendica-line:before { content: "\f4a4"; }
+.ri-git-pr-draft-fill:before { content: "\f4a5"; }
+.ri-git-pr-draft-line:before { content: "\f4a6"; }
+.ri-play-reverse-fill:before { content: "\f4a7"; }
+.ri-play-reverse-line:before { content: "\f4a8"; }
+.ri-play-reverse-mini-fill:before { content: "\f4a9"; }
+.ri-play-reverse-mini-line:before { content: "\f4aa"; }
+.ri-rewind-start-fill:before { content: "\f4ab"; }
+.ri-rewind-start-line:before { content: "\f4ac"; }
+.ri-rewind-start-mini-fill:before { content: "\f4ad"; }
+.ri-rewind-start-mini-line:before { content: "\f4ae"; }
+.ri-scroll-to-bottom-fill:before { content: "\f4af"; }
+.ri-scroll-to-bottom-line:before { content: "\f4b0"; }
 
