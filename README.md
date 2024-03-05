@@ -5,9 +5,11 @@
 [![](https://data.jsdelivr.com/v1/package/npm/remixicon/badge)](https://www.jsdelivr.com/package/npm/remixicon)
 [![donate](https://img.shields.io/badge/-Donate-DA6429.svg?style=flat-square)](https://remixicon.com/support-us)
 
-English | [简体中文](./README_CN.md)
+[![Sponsor](./.github/files/streamline.svg)](https://go.streamlinehq.com/remix-github)
 
-[![Sponsor](./.github/files/steamline.svg)](https://go.streamlinehq.com/remix-github)
+
+
+English | [简体中文](./README_CN.md)
 
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2800+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
