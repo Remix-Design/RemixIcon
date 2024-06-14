@@ -211,6 +211,6 @@ Remix Icon 是基于 [Apache License Version 2.0](https://github.com/Remix-Desig
 
 我们都是 X / Twitter 上的新人，欢迎关注我们为我们增加一点人气~
 
-设计师 - https://twitter.com/woaichidapi
+设计师 - https://x.com/remixdesigner
 
 程序媛 - https://twitter.com/wendygaoyuan
