@@ -210,6 +210,6 @@ It's simple and easy. Just star our project and recommend it to your friends. Yo
 
 We are all newcomers on X / Twitter. Feel free to follow us and help enhance our visibility.
 
-Designer: https://twitter.com/woaichidapi
+Designer: https://x.com/remixdesigner
 
 Developer: https://twitter.com/wendygaoyuan
