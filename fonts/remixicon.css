@@ -1,21 +1,21 @@
 /*
-* Remix Icon v4.3.0
+* Remix Icon v4.4.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2024-06-13
+* Date: 2024-10-22
 */
 @font-face {
   font-family: "remixicon";
-  src: url('remixicon.eot?t=1718271040674'); /* IE9*/
-  src: url('remixicon.eot?t=1718271040674#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1718271040674") format("woff2"),
-  url("remixicon.woff?t=1718271040674") format("woff"),
-  url('remixicon.ttf?t=1718271040674') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1718271040674#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1729600608771'); /* IE9*/
+  src: url('remixicon.eot?t=1729600608771#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1729600608771") format("woff2"),
+  url("remixicon.woff?t=1729600608771") format("woff"),
+  url('remixicon.ttf?t=1729600608771') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1729600608771#remixicon') format('svg'); /* iOS 4.1- */
   font-display: swap;
 }
 
@@ -2935,4 +2935,95 @@
 .ri-triangular-flag-line:before { content: "\f54a"; }
 .ri-user-minus-fill:before { content: "\f54b"; }
 .ri-user-minus-line:before { content: "\f54c"; }
+.ri-account-box-2-fill:before { content: "\f54d"; }
+.ri-account-box-2-line:before { content: "\f54e"; }
+.ri-account-circle-2-fill:before { content: "\f54f"; }
+.ri-account-circle-2-line:before { content: "\f550"; }
+.ri-alarm-snooze-fill:before { content: "\f551"; }
+.ri-alarm-snooze-line:before { content: "\f552"; }
+.ri-arrow-down-box-fill:before { content: "\f553"; }
+.ri-arrow-down-box-line:before { content: "\f554"; }
+.ri-arrow-left-box-fill:before { content: "\f555"; }
+.ri-arrow-left-box-line:before { content: "\f556"; }
+.ri-arrow-left-down-box-fill:before { content: "\f557"; }
+.ri-arrow-left-down-box-line:before { content: "\f558"; }
+.ri-arrow-left-up-box-fill:before { content: "\f559"; }
+.ri-arrow-left-up-box-line:before { content: "\f55a"; }
+.ri-arrow-right-box-fill:before { content: "\f55b"; }
+.ri-arrow-right-box-line:before { content: "\f55c"; }
+.ri-arrow-right-down-box-fill:before { content: "\f55d"; }
+.ri-arrow-right-down-box-line:before { content: "\f55e"; }
+.ri-arrow-right-up-box-fill:before { content: "\f55f"; }
+.ri-arrow-right-up-box-line:before { content: "\f560"; }
+.ri-arrow-up-box-fill:before { content: "\f561"; }
+.ri-arrow-up-box-line:before { content: "\f562"; }
+.ri-bar-chart-box-ai-fill:before { content: "\f563"; }
+.ri-bar-chart-box-ai-line:before { content: "\f564"; }
+.ri-brush-ai-fill:before { content: "\f565"; }
+.ri-brush-ai-line:before { content: "\f566"; }
+.ri-camera-ai-fill:before { content: "\f567"; }
+.ri-camera-ai-line:before { content: "\f568"; }
+.ri-chat-ai-fill:before { content: "\f569"; }
+.ri-chat-ai-line:before { content: "\f56a"; }
+.ri-chat-smile-ai-fill:before { content: "\f56b"; }
+.ri-chat-smile-ai-line:before { content: "\f56c"; }
+.ri-chat-voice-ai-fill:before { content: "\f56d"; }
+.ri-chat-voice-ai-line:before { content: "\f56e"; }
+.ri-code-ai-fill:before { content: "\f56f"; }
+.ri-code-ai-line:before { content: "\f570"; }
+.ri-color-filter-ai-fill:before { content: "\f571"; }
+.ri-color-filter-ai-line:before { content: "\f572"; }
+.ri-custom-size:before { content: "\f573"; }
+.ri-fediverse-fill:before { content: "\f574"; }
+.ri-fediverse-line:before { content: "\f575"; }
+.ri-flag-off-fill:before { content: "\f576"; }
+.ri-flag-off-line:before { content: "\f577"; }
+.ri-home-9-fill:before { content: "\f578"; }
+.ri-home-9-line:before { content: "\f579"; }
+.ri-image-ai-fill:before { content: "\f57a"; }
+.ri-image-ai-line:before { content: "\f57b"; }
+.ri-image-circle-ai-fill:before { content: "\f57c"; }
+.ri-image-circle-ai-line:before { content: "\f57d"; }
+.ri-info-card-fill:before { content: "\f57e"; }
+.ri-info-card-line:before { content: "\f57f"; }
+.ri-landscape-ai-fill:before { content: "\f580"; }
+.ri-landscape-ai-line:before { content: "\f581"; }
+.ri-letter-spacing-2:before { content: "\f582"; }
+.ri-line-height-2:before { content: "\f583"; }
+.ri-mail-ai-fill:before { content: "\f584"; }
+.ri-mail-ai-line:before { content: "\f585"; }
+.ri-mic-2-ai-fill:before { content: "\f586"; }
+.ri-mic-2-ai-line:before { content: "\f587"; }
+.ri-mic-ai-fill:before { content: "\f588"; }
+.ri-mic-ai-line:before { content: "\f589"; }
+.ri-movie-ai-fill:before { content: "\f58a"; }
+.ri-movie-ai-line:before { content: "\f58b"; }
+.ri-music-ai-fill:before { content: "\f58c"; }
+.ri-music-ai-line:before { content: "\f58d"; }
+.ri-notification-snooze-fill:before { content: "\f58e"; }
+.ri-notification-snooze-line:before { content: "\f58f"; }
+.ri-php-fill:before { content: "\f590"; }
+.ri-php-line:before { content: "\f591"; }
+.ri-pix-fill:before { content: "\f592"; }
+.ri-pix-line:before { content: "\f593"; }
+.ri-pulse-ai-fill:before { content: "\f594"; }
+.ri-pulse-ai-line:before { content: "\f595"; }
+.ri-quill-pen-ai-fill:before { content: "\f596"; }
+.ri-quill-pen-ai-line:before { content: "\f597"; }
+.ri-speak-ai-fill:before { content: "\f598"; }
+.ri-speak-ai-line:before { content: "\f599"; }
+.ri-star-off-fill:before { content: "\f59a"; }
+.ri-star-off-line:before { content: "\f59b"; }
+.ri-translate-ai-2:before { content: "\f59c"; }
+.ri-translate-ai:before { content: "\f59d"; }
+.ri-user-community-fill:before { content: "\f59e"; }
+.ri-user-community-line:before { content: "\f59f"; }
+.ri-vercel-fill:before { content: "\f5a0"; }
+.ri-vercel-line:before { content: "\f5a1"; }
+.ri-video-ai-fill:before { content: "\f5a2"; }
+.ri-video-ai-line:before { content: "\f5a3"; }
+.ri-video-on-ai-fill:before { content: "\f5a4"; }
+.ri-video-on-ai-line:before { content: "\f5a5"; }
+.ri-voice-ai-fill:before { content: "\f5a6"; }
+.ri-voice-ai-line:before { content: "\f5a7"; }
 
