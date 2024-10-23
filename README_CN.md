@@ -7,8 +7,6 @@
 
 [![Sponsor](./.github/files/streamline.svg)](https://go.streamlinehq.com/remix-github)
 
-
-
 [English](./README.md) | 简体中文
 
 Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以 24x24 网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
@@ -59,12 +57,12 @@ import 'remixicon/fonts/remixicon.css'
 
 ```html
 <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.4.0/fonts/remixicon.css"
     rel="stylesheet"
 />
 ```
 
-> 上面 CDN 链接中的 `@4.3.0` 可以更改为任何我们曾经发布过的历史版本号。
+> 上面 CDN 链接中的 `@4.4.0` 可以更改为任何我们曾经发布过的历史版本号。
 
 #### 手动下载引入
 
@@ -210,6 +208,8 @@ Remix Icon 是基于 [Apache License Version 2.0](https://github.com/Remix-Desig
 ## 关注我们
 
 我们都是 X / Twitter 上的新人，欢迎关注我们为我们增加一点人气~
+
+官号 - https://x.com/RemixDesignHQ
 
 设计师 - https://x.com/remixdesigner
 
