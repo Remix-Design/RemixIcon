@@ -9,7 +9,7 @@
 
 English | [简体中文](./README_CN.md)
 
-Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2900+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
+Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 3000+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](./.github/files/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
@@ -56,12 +56,12 @@ Copy the following code and add it to the &lt;head&gt; tag of your HTML document
 
 ```html
 <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.4.0/fonts/remixicon.css"
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
     rel="stylesheet"
 />
 ```
 
-> The `@4.4.0` in the CDN link can be changed to any history version we've published.
+> The `@4.5.0` in the CDN link can be changed to any history version we've published.
 
 #### Download Manually
 
