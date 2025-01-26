@@ -4,6 +4,7 @@
     "skipLibCheck": true,
     "module": "ESNext",
     "jsx": "react-native",
+    "allowJs": true,
     "declaration": true,
     "strict": true,
     "moduleResolution": "node",
@@ -12,6 +13,6 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
   },
-  "include": ["./icon-pack", "./index.ts"],
-  "exclude": ["**/node_modules/**"]
+  "include": ["index.ts", "types.ts"],
+  "exclude": ["**/node_modules/**", "icon-pack"]
 }
