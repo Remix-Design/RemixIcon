@@ -14,6 +14,14 @@ function isNumber(str) {
   return !isNaN(Number(str));
 }
 
+function toTitleCase(str) {
+  return str
+    .toLowerCase()
+    .split("-")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
+}
+
 glob(`${assetsDir}/**/*.svg`, (_, icons) => {
   fs.writeFileSync(indexDir, "", "utf-8");
 
@@ -23,7 +31,7 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
     const $ = cheerio.load(svg, {
       xmlMode: true,
     });
-    const fileName = path.basename(i).replace(".svg", ".tsx");
+    const fileName = path.basename(i).replace(".svg", ".js");
     const location = path.join(outDir, fileName);
 
     // Because CSS does not exist on Native platforms
@@ -77,7 +85,6 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
 
     const element = `
       import React, { memo } from 'react'
-      import type { IconProps } from "../types";
       import {
         Svg,
         Circle as _Circle,
@@ -98,7 +105,10 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
         ClipPath
       } from 'react-native-svg'
 
-      const Icon = (props: IconProps) => {
+      /**
+       * @param {import('../types').IconProps} props
+       */
+      const Icon = (props) => {
         const { color = 'black', size = 24, ...otherProps } = props
         return (
           ${$("svg")
@@ -106,9 +116,12 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
             .replace(/ class=\"[^\"]+\"/g, "")
             .replace(/ version=\"[^\"]+\"/g, "")
             .replace(/fill="currentColor"/g, "fill={color}")
-            .replace('width="24"', "")
-            .replace('height="24"', "")
-            .replace('otherProps="..."', "{...otherProps}")
+            .replace('width="24"', "width={size}")
+            .replace('height="24"', "height={size}")
+            .replace(
+              'otherProps="..."',
+              "height={size} width={size}  {...otherProps}"
+            )
             .replace("<svg", "<Svg")
             .replace("</svg", "</Svg")
             .replace(/<circle/g, "<_Circle")
@@ -149,7 +162,11 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
 
       Icon.displayName = '${cname}'
 
-      export const ${cname} = memo<IconProps>(Icon)
+      /**
+       * Remix Icon: ${toTitleCase(id)}
+       * @see {@link https://remixicon.com/icon/${id} Remix Icon Docs}
+       */
+      export const ${cname} = memo(Icon)
     `;
 
     fs.writeFileSync(location, element, "utf-8");
