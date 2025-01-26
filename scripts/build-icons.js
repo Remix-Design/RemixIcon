@@ -31,7 +31,7 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
     const $ = cheerio.load(svg, {
       xmlMode: true,
     });
-    const fileName = path.basename(i).replace(".svg", ".js");
+    const fileName = path.basename(i).replace(".svg", ".tsx");
     const location = path.join(outDir, fileName);
 
     // Because CSS does not exist on Native platforms
@@ -85,6 +85,7 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
 
     const element = `
       import React, { memo } from 'react'
+      import type { IconProps } from '../types'
       import {
         Svg,
         Circle as _Circle,
@@ -105,10 +106,7 @@ glob(`${assetsDir}/**/*.svg`, (_, icons) => {
         ClipPath
       } from 'react-native-svg'
 
-      /**
-       * @param {import('../types').IconProps} props
-       */
-      const Icon = (props) => {
+      const Icon = (props: IconProps) => {
         const { color = 'black', size = 24, ...otherProps } = props
         return (
           ${$("svg")

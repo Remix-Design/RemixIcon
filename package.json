@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
   "homepage": "https://remixicon.com",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "format": "bunx biome check --write icon-pack *.ts",
+    "prepare": "yarn build",
     "generate": "node ./scripts/build-icons.js"
   },
   "keywords": [
@@ -19,9 +20,7 @@
     "icon pack"
   ],
   "files": [
-    "icon-pack/",
-    "*.ts",
-    "*.js"
+    "build"
   ],
   "license": "Apache-2.0",
   "repository": {
