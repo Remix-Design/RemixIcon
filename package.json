@@ -1,6 +1,6 @@
 {
-  "name": "remixicon",
-  "version": "4.6.0",
+  "name": "@risemaxi/sigil",
+  "version": "1.0.0",
   "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
   "homepage": "https://remixicon.com",
   "keywords": [
@@ -11,7 +11,7 @@
     "icon pack"
   ],
   "files": [
-    "fonts/",
+    "dist/",
     "icons/",
     "License",
     "package.json",
@@ -27,5 +27,19 @@
   "contributors": [
     "Wendy Gao <wendygaoyuan@163.com>",
     "Jimmy Cheung <jimmy@remixdesign.cn>"
-  ]
+  ],
+  "peerDependencies": {
+    "react-native-svg": ">=12"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.2",
+    "@types/react": "18",
+    "camelcase": "^6.0.0",
+    "cheerio": "^1.0.0",
+    "glob": "^7.1.6",
+    "react": "*",
+    "react-native-svg": "^15.11.1",
+    "uppercamelcase": "^3.0.0",
+    "typescript": "~5.0.0"
+  }
 }

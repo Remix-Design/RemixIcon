@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "jsx": "react-native",
+    "declaration": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "outDir": "./",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  },
+  "include": ["./icon-pack", "./index.ts"],
+  "exclude": ["**/node_modules/**"]
+}
