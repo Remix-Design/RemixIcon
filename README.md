@@ -9,6 +9,9 @@
 
 English | [简体中文](./README_CN.md)
 
+> Note:
+> This is a fork of [Remix Icon](https://github.com/Remix-Design/remixicon "Remix Icon") made to work with React Native Platforms, while also been tree shakable. For other implementations, see [react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon "react-native-remix-icon").
+
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 3000+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 
 [![icon demo](./.github/files/preview.svg)](https://remixicon.com)
@@ -56,8 +59,8 @@ Copy the following code and add it to the &lt;head&gt; tag of your HTML document
 
 ```html
 <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
-    rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+  rel="stylesheet"
 />
 ```
 
@@ -72,8 +75,7 @@ Download [`remixicon.css`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/re
 Add icon with class name, class name rule: ri-{name}-{style}
 
 ```html
-<i class="ri-admin-line"></i>
-<i class="ri-admin-fill"></i>
+<i class="ri-admin-line"></i> <i class="ri-admin-fill"></i>
 ```
 
 > **Note:** We changed the class name prefixes from `remixicon-` to `ri` from v2.0.0;
@@ -86,17 +88,27 @@ RemixIcon can be resized by CSS class integrated by `remixicon.css` . Icons inhe
 
 ```html
 <div style="font-size: 24px;">
-  <i class="ri-admin-line ri-fw"></i> <!-- fixed width -->
-  <i class="ri-admin-line ri-xxs"></i> <!-- 0.5em -->
-  <i class="ri-admin-line ri-xs"></i> <!-- 0.75em -->
-  <i class="ri-admin-line ri-sm"></i> <!-- 0.875em -->
-  <i class="ri-admin-line ri-1x"></i> <!-- 1em -->
-  <i class="ri-admin-line ri-lg"></i> <!-- 1.3333em -->
-  <i class="ri-admin-line ri-xl"></i> <!-- 1.5em -->
-  <i class="ri-admin-line ri-2x"></i> <!-- 2em -->
-  <i class="ri-admin-line ri-3x"></i> <!-- 3em -->
+  <i class="ri-admin-line ri-fw"></i>
+  <!-- fixed width -->
+  <i class="ri-admin-line ri-xxs"></i>
+  <!-- 0.5em -->
+  <i class="ri-admin-line ri-xs"></i>
+  <!-- 0.75em -->
+  <i class="ri-admin-line ri-sm"></i>
+  <!-- 0.875em -->
+  <i class="ri-admin-line ri-1x"></i>
+  <!-- 1em -->
+  <i class="ri-admin-line ri-lg"></i>
+  <!-- 1.3333em -->
+  <i class="ri-admin-line ri-xl"></i>
+  <!-- 1.5em -->
+  <i class="ri-admin-line ri-2x"></i>
+  <!-- 2em -->
+  <i class="ri-admin-line ri-3x"></i>
+  <!-- 3em -->
   ...
-  <i class="ri-admin-line ri-10x"></i> <!-- 10em -->
+  <i class="ri-admin-line ri-10x"></i>
+  <!-- 10em -->
 </div>
 ```
 
@@ -108,15 +120,15 @@ Download [`remixicon.symbol.svg`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/f
 
 ```html
 <svg class="remix">
-    <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
+  <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 
 ```css
 .remix {
-    width: 24px;
-    height: 24px;
-    fill: #333;
+  width: 24px;
+  height: 24px;
+  fill: #333;
 }
 ```
 
@@ -140,13 +152,13 @@ pnpm install @remixicon/react
 import { RiHeartFill } from "@remixicon/react";
 
 const MyComponent = () => {
-    return (
-        <RiHeartFill
-            size={36} // set custom `width` and `height`
-            color="red" // set `fill` color
-            className="my-icon" // add custom class name
-        />
-    );
+  return (
+    <RiHeartFill
+      size={36} // set custom `width` and `height`
+      color="red" // set `fill` color
+      className="my-icon" // add custom class name
+    />
+  );
 };
 ```
 
@@ -170,7 +182,7 @@ import { RiHeartFill } from "@remixicon/vue";
 </script>
 
 <template>
-    <RiHeartFill size="36px" color="red" className="my-icon" />
+  <RiHeartFill size="36px" color="red" className="my-icon" />
 </template>
 ```
 
