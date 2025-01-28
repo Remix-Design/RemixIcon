@@ -27,6 +27,7 @@ const assetsFiles = [
     id: "deji.zeal",
     index: path.join(rootDir, "flags.ts"),
     out: ["icon-pack", "flags"],
+    keepColor: true,
   },
 ];
 
@@ -42,7 +43,7 @@ function toTitleCase(str) {
     .join(" ");
 }
 
-assetsFiles.forEach(({ attr, dir, id, index, out }) => {
+assetsFiles.forEach(({ attr, dir, index, out, keepColor }) => {
   glob(`${dir}/**/*.svg`, (_, icons) => {
     fs.writeFileSync(index, "", "utf-8");
     const outDir = path.join(rootDir, ...out);
@@ -83,7 +84,7 @@ assetsFiles.forEach(({ attr, dir, id, index, out }) => {
           if (x.includes("-")) {
             $(el).attr(camelcase(x), el.attribs[x]).removeAttr(x);
           }
-          if (x === "fill") {
+          if (x === "fill" && !keepColor) {
             $(el).attr(x, "currentColor");
           }
         });
@@ -141,7 +142,10 @@ assetsFiles.forEach(({ attr, dir, id, index, out }) => {
                         ${camelcase(key)}: '${value}'
                       }}`;
               })
-              .replace(/fill="currentColor"/g, "fill={color}")
+              .replace(
+                keepColor ? "" : /fill="currentColor"/g,
+                keepColor ? "" : "fill={color}"
+              )
               .replace(/width="\d+"/, "")
               .replace(/height="\d+"/, "")
               .replace(

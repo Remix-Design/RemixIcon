@@ -5,24 +5,24 @@ import { Svg, G, Path, Rect, Defs, ClipPath } from 'react-native-svg'
 const Icon = (props: IconProps) => {
   const { color = 'black', size = 24, ...otherProps } = props
   return (
-    <Svg viewBox="0 0 40 40" fill={color} height={size} width={size} {...otherProps}>
+    <Svg viewBox="0 0 40 40" fill="none" height={size} width={size} {...otherProps}>
       <G clipPath="url(#clip0_51_879)">
         <Path
           d="M20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.9543 0 0 8.9543 0 20C0 31.0457 8.9543 40 20 40Z"
-          fill={color}
+          fill="#F0F0F0"
         />
         <Path
           d="M0 20C0 28.5993 5.4275 35.9301 13.0435 38.756V1.24402C5.4275 4.0698 0 11.4007 0 20V20Z"
-          fill={color}
+          fill="#01B110"
         />
         <Path
           d="M40.0005 20C40.0005 11.4007 34.573 4.0698 26.957 1.24402V38.7561C34.573 35.9301 40.0005 28.5993 40.0005 20V20Z"
-          fill={color}
+          fill="#01B110"
         />
       </G>
       <Defs>
         <ClipPath id="clip0_51_879">
-          <Rect width="40" height="40" fill={color} />
+          <Rect width="40" height="40" fill="white" />
         </ClipPath>
       </Defs>
     </Svg>
