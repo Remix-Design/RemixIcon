@@ -36,7 +36,7 @@ const Icon = (props: IconProps) => {
 Icon.displayName = 'VaticanCity'
 
 /**
- * Flags by Deji.Zeal: Vatican City
+ * Flags by `Deji.Zeal`: Vatican City
  * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
  */
 export const VaticanCity = memo(Icon)

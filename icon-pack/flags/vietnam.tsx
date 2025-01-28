@@ -28,7 +28,7 @@ const Icon = (props: IconProps) => {
 Icon.displayName = 'Vietnam'
 
 /**
- * Flags by Deji.Zeal: Vietnam
+ * Flags by `Deji.Zeal`: Vietnam
  * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
  */
 export const Vietnam = memo(Icon)

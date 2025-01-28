@@ -20,7 +20,7 @@ const assetsFiles = [
   },
   {
     attr: (name) => `/**
-               * Flags by Deji.Zeal: ${toTitleCase(name)}
+               * Flags by \`Deji.Zeal\`: ${toTitleCase(name)}
                * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
                */`,
     dir: path.join(rootDir, "icons", "flags"),

@@ -97,7 +97,7 @@ const Icon = (props: IconProps) => {
 Icon.displayName = 'SaintKittsAndNevis'
 
 /**
- * Flags by Deji.Zeal: Saint Kitts And Nevis
+ * Flags by `Deji.Zeal`: Saint Kitts And Nevis
  * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
  */
 export const SaintKittsAndNevis = memo(Icon)

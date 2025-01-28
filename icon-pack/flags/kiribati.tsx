@@ -52,7 +52,7 @@ const Icon = (props: IconProps) => {
 Icon.displayName = 'Kiribati'
 
 /**
- * Flags by Deji.Zeal: Kiribati
+ * Flags by `Deji.Zeal`: Kiribati
  * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
  */
 export const Kiribati = memo(Icon)

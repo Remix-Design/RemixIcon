@@ -112,7 +112,7 @@ const Icon = (props: IconProps) => {
 Icon.displayName = 'Vanuatu'
 
 /**
- * Flags by Deji.Zeal: Vanuatu
+ * Flags by `Deji.Zeal`: Vanuatu
  * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
  */
 export const Vanuatu = memo(Icon)
