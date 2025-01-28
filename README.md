@@ -10,7 +10,7 @@
 English | [简体中文](./README_CN.md)
 
 > Note:
-> This is a fork of [Remix Icon](https://github.com/Remix-Design/remixicon "Remix Icon") made to work with React Native Platforms, while also been tree shakable. For other implementations, see [react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon "react-native-remix-icon").
+> This is a fork of [Remix Icon](https://github.com/Remix-Design/remixicon "Remix Icon") made to work with React Native Platforms, while also been tree shakable. For other implementations, see [react-native-remix-icon](https://github.com/ajayesivan/react-native-remix-icon "react-native-remix-icon"). It also adds some other icons based on Rise Design System.
 
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 3000+ icons are all elaborately crafted so that they are born with the genes of readability, consistency, and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid. Of course, all the icons are free for both personal and commercial use.
 

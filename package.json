@@ -1,7 +1,7 @@
 {
   "name": "@risemaxi/sigil",
   "version": "1.0.2",
-  "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
+  "description": "Icons and Signs for the Rise Design System",
   "homepage": "https://remixicon.com",
   "main": "build/index.js",
   "exports": {
@@ -34,7 +34,8 @@
     "remix",
     "icon",
     "icon library",
-    "icon pack"
+    "icon pack",
+    "Deji.zeal"
   ],
   "files": [
     "build"
@@ -42,12 +43,11 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Remix-Design/remixicon.git"
+    "url": "https://github.com/risevest/sigil.git"
   },
-  "bugs": "https://github.com/Remix-Design/remixicon/issues",
+  "bugs": "https://github.com/risevest/sigil/issues",
   "contributors": [
-    "Wendy Gao <wendygaoyuan@163.com>",
-    "Jimmy Cheung <jimmy@remixdesign.cn>"
+    "Rise Developers"
   ],
   "peerDependencies": {
     "react-native-svg": ">=12"
