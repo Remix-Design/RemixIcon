@@ -1,15 +1,32 @@
 {
   "name": "@risemaxi/sigil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
   "homepage": "https://remixicon.com",
   "main": "build/index.js",
+  "exports": {
+    ".": {
+      "import": "./build/index.js",
+      "require": "./build/index.js",
+      "types": "./build/index.d.ts"
+    },
+    "./flags": {
+      "import": "./build/flags.js",
+      "require": "./build/flags.js",
+      "types": "./build/flags.d.ts"
+    },
+    "./types": {
+      "import": "./build/types.js",
+      "require": "./build/types.js",
+      "types": "./build/types.d.ts"
+    }
+  },
   "types": "build/index.d.ts",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "format": "bunx biome check --write icon-pack *.ts",
-    "prepare": "yarn build",
-    "generate": "node ./scripts/build-icons.js"
+    "prepare": "bun run build",
+    "generate": "bun ./scripts/build-icons.js"
   },
   "keywords": [
     "sigil",
