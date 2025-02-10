@@ -34,7 +34,8 @@ const assetsFiles = [
     id: "rise.design",
     index: path.join(rootDir, "rds.ts"),
     out: ["icon-pack", "rds"],
-  }
+    keepColor: (name) => name.includes("logo"),
+  },
 ];
 
 function isNumber(str) {
@@ -49,7 +50,7 @@ function toTitleCase(str) {
     .join(" ");
 }
 
-assetsFiles.forEach(({ attr, dir, index, out, keepColor }) => {
+assetsFiles.forEach(({ attr, dir, index, out, ...rest }) => {
   glob(`${dir}/**/*.svg`, (_, icons) => {
     fs.writeFileSync(index, "", "utf-8");
     const outDir = path.join(rootDir, ...out);
@@ -62,6 +63,10 @@ assetsFiles.forEach(({ attr, dir, index, out, keepColor }) => {
       });
       const fileName = path.basename(i).replace(".svg", ".tsx");
       const location = path.join(outDir, fileName);
+      const keepColor =
+        typeof rest.keepColor === "function"
+          ? rest.keepColor(name)
+          : rest.keepColor;
 
       // Because CSS does not exist on Native platforms
       // We need to duplicate the styles applied to the
