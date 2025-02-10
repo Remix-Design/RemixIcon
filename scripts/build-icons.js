@@ -20,6 +20,16 @@ const assetsFiles = [
   },
   {
     attr: (name) => `/**
+         * Lucide Icon: ${toTitleCase(name)}
+         * @see {@link https://lucide.dev/icons/${name} Lucide Icon Docs}
+         */`,
+    dir: path.join(rootDir, "icons", "lucide"),
+    id: "lucide",
+    index: path.join(rootDir, "lucide.ts"),
+    out: ["icon-pack", "lucide"],
+  },
+  {
+    attr: (name) => `/**
                * Flags by \`Deji.Zeal\`: ${toTitleCase(name)}
                * @see {@link https://www.figma.com/community/file/1088904439772569873/alphabetical-country-flags Alphabetical Country Flags}
                */`,
