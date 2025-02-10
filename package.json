@@ -1,8 +1,8 @@
 {
   "name": "@risemaxi/sigil",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Icons and Signs for the Rise Design System",
-  "homepage": "https://remixicon.com",
+  "homepage": "https://risevest.com",
   "main": "build/index.js",
   "exports": {
     ".": {
@@ -30,12 +30,13 @@
   },
   "keywords": [
     "sigil",
-    "remixicon",
-    "remix",
+    "remix icons",
+    "lucide icons",
+    "Deji.zeal",
     "icon",
+    "drawable",
     "icon library",
-    "icon pack",
-    "Deji.zeal"
+    "icon pack"
   ],
   "files": [
     "build"
