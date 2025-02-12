@@ -5,10 +5,10 @@ import { Svg, Path } from 'react-native-svg'
 const Icon = (props: IconProps) => {
   const { color = 'black', size = 24, ...otherProps } = props
   return (
-    <Svg viewBox="0 0 16 16" fill={color} height={size} width={size} {...otherProps}>
+    <Svg viewBox="0 0 16 16" fill="none" height={size} width={size} {...otherProps}>
       <Path
         d="M4.66667 4.66666H11.3333M11.3333 4.66666V11.3333M11.3333 4.66666L4.66667 11.3333"
-        stroke="#BABABA"
+        stroke={color}
         strokeWidth="1.33333"
         strokeLinecap="round"
         strokeLinejoin="round"

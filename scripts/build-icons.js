@@ -20,12 +20,13 @@ const assetsFiles = [
   },
   {
     attr: (name) => `/**
-         * Lucide Icon: ${toTitleCase(name)}
-         * @see {@link https://lucide.dev/icons/${name} Lucide Icon Docs}
-         */`,
+    * Lucide Icon: ${toTitleCase(name)}
+    * @see {@link https://lucide.dev/icons/${name} Lucide Icon Docs}
+    */`,
     dir: path.join(rootDir, "icons", "lucide"),
     id: "lucide",
     index: path.join(rootDir, "lucide.ts"),
+    isStrokeIcon: true,
     out: ["icon-pack", "lucide"],
   },
   {
@@ -60,7 +61,7 @@ function toTitleCase(str) {
     .join(" ");
 }
 
-assetsFiles.forEach(({ attr, dir, index, out, ...rest }) => {
+assetsFiles.forEach(({ attr, dir, index, isStrokeIcon, out, ...rest }) => {
   glob(`${dir}/**/*.svg`, (_, icons) => {
     fs.writeFileSync(index, "", "utf-8");
     const outDir = path.join(rootDir, ...out);
@@ -105,7 +106,11 @@ assetsFiles.forEach(({ attr, dir, index, out, ...rest }) => {
           if (x.includes("-")) {
             $(el).attr(camelcase(x), el.attribs[x]).removeAttr(x);
           }
-          if (x === "fill" && !keepColor) {
+          if (keepColor) return;
+          if (x === "fill") {
+            $(el).attr(x, isStrokeIcon ? "none" : "currentColor");
+          }
+          if (isStrokeIcon && x === "stroke") {
             $(el).attr(x, "currentColor");
           }
         });
@@ -164,8 +169,16 @@ assetsFiles.forEach(({ attr, dir, index, out, ...rest }) => {
                       }}`;
               })
               .replace(
-                keepColor ? "" : /fill="currentColor"/g,
-                keepColor ? "" : "fill={color}"
+                keepColor
+                  ? ""
+                  : isStrokeIcon
+                  ? /stroke="currentColor"/g
+                  : /fill="currentColor"/g,
+                keepColor
+                  ? ""
+                  : isStrokeIcon
+                  ? "stroke={color}"
+                  : "fill={color}"
               )
               .replace(/width="\d+"/, "")
               .replace(/height="\d+"/, "")
