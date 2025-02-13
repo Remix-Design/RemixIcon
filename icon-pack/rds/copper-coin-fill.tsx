@@ -16,5 +16,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'CopperCoinFill'
 
-undefined
 export const CopperCoinFill = memo(Icon)

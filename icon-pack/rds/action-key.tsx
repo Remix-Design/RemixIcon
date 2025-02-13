@@ -31,5 +31,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'ActionKey'
 
-undefined
 export const ActionKey = memo(Icon)

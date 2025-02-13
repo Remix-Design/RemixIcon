@@ -31,5 +31,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'AccountBalance'
 
-undefined
 export const AccountBalance = memo(Icon)

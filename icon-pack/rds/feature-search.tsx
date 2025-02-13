@@ -31,5 +31,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'FeatureSearch'
 
-undefined
 export const FeatureSearch = memo(Icon)

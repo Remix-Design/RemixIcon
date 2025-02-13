@@ -31,5 +31,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'DataUsage'
 
-undefined
 export const DataUsage = memo(Icon)

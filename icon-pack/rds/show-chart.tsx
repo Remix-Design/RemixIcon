@@ -31,5 +31,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'ShowChart'
 
-undefined
 export const ShowChart = memo(Icon)

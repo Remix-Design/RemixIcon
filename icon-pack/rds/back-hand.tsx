@@ -31,5 +31,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'BackHand'
 
-undefined
 export const BackHand = memo(Icon)

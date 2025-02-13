@@ -228,7 +228,7 @@ assetsFiles.forEach(({ attr, dir, index, isStrokeIcon, out, ...rest }) => {
   
         Icon.displayName = '${cname}'
   
-        ${attr?.(name)}
+        ${attr?.(name) ?? ""}
         export const ${cname} = memo(Icon)
       `;
 

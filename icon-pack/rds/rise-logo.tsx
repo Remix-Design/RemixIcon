@@ -21,5 +21,4 @@ const Icon = (props: IconProps) => {
 
 Icon.displayName = 'RiseLogo'
 
-undefined
 export const RiseLogo = memo(Icon)
