@@ -16,6 +16,7 @@ export { MoneyBag } from "./icon-pack/rds/money-bag";
 export { RealEstate } from "./icon-pack/rds/real-estate";
 export { RiseFull } from "./icon-pack/rds/rise-full";
 export { RiseLogo } from "./icon-pack/rds/rise-logo";
+export { RiseR } from "./icon-pack/rds/rise-r";
 export { Settings } from "./icon-pack/rds/settings";
 export { ShowChart } from "./icon-pack/rds/show-chart";
 export { WaterDrop } from "./icon-pack/rds/water-drop";
