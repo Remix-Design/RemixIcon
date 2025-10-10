@@ -1,20 +1,20 @@
 /*
-* Remix Icon v4.6.0
+* Remix Icon v4.7.0
 * https://remixicon.com
 * https://github.com/Remix-Design/RemixIcon
 *
 * Copyright RemixIcon.com
 * Released under the Apache License Version 2.0
 *
-* Date: 2024-12-17
+* Date: 2025-10-10
 */
 @font-face {font-family: "remixicon";
-  src: url('remixicon.eot?t=1734404658139'); /* IE9*/
-  src: url('remixicon.eot?t=1734404658139#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("remixicon.woff2?t=1734404658139") format("woff2"),
-  url("remixicon.woff?t=1734404658139") format("woff"),
-  url('remixicon.ttf?t=1734404658139') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('remixicon.svg?t=1734404658139#remixicon') format('svg'); /* iOS 4.1- */
+  src: url('remixicon.eot?t=1760071648894'); /* IE9*/
+  src: url('remixicon.eot?t=1760071648894#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("remixicon.woff2?t=1760071648894") format("woff2"),
+  url("remixicon.woff?t=1760071648894") format("woff"),
+  url('remixicon.ttf?t=1760071648894') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('remixicon.svg?t=1760071648894#remixicon') format('svg'); /* iOS 4.1- */
 }
 
 [class^="ri-"], [class*=" ri-"] {
@@ -3083,6 +3083,83 @@
 .ri-no-credit-card-line:before { content: "\f5f0"; }
 .ri-service-bell-fill:before { content: "\f5f1"; }
 .ri-service-bell-line:before { content: "\f5f2"; }
+.ri-ai-agent-fill:before { content: "\f5f3"; }
+.ri-ai-agent-line:before { content: "\f5f4"; }
+.ri-ai-generate-2-fill:before { content: "\f5f5"; }
+.ri-ai-generate-2-line:before { content: "\f5f6"; }
+.ri-ai-generate-3d-fill:before { content: "\f5f7"; }
+.ri-ai-generate-3d-line:before { content: "\f5f8"; }
+.ri-ai:before { content: "\f5f9"; }
+.ri-apps-ai-fill:before { content: "\f5fa"; }
+.ri-apps-ai-line:before { content: "\f5fb"; }
+.ri-atom-fill:before { content: "\f5fc"; }
+.ri-atom-line:before { content: "\f5fd"; }
+.ri-book-ai-fill:before { content: "\f5fe"; }
+.ri-book-ai-line:before { content: "\f5ff"; }
+.ri-brain-3-fill:before { content: "\f600"; }
+.ri-brain-3-line:before { content: "\f601"; }
+.ri-brain-ai-3-fill:before { content: "\f602"; }
+.ri-brain-ai-3-line:before { content: "\f603"; }
+.ri-brush-ai-3-fill:before { content: "\f604"; }
+.ri-brush-ai-3-line:before { content: "\f605"; }
+.ri-camera-4-fill:before { content: "\f606"; }
+.ri-camera-4-line:before { content: "\f607"; }
+.ri-camera-ai-2-fill:before { content: "\f608"; }
+.ri-camera-ai-2-line:before { content: "\f609"; }
+.ri-chat-ai-2-fill:before { content: "\f60a"; }
+.ri-chat-ai-2-line:before { content: "\f60b"; }
+.ri-chat-ai-3-fill:before { content: "\f60c"; }
+.ri-chat-ai-3-line:before { content: "\f60d"; }
+.ri-chat-ai-4-fill:before { content: "\f60e"; }
+.ri-chat-ai-4-line:before { content: "\f60f"; }
+.ri-chat-smile-ai-3-fill:before { content: "\f610"; }
+.ri-chat-smile-ai-3-line:before { content: "\f611"; }
+.ri-deepseek-fill:before { content: "\f612"; }
+.ri-deepseek-line:before { content: "\f613"; }
+.ri-file-ai-2-fill:before { content: "\f614"; }
+.ri-file-ai-2-line:before { content: "\f615"; }
+.ri-file-ai-fill:before { content: "\f616"; }
+.ri-file-ai-line:before { content: "\f617"; }
+.ri-function-ai-fill:before { content: "\f618"; }
+.ri-function-ai-line:before { content: "\f619"; }
+.ri-game-2-fill:before { content: "\f61a"; }
+.ri-game-2-line:before { content: "\f61b"; }
+.ri-goblet-broken-fill:before { content: "\f61c"; }
+.ri-goblet-broken-line:before { content: "\f61d"; }
+.ri-lightbulb-ai-fill:before { content: "\f61e"; }
+.ri-lightbulb-ai-line:before { content: "\f61f"; }
+.ri-loop-left-ai-fill:before { content: "\f620"; }
+.ri-loop-left-ai-line:before { content: "\f621"; }
+.ri-loop-right-ai-fill:before { content: "\f622"; }
+.ri-loop-right-ai-line:before { content: "\f623"; }
+.ri-message-ai-3-fill:before { content: "\f624"; }
+.ri-message-ai-3-line:before { content: "\f625"; }
+.ri-painting-ai-fill:before { content: "\f626"; }
+.ri-painting-ai-line:before { content: "\f627"; }
+.ri-painting-fill:before { content: "\f628"; }
+.ri-painting-line:before { content: "\f629"; }
+.ri-pencil-ai-2-fill:before { content: "\f62a"; }
+.ri-pencil-ai-2-line:before { content: "\f62b"; }
+.ri-pencil-ai-fill:before { content: "\f62c"; }
+.ri-pencil-ai-line:before { content: "\f62d"; }
+.ri-remix-fill:before { content: "\f62e"; }
+.ri-remix-line:before { content: "\f62f"; }
+.ri-search-ai-2-fill:before { content: "\f630"; }
+.ri-search-ai-2-line:before { content: "\f631"; }
+.ri-search-ai-3-fill:before { content: "\f632"; }
+.ri-search-ai-3-line:before { content: "\f633"; }
+.ri-search-ai-4-fill:before { content: "\f634"; }
+.ri-search-ai-4-line:before { content: "\f635"; }
+.ri-search-ai-fill:before { content: "\f636"; }
+.ri-search-ai-line:before { content: "\f637"; }
+.ri-speech-to-text-fill:before { content: "\f638"; }
+.ri-speech-to-text-line:before { content: "\f639"; }
+.ri-target-fill:before { content: "\f63a"; }
+.ri-target-line:before { content: "\f63b"; }
+.ri-text-to-speech-fill:before { content: "\f63c"; }
+.ri-text-to-speech-line:before { content: "\f63d"; }
+.ri-wrench-fill:before { content: "\f63e"; }
+.ri-wrench-line:before { content: "\f63f"; }
 
 $ri-24-hours-fill: "\ea01";
 $ri-24-hours-line: "\ea02";
@@ -6142,4 +6219,81 @@ $ri-no-credit-card-fill: "\f5ef";
 $ri-no-credit-card-line: "\f5f0";
 $ri-service-bell-fill: "\f5f1";
 $ri-service-bell-line: "\f5f2";
+$ri-ai-agent-fill: "\f5f3";
+$ri-ai-agent-line: "\f5f4";
+$ri-ai-generate-2-fill: "\f5f5";
+$ri-ai-generate-2-line: "\f5f6";
+$ri-ai-generate-3d-fill: "\f5f7";
+$ri-ai-generate-3d-line: "\f5f8";
+$ri-ai: "\f5f9";
+$ri-apps-ai-fill: "\f5fa";
+$ri-apps-ai-line: "\f5fb";
+$ri-atom-fill: "\f5fc";
+$ri-atom-line: "\f5fd";
+$ri-book-ai-fill: "\f5fe";
+$ri-book-ai-line: "\f5ff";
+$ri-brain-3-fill: "\f600";
+$ri-brain-3-line: "\f601";
+$ri-brain-ai-3-fill: "\f602";
+$ri-brain-ai-3-line: "\f603";
+$ri-brush-ai-3-fill: "\f604";
+$ri-brush-ai-3-line: "\f605";
+$ri-camera-4-fill: "\f606";
+$ri-camera-4-line: "\f607";
+$ri-camera-ai-2-fill: "\f608";
+$ri-camera-ai-2-line: "\f609";
+$ri-chat-ai-2-fill: "\f60a";
+$ri-chat-ai-2-line: "\f60b";
+$ri-chat-ai-3-fill: "\f60c";
+$ri-chat-ai-3-line: "\f60d";
+$ri-chat-ai-4-fill: "\f60e";
+$ri-chat-ai-4-line: "\f60f";
+$ri-chat-smile-ai-3-fill: "\f610";
+$ri-chat-smile-ai-3-line: "\f611";
+$ri-deepseek-fill: "\f612";
+$ri-deepseek-line: "\f613";
+$ri-file-ai-2-fill: "\f614";
+$ri-file-ai-2-line: "\f615";
+$ri-file-ai-fill: "\f616";
+$ri-file-ai-line: "\f617";
+$ri-function-ai-fill: "\f618";
+$ri-function-ai-line: "\f619";
+$ri-game-2-fill: "\f61a";
+$ri-game-2-line: "\f61b";
+$ri-goblet-broken-fill: "\f61c";
+$ri-goblet-broken-line: "\f61d";
+$ri-lightbulb-ai-fill: "\f61e";
+$ri-lightbulb-ai-line: "\f61f";
+$ri-loop-left-ai-fill: "\f620";
+$ri-loop-left-ai-line: "\f621";
+$ri-loop-right-ai-fill: "\f622";
+$ri-loop-right-ai-line: "\f623";
+$ri-message-ai-3-fill: "\f624";
+$ri-message-ai-3-line: "\f625";
+$ri-painting-ai-fill: "\f626";
+$ri-painting-ai-line: "\f627";
+$ri-painting-fill: "\f628";
+$ri-painting-line: "\f629";
+$ri-pencil-ai-2-fill: "\f62a";
+$ri-pencil-ai-2-line: "\f62b";
+$ri-pencil-ai-fill: "\f62c";
+$ri-pencil-ai-line: "\f62d";
+$ri-remix-fill: "\f62e";
+$ri-remix-line: "\f62f";
+$ri-search-ai-2-fill: "\f630";
+$ri-search-ai-2-line: "\f631";
+$ri-search-ai-3-fill: "\f632";
+$ri-search-ai-3-line: "\f633";
+$ri-search-ai-4-fill: "\f634";
+$ri-search-ai-4-line: "\f635";
+$ri-search-ai-fill: "\f636";
+$ri-search-ai-line: "\f637";
+$ri-speech-to-text-fill: "\f638";
+$ri-speech-to-text-line: "\f639";
+$ri-target-fill: "\f63a";
+$ri-target-line: "\f63b";
+$ri-text-to-speech-fill: "\f63c";
+$ri-text-to-speech-line: "\f63d";
+$ri-wrench-fill: "\f63e";
+$ri-wrench-line: "\f63f";
 
