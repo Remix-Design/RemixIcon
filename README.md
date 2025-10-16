@@ -14,6 +14,8 @@ Remix Icon is a set of open-source neutral-style system symbols for designers an
 [![icon demo](./.github/files/preview.svg)](https://remixicon.com)
 View the full set of Remix Icons at [remixicon.com](https://remixicon.com).
 
+
+
 ## Usage
 
 ### Basic Usage
@@ -192,9 +194,21 @@ If there is no suitable icon for your usage scenario, you can create an [issue](
 
 We use [`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json) file to manage the search keywords of our [website](https://remixicon.com). But at the moment, we don't have a good automatic method to complete the keywords for each icon. So we hope you can help us to improve the `tags.json` file by creating [issues](https://github.com/Remix-Design/remixicon/issues), sending emails, or "pull request" of tags.json file to make the search engine better. Especially when one of our icons matches your scene but you don't find the icon with your keywords.
 
-## Sub-projects
 
-[RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) PowerPoint and Keynote version of Remix Icon.
+
+## Sub-Projects
+
+#### RemixIcon-MCP
+Allows you to quickly describe your needs in natural language within your IDE or AI-assisted environment. AI automatically selects the most suitable icons for your current functionality through the MCP (Model Context Protocol) server, eliminating the need for manual searching.
+[RemixIcon-MCP](https://github.com/Remix-Design/RemixIcon-MCP)
+
+#### RemixIcon-Figma-Plugin
+You can quickly access RemixIcon through the plugin in Figma, just as convenient as using the official website.
+[Official Plugin Link](https://www.figma.com/community/plugin/1089569154784319246/remixicon)
+
+#### RemixIcon-Slides
+PowerPoint and Keynote versions of Remix Icon, allowing direct style editing within PPT or Keynote.
+[RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides)
 
 ## License
 
@@ -212,4 +226,4 @@ RemixDesign: https://x.com/RemixDesignHQ
 
 Designer: https://x.com/remixdesigner
 
-Developer: https://twitter.com/wendygaoyuan
+Developer: https://x.com/wendygaoyuan

@@ -14,6 +14,8 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 [![icon demo](./.github/files/preview.svg)](https://remixicon.com)
 前往官网查看整套图标库 [remixicon.com](https://remixicon.com).
 
+
+
 ## 使用说明
 
 ### 基本用法
@@ -175,35 +177,51 @@ import { RiHeartFill } from "@remixicon/vue";
 </template>
 ```
 
-### Figma
 
-[官方插件](https://www.figma.com/community/plugin/1089569154784319246/remixicon)
 
 ## 协作共建
 
 > **Note:** 为了保证每一枚图标的质量，现阶段我们还不接受第三方小伙伴绘制的图标。如果您想要向 Remix Icon 贡献自己设计的图标，请创建一个[issue](https://github.com/Remix-Design/remixicon/issues)来提交自己的图标设计，并在 issue 详情中附上自己图标的下载地址，我们会按照 Remix Icon 图标风格规范进行审核，通过后将会添加到图标库中，并在更新日志中署上作者的 ID。如果你对 GitHub 不是很熟悉，不清除 issue 和 pull request 是什么，也可以直接给我们发邮件 `jimmy@remixdesign.cn`，内容表述清楚即可。
 
-### 图标申请
+#### 图标申请
 
 如果图标库中缺少某个适合您业务场景的图标，您可以通过创建[issue](https://github.com/Remix-Design/remixicon/issues)的方式进行申请，issue 标题格式为：“Icon request: <图标名称>”，并完善 issue 模板中的相应信息。感谢您提出图标申请，这也是帮助我们完善图标库的一种协作共建方式。
 
 > RemixIcon 主要聚焦于用户界面类的图标，如果 RemixIcon 没有包含您需要的 logo 类的图标，推荐使用 [Simple Icons](https://github.com/simple-icons/simple-icons)，这是一个优秀的 logo 类图标合集。如果您需要的 logo 经常在 UI 端展示，比如社交媒体类图标，也可以发出申请。
 
-### 图标搜索关键词
+#### 图标搜索关键词
 
 目前我们的[图标官网](https://remixicon.com)是通过[`tags.json`](https://github.com/Remix-Design/remixicon/blob/master/tags.json)文件来管理搜索关键词的，目前我们已经为所有图标添加了中文关键词，因此我们可以通过中文对图标进行搜索和定位；但是由于关键词不是很健全，所以用户还是经常无法通过某个特定关键词搜索到已有图标。而目前我们还没有一个很好的自动化策略来穷举每一个图标的关键词，只能通过人肉添加的方式来进行完善，希望用户可以通过提[issue](https://github.com/Remix-Design/remixicon/issues) 或者 pull request 的方式来帮我们一块完善维护 `tags.json`，让搜索功能变得更加好用。
 
+
+
 ## 相关项目
 
-[RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) Remix Icon 的 PPT 版本和 Keynote 版本。
+#### RemixIcon-MCP
+允许你在 IDE 或 AI 辅助环境中通过自然语言描述快速需求，AI 通过 MCP（Model Context Protocol）服务器帮你自动选择最适合你当前功能的图标，无需手动翻找。
+[RemixIcon-MCP](https://github.com/Remix-Design/RemixIcon-MCP)
+
+#### RemixIcon-Figma-Plugin
+你可以在 Figma 中通过插件来快速获取 RemixIcon，和官网一样好用。
+[官方插件地址](https://www.figma.com/community/plugin/1089569154784319246/remixicon)
+
+#### RemixIcon-Slides
+Remix Icon 的 PPT 版本和 Keynote 版本，可在 PPT 或 Keynote 中直接编辑样式。
+[RemixIcon-Slides](https://github.com/Remix-Design/RemixIcon-Slides) 
+
+
 
 ## 协议许可
 
 Remix Icon 是基于 [Apache License Version 2.0](https://github.com/Remix-Design/remixicon/blob/master/License) 开源协议的。请放心使用和分享本图标库，您可以查看协议详情来了解详细的开源策略。如果您能在您的产品介绍中署名 Remix Icon，我们将会非常感激，但这并不是必须的。唯一需要注意的是，您不能二次销售本图标库中的图标，否则我们会进行追究。
 
+
+
 ## 支持我们
 
-很简单，只需要点一下 GitHub 本项目右上角的小星星就可以了！精神鼓励就是支持我们持续维护本项目的最大动力。请我们喝杯咖啡当然也没问题哈哈~
+很简单，只需要点一下 GitHub 本项目右上角的小星星就可以了！精神鼓励就是支持我们持续维护本项目的最大动力。请我们喝杯咖啡当然也没问题哈哈（我们也确实挺缺钱的）~
+
+
 
 ## 关注我们
 
