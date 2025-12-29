@@ -58,12 +58,12 @@ Copy the following code and add it to the &lt;head&gt; tag of your HTML document
 
 ```html
 <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css"
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.8.0/fonts/remixicon.css"
     rel="stylesheet"
 />
 ```
 
-> The `@4.7.0` in the CDN link can be changed to any history version we've published.
+> The `@4.8.0` in the CDN link can be changed to any history version we've published.
 
 #### Download Manually
 

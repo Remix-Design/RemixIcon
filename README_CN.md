@@ -59,12 +59,12 @@ import 'remixicon/fonts/remixicon.css'
 
 ```html
 <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css"
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.8.0/fonts/remixicon.css"
     rel="stylesheet"
 />
 ```
 
-> 上面 CDN 链接中的 `@4.7.0` 可以更改为任何我们曾经发布过的历史版本号。
+> 上面 CDN 链接中的 `@4.8.0` 可以更改为任何我们曾经发布过的历史版本号。
 
 #### 手动下载引入
 
