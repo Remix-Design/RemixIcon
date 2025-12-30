@@ -12,7 +12,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
@@ -22,7 +22,7 @@ jobs:
       - name: Use Node
         uses: actions/setup-node@v4
         with:
-            node-version: '16'
+            node-version: '24'
             registry-url: 'https://registry.npmjs.org'
       - name: Publish
         run: npm publish
