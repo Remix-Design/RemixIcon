@@ -5,6 +5,10 @@ on:
     types: [published]
   workflow_dispatch:
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   build:
 
@@ -21,8 +25,4 @@ jobs:
             node-version: '16.x'
       - name: Publish
         run: |
-          npm config set //registry.npmjs.org/:_authToken=$NODE_AUTH_TOKEN
           npm publish
-        env:
-          CI: true
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
